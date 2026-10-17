@@ -1,0 +1,5 @@
+{
+  "schema_version": 1,
+  "instructions": "Newly researched events belong here until an editor confirms the official source, date, time, location, and audience access. Move approved events to events.json and set status to published.",
+  "events": []
+}
