@@ -1,5 +1,34 @@
 {
   "schema_version": 1,
   "instructions": "Newly researched events belong here until an editor confirms the official source, date, time, location, and audience access. Move approved events to events.json and set status to published.",
-  "events": []
+  "events": [
+    {
+      "id": "leland-planning-board-2026-10-26",
+      "title": "Town of Leland Planning Board",
+      "category": "Public meeting",
+      "start": "2026-10-26T18:00:00-04:00",
+      "end": null,
+      "venue": "Check the official meeting agenda for location and details.",
+      "description": "",
+      "source_url": "https://townofleland.civicweb.net/Portal/MeetingSchedule.aspx",
+      "source_name": "Official Town meeting schedule and agendas",
+      "status": "pending",
+      "checked_at": "2026-10-17",
+      "editor_note": "Could not independently confirm this exact meeting in the official calendar during the latest check; verify the posted agenda before publication."
+    },
+    {
+      "id": "leland-joint-meeting-pros-2026-10-29-1800",
+      "title": "Town Council and Parks & Recreation Board Joint Special Meeting — PROS Plan",
+      "category": "Public meeting",
+      "start": "2026-10-29T18:00:00-04:00",
+      "end": null,
+      "venue": "Check the official agenda for meeting location and public comment details.",
+      "description": "",
+      "source_url": "https://townofleland.civicweb.net/Portal/MeetingSchedule.aspx",
+      "source_name": "Official Town meeting schedule and agendas",
+      "status": "pending",
+      "checked_at": "2026-10-17",
+      "editor_note": "Could not independently confirm this exact meeting in the official calendar during the latest check; verify the posted agenda before publication."
+    }
+  ]
 }
