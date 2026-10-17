@@ -1,0 +1,51 @@
+name: Validate calendar data
+
+on:
+  pull_request:
+    paths:
+      - "data/**"
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Validate JSON and required fields
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          published = json.loads(Path("data/events.json").read_text(encoding="utf-8"))
+          review = json.loads(Path("data/review-queue.json").read_text(encoding="utf-8"))
+
+          for label, payload in (("published events", published), ("review queue", review)):
+              if payload.get("schema_version") != 1:
+                  raise SystemExit(f"{label}: schema_version must be 1")
+              if not isinstance(payload.get("events"), list):
+                  raise SystemExit(f"{label}: events must be a list")
+
+          required = ("id", "title", "category", "start", "venue", "source_url", "source_name", "status", "checked_at")
+          seen = set()
+          for filename, payload, expected_status in (
+              ("data/events.json", published, "published"),
+              ("data/review-queue.json", review, "pending"),
+          ):
+              for event in payload["events"]:
+                  missing = [key for key in required if not event.get(key)]
+                  if missing:
+                      raise SystemExit(f"{filename}: event missing required fields: {', '.join(missing)}")
+                  if event["id"] in seen:
+                      raise SystemExit(f"Duplicate event id: {event['id']}")
+                  seen.add(event["id"])
+                  if event["status"] != expected_status:
+                      raise SystemExit(f"{filename}: {event['id']} must have status={expected_status}")
+                  if not event["source_url"].startswith("https://"):
+                      raise SystemExit(f"{filename}: {event['id']} needs an HTTPS source_url")
+          print("Calendar JSON is valid.")
+          PY
