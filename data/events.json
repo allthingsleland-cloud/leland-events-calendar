@@ -31,6 +31,20 @@
       "editor_note": "Migrated from existing public page; reconfirm current listing."
     },
     {
+      "id": "brunswick-elections-2026-10-20",
+      "title": "Brunswick County Board of Elections — Regular and Absentee Meeting",
+      "category": "Elections",
+      "start": "2026-10-20T16:00:00-04:00",
+      "end": "2026-10-20T17:00:00-04:00",
+      "venue": "Commissioners’ Chambers, Brunswick County Government Center, Bolivia",
+      "description": "Existing page says the public may attend in person or via livestream; verify access and election deadlines with the Board of Elections.",
+      "source_url": "https://brunswickcountync.gov/",
+      "source_name": "Brunswick County official website and meeting calendar",
+      "status": "published",
+      "checked_at": "2026-10-17",
+      "editor_note": "Migrated from existing public page; reconfirm meeting and election information."
+    },
+    {
       "id": "flu-clinic-bolivia-2026-10-21",
       "title": "Pop-Up Flu Vaccine Clinic — Bolivia",
       "category": "Health services",
@@ -73,18 +87,18 @@
       "editor_note": "Migrated from existing public page; reconfirm start time and activities."
     },
     {
-      "id": "brunswick-elections-2026-10-20",
-      "title": "Brunswick County Board of Elections — Regular and Absentee Meeting",
-      "category": "Elections",
-      "start": "2026-10-20T16:00:00-04:00",
-      "end": "2026-10-20T17:00:00-04:00",
-      "venue": "Commissioners’ Chambers, Brunswick County Government Center, Bolivia",
-      "description": "Existing page says the public may attend in person or via livestream; verify access and election deadlines with the Board of Elections.",
-      "source_url": "https://brunswickcountync.gov/",
-      "source_name": "Brunswick County official website and meeting calendar",
+      "id": "leland-planning-board-2026-10-26",
+      "title": "Town of Leland Planning Board",
+      "category": "Public meeting",
+      "start": "2026-10-26T18:00:00-04:00",
+      "end": null,
+      "venue": "Check the official meeting agenda for location and details.",
+      "description": "",
+      "source_url": "https://townofleland.civicweb.net/Portal/MeetingSchedule.aspx",
+      "source_name": "Official Town meeting schedule and agendas",
       "status": "published",
       "checked_at": "2026-10-17",
-      "editor_note": "Migrated from existing public page; reconfirm meeting and election information."
+      "editor_note": "Approved by editor on 2026-10-17. Meeting details should be checked against the official agenda before attendance."
     },
     {
       "id": "brunswick-elections-absentee-2026-10-27",
@@ -141,6 +155,20 @@
       "status": "published",
       "checked_at": "2026-10-17",
       "editor_note": "Migrated from existing public page; reconfirm current listing."
+    },
+    {
+      "id": "leland-joint-meeting-pros-2026-10-29-1800",
+      "title": "Town Council and Parks & Recreation Board Joint Special Meeting — PROS Plan",
+      "category": "Public meeting",
+      "start": "2026-10-29T18:00:00-04:00",
+      "end": null,
+      "venue": "Check the official agenda for meeting location and public comment details.",
+      "description": "",
+      "source_url": "https://townofleland.civicweb.net/Portal/MeetingSchedule.aspx",
+      "source_name": "Official Town meeting schedule and agendas",
+      "status": "published",
+      "checked_at": "2026-10-17",
+      "editor_note": "Approved by editor on 2026-10-17. Meeting details should be checked against the official agenda before attendance."
     },
     {
       "id": "leland-joint-meeting-loblolly-2026-10-29-1930",
