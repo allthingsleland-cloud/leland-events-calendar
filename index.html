@@ -8,7 +8,7 @@
 <style>
 :root{color-scheme:light;--ink:#173f4c;--teal:#245d68;--gold:#b77b38;--paper:#f6f8f5;--line:#d7e2de}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:#24343a;font:17px/1.6 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
-header{background:linear-gradient(180deg,#dcecf3 0%,#f7f8f5 100%)}header img{display:block;width:100%;height:auto;max-height:430px;object-fit:cover;background:#dcece8}
+header{background:linear-gradient(180deg,#dcecf3 0%,#f7f8f5 100%)}header img{display:block;width:100%;height:auto;max-height:none;object-fit:contain;background:#dcece8}
 main{max-width:1000px;margin:0 auto;padding:28px 20px 64px}
 h1{font-family:Georgia,serif;color:var(--ink);font-size:clamp(2rem,4vw,3rem);line-height:1.15;margin:.2rem 0 .6rem}
 h2{font-size:1.35rem;color:var(--ink);margin:2rem 0 .7rem}
@@ -21,11 +21,11 @@ h2{font-size:1.35rem;color:var(--ink);margin:2rem 0 .7rem}
 a{color:#155f75;text-underline-offset:3px}a:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
 footer{border-top:1px solid var(--line);margin-top:40px;padding-top:20px;font-size:.9rem;color:#58676a}
 @media(max-width:700px){.category-strip{grid-template-columns:repeat(2,minmax(0,1fr))}.category:last-child{grid-column:1/-1}}@media(max-width:600px){main{padding:20px 14px 40px}.event{padding:15px}}
-@media print{body{background:white;font-size:12pt}main{max-width:none;padding:0}.event,.notice{break-inside:avoid}a{color:inherit;text-decoration:none}header img{max-height:210px}}
+@media print{body{background:white;font-size:12pt}main{max-width:none;padding:0}.event,.notice{break-inside:avoid}a{color:inherit;text-decoration:none}header img{max-height:none}}
 </style>
 </head>
 <body>
-<header><img src="banner.svg" alt="All Things Leland — Community Events Calendar. Your guide to what’s happening in and around Leland."></header>
+<header><img src="images/Leland%20Community%20Events%20Calendar.jpg" alt="All Things Leland Community Events Calendar banner"></header>
 <main>
 <h1>Community Events Calendar</h1>
 <p class="intro"><strong>Your guide to what’s happening in and around Leland.</strong><br>Public meetings, school events, community gatherings, development updates and more.</p><div class="category-strip" aria-label="Calendar categories"><div class="category"><div class="category-icon">▤</div><strong>Government Meetings</strong><small>Town, County and Planning Boards</small></div><div class="category"><div class="category-icon">▤</div><strong>Schools &amp; Education</strong><small>School Board Meetings, Events and Programs</small></div><div class="category"><div class="category-icon">♧</div><strong>Community Events</strong><small>Festivals, Library Programs, Nonprofits and More</small></div><div class="category"><div class="category-icon">⇢</div><strong>Development &amp; Transportation</strong><small>Public Hearings and Regional Updates</small></div><div class="category"><div class="category-icon">▦</div><strong>14-Day Calendar</strong><small>Dates, Locations and Official Links</small></div></div>
