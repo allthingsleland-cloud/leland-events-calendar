@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-17",
+  "last_checked": "2026-10-18",
   "events": [
     {
       "id": "brunswick-commissioners-2026-10-19",
@@ -169,6 +169,62 @@
       "status": "published",
       "checked_at": "2026-10-17",
       "editor_note": "Migrated from existing public page; reconfirm current listing."
+    },
+    {
+      "id": "brunswick-agricultural-fair-2026",
+      "title": "Brunswick County Agricultural Fair & Expo",
+      "category": "Community event",
+      "start": "2026-10-21T16:00:00-04:00",
+      "end": null,
+      "venue": "Stump Hill Farms, 2030 Ash Little River Road NW, Ash, NC 28420",
+      "description": "October 21–25. Fair hours: Wednesday–Friday, 4–11 p.m.; Saturday, 11 a.m.–11 p.m.; Sunday, 11 a.m.–6 p.m. Features agricultural shows, animal exhibits, live entertainment, food, carnival rides and games. General admission listed as $7 cash or $8 card; check the official site for updates.",
+      "source_url": "https://brunswickfair.com/",
+      "source_name": "Official Brunswick County Agricultural Fair website",
+      "status": "published",
+      "checked_at": "2026-10-18",
+      "editor_note": "Added from the event host’s official website; multi-day event, hours vary by date."
+    },
+    {
+      "id": "district-31-haunted-trail-2026",
+      "title": "District 31 Haunted Trail",
+      "category": "Community event",
+      "start": "2026-10-23T19:00:00-04:00",
+      "end": null,
+      "venue": "Grissettown–Longwood Fire Department, Ocean Isle Beach area; confirm exact address and nightly hours with the event organizer.",
+      "description": "Seasonal haunted trail operating Friday and Saturday evenings in October, including Halloween. Check the event organizer’s current listing before travelling for hours, admission and access details.",
+      "source_url": "https://www.ncbrunswick.com/events/",
+      "source_name": "NC’s Brunswick Islands events calendar",
+      "status": "published",
+      "checked_at": "2026-10-18",
+      "editor_note": "Added from the tourism events calendar and its current seasonal listing; exact venue and hours should be reconfirmed."
+    },
+    {
+      "id": "great-pumpkin-blowout-2026-11-07",
+      "title": "The Great Pumpkin Blowout",
+      "category": "Community event",
+      "start": "2026-11-07T11:00:00-05:00",
+      "end": "2026-11-07T16:00:00-05:00",
+      "venue": "Brunswick Town/Fort Anderson State Historic Site, 8884 St. Philip’s Road SE, Winnabow, NC 28479",
+      "description": "Family event at the state historic site. The official listing notes a cost of $10 per pumpkin.",
+      "source_url": "https://events.dncr.nc.gov/brunswick-townfort-anderson",
+      "source_name": "NC Department of Natural and Cultural Resources — Brunswick Town/Fort Anderson",
+      "status": "published",
+      "checked_at": "2026-10-18",
+      "editor_note": "Confirmed on the official NC DNCR site."
+    },
+    {
+      "id": "brunswick-town-18th-century-christmas-2026-12-13",
+      "title": "An 18th Century Christmas",
+      "category": "History & culture",
+      "start": "2026-12-13T13:00:00-05:00",
+      "end": "2026-12-13T17:30:00-05:00",
+      "venue": "Brunswick Town/Fort Anderson State Historic Site, 8884 St. Philip’s Road SE, Winnabow, NC 28479",
+      "description": "Seasonal program at the state historic site. The official listing notes a $5 admission cost.",
+      "source_url": "https://events.dncr.nc.gov/brunswick-townfort-anderson",
+      "source_name": "NC Department of Natural and Cultural Resources — Brunswick Town/Fort Anderson",
+      "status": "published",
+      "checked_at": "2026-10-18",
+      "editor_note": "Confirmed on the official NC DNCR site."
     }
   ]
 }
