@@ -73,10 +73,10 @@
       "editor_note": "Migrated from existing public page; reconfirm start time and activities."
     },
     {
-      "id": "leland-planning-board-2026-10-26",
+      "id": "leland-planning-board-2026-10-27",
       "title": "Town of Leland Planning Board",
       "category": "Public meeting",
-      "start": "2026-10-26T18:00:00-04:00",
+      "start": "2026-10-27T18:00:00-04:00",
       "end": null,
       "venue": "Check the official meeting agenda for location and details.",
       "description": "",
@@ -84,7 +84,7 @@
       "source_name": "Official Town meeting schedule and agendas",
       "status": "published",
       "checked_at": "2026-10-17",
-      "editor_note": "Approved by editor on 2026-10-17. Meeting details should be checked against the official agenda before attendance."
+      "editor_note": "Corrected by editor on 2026-10-17: meeting is Tuesday, October 27, 2026. Check the official agenda for location and details before attendance."
     },
     {
       "id": "brunswick-elections-absentee-2026-10-27",
