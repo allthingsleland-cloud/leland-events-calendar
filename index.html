@@ -11,7 +11,7 @@
 header{background:linear-gradient(180deg,#dcecf3 0%,#f7f8f5 100%)}header img{display:block;width:100%;height:auto;max-height:none;object-fit:contain;background:#dcece8}
 main{max-width:1000px;margin:0 auto;padding:28px 20px 64px}
 h1{font-family:Georgia,serif;color:var(--ink);font-size:clamp(2rem,4vw,3rem);line-height:1.15;margin:.2rem 0 .6rem}
-h2{font-size:1.35rem;color:var(--ink);margin:2rem 0 .7rem}
+h2{font-size:1.35rem;color:var(--ink);margin:2rem 0 .7rem}.event-category-heading{margin:1.8rem 0 .4rem;padding-bottom:6px;border-bottom:2px solid var(--line)}
 .intro{font-size:1.08rem;max-width:760px}.updated{font-size:.9rem;color:#58676a}.category-strip{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;margin:26px 0 30px}.category{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 10px;text-align:center;box-shadow:0 2px 8px #173f4c0b}.category-icon{display:flex;align-items:center;justify-content:center;width:58px;height:58px;border-radius:50%;margin:0 auto 10px;background:#174d70;color:#fff;font-size:27px}.category:nth-child(2) .category-icon{background:#28623f}.category:nth-child(3) .category-icon{background:#df710b}.category:nth-child(4) .category-icon{background:#08718a}.category:nth-child(5) .category-icon{background:#4d3288}.category strong{display:block;color:var(--ink);line-height:1.2}.category small{display:block;font-size:.82rem;line-height:1.35;margin-top:6px;color:#46585d}
 .notice{background:#fff;border:1px solid var(--line);border-left:5px solid var(--gold);padding:16px 20px;border-radius:8px;margin:24px 0}
 .event{background:#fff;border:1px solid var(--line);border-radius:10px;padding:18px 20px;margin:12px 0}
@@ -110,7 +110,44 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:20px;font-si
       const today = new Date();
       const upcoming = events.filter(event => new Date(event.start).getTime() >= today.getTime() - 12*60*60*1000);
       const visible = upcoming.length ? upcoming : events;
-      visible.forEach(event => target.appendChild(renderEvent(event).card));
+
+      // Display categories in editorial priority order, with Community Events first.
+      // Events within each category remain in chronological order.
+      const categoryOrder = [
+        'Community event',
+        'History & culture',
+        'Health services',
+        'Public meeting',
+        'Public input',
+        'County government',
+        'Elections'
+      ];
+      const categoryLabels = {
+        'Community event': 'Community Events',
+        'History & culture': 'History & Culture',
+        'Health services': 'Health Services',
+        'Public meeting': 'Public Meetings',
+        'Public input': 'Public Input & Hearings',
+        'County government': 'County Government',
+        'Elections': 'Elections'
+      };
+      const grouped = new Map();
+      visible.forEach(event => {
+        const category = event.category || 'Community event';
+        if (!grouped.has(category)) grouped.set(category, []);
+        grouped.get(category).push(event);
+      });
+      const orderedCategories = [...grouped.keys()].sort((a, b) => {
+        const ai = categoryOrder.indexOf(a);
+        const bi = categoryOrder.indexOf(b);
+        return (ai < 0 ? 999 : ai) - (bi < 0 ? 999 : bi) || a.localeCompare(b);
+      });
+      orderedCategories.forEach(category => {
+        target.appendChild(make('h2', 'event-category-heading', categoryLabels[category] || category));
+        grouped.get(category)
+          .sort((a, b) => new Date(a.start) - new Date(b.start))
+          .forEach(event => target.appendChild(renderEvent(event).card));
+      });
     })
     .catch(() => {
       target.replaceChildren(make('p', 'notice', 'The event list could not be loaded. Please use the official calendars below for current listings.'));
