@@ -19,6 +19,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
       - name: Remove events that have ended
+        id: cleanup
         run: |
           node <<'NODE'
           const fs = require('fs');
@@ -33,6 +34,7 @@ jobs:
             return !Number.isFinite(expiry) || expiry >= now;
           });
           const removed = before - payload.events.length;
+          fs.appendFileSync(process.env.GITHUB_OUTPUT, `removed=${removed}\n`);
           if (removed === 0) {
             console.log('No expired events to remove.');
             process.exit(0);
@@ -43,7 +45,6 @@ jobs:
           }).format(new Date());
           payload.last_checked = payload.last_checked || localDate;
           fs.writeFileSync(path, JSON.stringify(payload, null, 2) + '\n');
-          fs.appendFileSync(process.env.GITHUB_OUTPUT, `removed=${removed}\n`);
           console.log(`Removed ${removed} expired event(s).`);
           NODE
       - name: Commit expired-event cleanup
