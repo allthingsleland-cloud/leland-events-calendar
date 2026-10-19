@@ -107,9 +107,12 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:20px;font-si
         target.appendChild(make('p', 'notice', 'No approved upcoming events are currently listed. Check the official calendars below.'));
         return;
       }
-      const today = new Date();
-      const upcoming = events.filter(event => new Date(event.start).getTime() >= today.getTime() - 12*60*60*1000);
-      const visible = upcoming.length ? upcoming : events;
+      // Expired listings are never displayed, even if a cleanup run has not yet committed their removal.
+      const now = Date.now();
+      const visible = events.filter(event => {
+        const expiry = event.end ? new Date(event.end).getTime() : new Date(event.start).getTime();
+        return expiry >= now;
+      });
 
       // Display categories in editorial priority order, with Community Events first.
       // Events within each category remain in chronological order.
