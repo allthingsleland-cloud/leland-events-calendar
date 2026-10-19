@@ -29,7 +29,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:20px;font-si
 <main>
 <h1>Community Events Calendar</h1>
 <p class="intro"><strong>Your guide to what’s happening in and around Leland.</strong><br>Public meetings, school events, community gatherings, development updates and more.</p><div class="category-strip" aria-label="Calendar categories"><div class="category"><div class="category-icon">▤</div><strong>Government Meetings</strong><small>Town, County and Planning Boards</small></div><div class="category"><div class="category-icon">▤</div><strong>Schools &amp; Education</strong><small>School Board Meetings, Events and Programs</small></div><div class="category"><div class="category-icon">♧</div><strong>Community Events</strong><small>Festivals, Library Programs, Nonprofits and More</small></div><div class="category"><div class="category-icon">⇢</div><strong>Development &amp; Transportation</strong><small>Public Hearings and Regional Updates</small></div><div class="category"><div class="category-icon">▦</div><strong>14-Day Calendar</strong><small>Dates, Locations and Official Links</small></div></div>
-<p class="updated"><strong>Listings checked:</strong> October 16, 2026 · Initial calendar covers October 16–31. Please verify with the host before attending; schedules can change.</p>
+<p class="updated"><strong>Listings checked:</strong> October 19, 2026 · Calendar updates are based on approved entries; please verify with the host before attending.</p>
 <div class="notice"><strong>How to use this calendar</strong><p>Listings below were gathered from official Town of Leland and Brunswick County calendars and announcements. Follow the source link for agendas, registration, livestreams and last-minute changes. This is an independent community information resource from All Things Leland.</p></div>
 
 <h2>Upcoming events and meetings</h2>
@@ -65,15 +65,19 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:20px;font-si
     card.appendChild(make('span', 'tag', event.category || 'Community event'));
     card.appendChild(make('h3', '', event.title));
     const start = new Date(event.start);
-    const day = dateText(event.start, {weekday:'long', month:'long', day:'numeric'});
+    let day = dateText(event.start, {weekday:'long', month:'long', day:'numeric'});
     let time = timeText(event.start);
     if (event.end) {
-      const end = new Date(event.end);
-      if (dateText(event.start, {year:'numeric',month:'numeric',day:'numeric'}) === dateText(event.end, {year:'numeric',month:'numeric',day:'numeric'})) {
+      const startDay = dateText(event.start, {year:'numeric',month:'numeric',day:'numeric'});
+      const endDay = dateText(event.end, {year:'numeric',month:'numeric',day:'numeric'});
+      if (startDay === endDay) {
         time += '–' + timeText(event.end);
+      } else {
+        day += ' – ' + dateText(event.end, {weekday:'long', month:'long', day:'numeric'});
+        time = '';
       }
     }
-    card.appendChild(make('p', 'meta', day + ' · ' + time));
+    card.appendChild(make('p', 'meta', day + (time ? ' · ' + time : '')));
     if (event.venue) {
       const venue = make('p');
       const label = make('strong', '', 'Location: ');
