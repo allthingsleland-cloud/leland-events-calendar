@@ -1,0 +1,56 @@
+name: Remove expired calendar events
+
+on:
+  schedule:
+    - cron: "15 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: expire-calendar-events
+  cancel-in-progress: false
+
+jobs:
+  expire:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Remove events that have ended
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = 'data/events.json';
+          const payload = JSON.parse(fs.readFileSync(path, 'utf8'));
+          const now = Date.now();
+          const before = payload.events.length;
+          payload.events = payload.events.filter(event => {
+            const expiryValue = event.end || event.start;
+            const expiry = Date.parse(expiryValue);
+            // Keep malformed entries for human review rather than deleting them silently.
+            return !Number.isFinite(expiry) || expiry >= now;
+          });
+          const removed = before - payload.events.length;
+          if (removed === 0) {
+            console.log('No expired events to remove.');
+            process.exit(0);
+          }
+          const localDate = new Intl.DateTimeFormat('en-CA', {
+            timeZone: 'America/New_York',
+            year: 'numeric', month: '2-digit', day: '2-digit'
+          }).format(new Date());
+          payload.last_checked = payload.last_checked || localDate;
+          fs.writeFileSync(path, JSON.stringify(payload, null, 2) + '\n');
+          fs.appendFileSync(process.env.GITHUB_OUTPUT, `removed=${removed}\n`);
+          console.log(`Removed ${removed} expired event(s).`);
+          NODE
+      - name: Commit expired-event cleanup
+        if: steps.cleanup.outputs.removed != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/events.json
+          git commit -m "Automatically remove expired calendar events" || exit 0
+          git push
