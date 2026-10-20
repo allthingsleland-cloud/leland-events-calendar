@@ -3,20 +3,6 @@
   "last_checked": "2026-10-19",
   "events": [
     {
-      "id": "brunswick-commissioners-2026-10-19",
-      "title": "Brunswick County Board of Commissioners — Regular Meeting",
-      "category": "County government",
-      "start": "2026-10-19T18:00:00-04:00",
-      "end": "2026-10-19T20:00:00-04:00",
-      "venue": "Commissioners’ Chambers, David R. Sandifer Administration Building, Brunswick County Government Center, Bolivia",
-      "description": "Regular meeting beginning at 6 p.m. The published agenda includes public hearings on Rezoning Case Z-945 and its associated land-use plan amendment, UDO text amendments related to House Bill 1222, the proposed 2027 countywide reappraisal values, and hydrant bulk-water rate revisions. The public may attend in person or watch online through the County's Agendas and Minutes Portal.",
-      "source_url": "https://brunswickcountync.gov/m/newsflash/home/detail/921",
-      "source_name": "Brunswick County official meeting announcement",
-      "status": "published",
-      "checked_at": "2026-10-19",
-      "editor_note": "Migrated from existing public page; reconfirm current listing."
-    },
-    {
       "id": "brunswick-elections-2026-10-20",
       "title": "Brunswick County Board of Elections — Regular and Absentee Meeting",
       "category": "Elections",
@@ -213,34 +199,6 @@
       "editor_note": "Confirmed on the official NC DNCR site."
     },
     {
-      "id": "leland-basket-weaving-mini-2026-10-19",
-      "title": "Beginner Basket Weaving: Mini Session (October)",
-      "category": "Community event",
-      "start": "2026-10-19T17:45:00-04:00",
-      "end": "2026-10-19T20:45:00-04:00",
-      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland",
-      "description": "Basket-weaving class offered by the Town of Leland Parks, Recreation & Cultural Resources department. Registration required; check the Town's program-registration system for current availability and fees.",
-      "source_url": "https://www.townofleland.com/calendar",
-      "source_name": "Town of Leland official calendar",
-      "status": "published",
-      "checked_at": "2026-10-19",
-      "editor_note": "Verify current registration availability and fees before publication."
-    },
-    {
-      "id": "leland-seasonal-greeting-cards-2026-10-19",
-      "title": "Seasonal Greeting Cards - Autumn Elegance",
-      "category": "Community event",
-      "start": "2026-10-19T18:00:00-04:00",
-      "end": "2026-10-19T20:00:00-04:00",
-      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland",
-      "description": "Seasonal greeting-card class offered by the Town of Leland Parks, Recreation & Cultural Resources department. Registration required; check the Town's program-registration system for current availability and fees.",
-      "source_url": "https://www.townofleland.com/calendar",
-      "source_name": "Town of Leland official calendar",
-      "status": "published",
-      "checked_at": "2026-10-19",
-      "editor_note": "Verify current registration availability and fees before publication."
-    },
-    {
       "id": "leland-fibers-paper-memories-2026-10-21",
       "title": "Fibers - Paper Memories: A Vintage Book-Making Journey",
       "category": "Community event",
@@ -295,46 +253,6 @@
       "status": "published",
       "checked_at": "2026-10-19",
       "editor_note": "Verify exact addresses and route with the host."
-    },
-    {
-      "id": "brunswick-commissioners-special-2026-10-19-1400",
-      "title": "Brunswick County Board of Commissioners - Special Meeting",
-      "category": "County government",
-      "start": "2026-10-19T14:00:00-04:00",
-      "end": null,
-      "venue": "Commissioners' Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
-      "description": "Special meeting beginning at 2 p.m. The Board will receive a presentation regarding future expansion planning for Brunswick County Public Utilities. The public may attend in person or watch online through the County's Agendas and Minutes Portal.",
-      "source_url": "https://brunswickcountync.gov/m/newsflash/home/detail/921",
-      "source_name": "Brunswick County official meeting announcement",
-      "status": "published",
-      "checked_at": "2026-10-19",
-      "editor_note": "End time was not published."
-    },
-    {
-      "id": "brunswick-public-hearing-2027-values-2026-10-19",
-      "title": "Public Hearing on Proposed 2027 Schedule of Values",
-      "category": "Public input",
-      "start": "2026-10-19T18:00:00-04:00",
-      "end": "2026-10-19T20:00:00-04:00",
-      "venue": "Commissioners' Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
-      "description": "The Brunswick County Board of Commissioners will receive comments on the proposed 2027 Uniform Schedules of Values, Standards and Rules for the countywide reappraisal. Follow the County's public-hearing sign-up procedures if you wish to speak.",
-      "source_url": "https://brunswickcountync.gov/Calendar.aspx?EID=1681&calType=0&day=18&month=10&year=2026",
-      "source_name": "Brunswick County official hearing listing",
-      "status": "published",
-      "checked_at": "2026-10-19"
-    },
-    {
-      "id": "brunswick-commissioners-hearings-z945-udo-water-rates-2026-10-19",
-      "title": "County Public Hearings - Z-945 Rezoning, UDO Amendments and Water Rates",
-      "category": "Public input",
-      "start": "2026-10-19T18:00:00-04:00",
-      "end": null,
-      "venue": "Commissioners' Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
-      "description": "Public-hearing topics scheduled during the Board of Commissioners' regular meeting include Rezoning Case Z-945 and its associated land-use plan amendment, UDO text amendments related to House Bill 1222, and proposed hydrant bulk-water rate revisions. Individual hearing times were not published; the regular meeting begins at 6 p.m.",
-      "source_url": "https://brunswickcountync.gov/m/newsflash/home/detail/921",
-      "source_name": "Brunswick County official meeting announcement and agenda preview",
-      "status": "published",
-      "checked_at": "2026-10-19"
     },
     {
       "id": "brunswick-early-voting-2026-10-15-31",
