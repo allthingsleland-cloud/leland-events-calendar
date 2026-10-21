@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-20",
+  "last_checked": "2026-10-21",
   "events": [
     {
       "id": "brunswick-early-voting-2026-10-15-31",
@@ -228,11 +228,11 @@
       "start": "2026-10-27T18:00:00-04:00",
       "end": null,
       "venue": "Leland Town Hall, 102 Town Hall Drive, Leland, NC 28451",
-      "description": "",
+      "description": "The Planning Board makes recommendations on land-use policy, including zoning-map changes and Code of Ordinances updates. Check the official meeting portal for the agenda and public-comment details.",
       "source_url": "https://townofleland.civicweb.net/Portal/MeetingSchedule.aspx",
       "source_name": "Official Town meeting schedule and agendas",
       "status": "published",
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-10-21",
       "editor_note": "Start time and venue confirmed by editor: 6 p.m. at Leland Town Hall on October 27, 2026."
     },
     {
@@ -410,16 +410,16 @@
     },
     {
       "id": "brunswick-elections-absentee-2026-11-02",
-      "title": "Brunswick County Board of Elections - Absentee Meeting",
+      "title": "Brunswick County Board of Elections — Regular and Absentee Meeting",
       "category": "Elections",
       "start": "2026-11-02T16:00:00-05:00",
-      "end": null,
+      "end": "2026-11-02T17:00:00-05:00",
       "venue": "Board of Elections Office, 75 Stamp Act Drive NE, Building H, Bolivia, NC 28422",
-      "description": "Absentee meeting listed in the Board of Elections' 2026 meeting schedule. Check with the Board for current public-access arrangements and additional meeting information.",
-      "source_url": "https://brunswickcountync.gov/Archive.aspx?ADID=2961",
-      "source_name": "Brunswick County Board of Elections 2026 meeting schedule",
+      "description": "Regular and absentee meeting of the Board of Elections. Members of the public may attend in person or virtually via the County's Zoom livestream.",
+      "source_url": "https://brunswickcountync.gov/Calendar.aspx?EID=1401",
+      "source_name": "Brunswick County official Board of Elections meeting listing",
       "status": "published",
-      "checked_at": "2026-10-19"
+      "checked_at": "2026-10-21"
     },
     {
       "id": "brunswick-general-election-day-2026-11-03",
@@ -474,6 +474,87 @@
       "status": "published",
       "checked_at": "2026-10-18",
       "editor_note": "Confirmed on the official NC DNCR site."
+    },
+    {
+      "id": "leland-library-baby-storytime-2026-11-04",
+      "title": "Baby Storytime — Leland Branch Library",
+      "category": "Community event",
+      "start": "2026-11-04T10:00:00-05:00",
+      "end": null,
+      "venue": "Leland Branch Library, 487 Village Road, Leland, NC 28451",
+      "description": "Weekly storytime for ages 0–2, hosted by Brunswick County Public Library. The County schedule lists Wednesdays and Thursdays at 10 a.m.; end time is not published. No registration requirement is listed; check with the library for updates.",
+      "source_url": "https://brunswickcountync.gov/954/Kids",
+      "source_name": "Brunswick County Public Library storytime schedule",
+      "status": "published",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "leland-library-prek-storytime-2026-11-04",
+      "title": "PreK and Up Storytime — Leland Branch Library",
+      "category": "Community event",
+      "start": "2026-11-04T11:00:00-05:00",
+      "end": null,
+      "venue": "Leland Branch Library, 487 Village Road, Leland, NC 28451",
+      "description": "Weekly storytime for ages 2–5, hosted by Brunswick County Public Library. The County schedule lists Wednesdays and Thursdays at 11 a.m.; end time is not published. No registration requirement is listed; check with the library for updates.",
+      "source_url": "https://brunswickcountync.gov/954/Kids",
+      "source_name": "Brunswick County Public Library storytime schedule",
+      "status": "published",
+      "checked_at": "2026-10-21"
+    },
+    {
+      "id": "leland-tourism-development-authority-2026-11-02",
+      "title": "Leland Tourism Development Authority",
+      "category": "Public meeting",
+      "start": "2026-11-02T11:00:00-05:00",
+      "end": null,
+      "venue": "Leland Town Hall, 102 Town Hall Drive, Leland, NC 28451",
+      "description": "Meeting of the Leland Tourism Development Authority. The Town calendar lists an 11 a.m. start; the end time and agenda are not shown on the calendar.",
+      "source_url": "https://www.townofleland.com/calendar",
+      "source_name": "Town of Leland official calendar",
+      "status": "published",
+      "checked_at": "2026-10-21",
+      "editor_note": "Verify the agenda and end time when available."
+    },
+    {
+      "id": "leland-board-adjustment-2026-11-03",
+      "title": "Leland Board of Adjustment",
+      "category": "Public meeting",
+      "start": "2026-11-03T18:00:00-05:00",
+      "end": null,
+      "venue": "Leland Town Hall, 102 Town Hall Drive, Leland, NC 28451",
+      "description": "Board meeting. The Board of Adjustment hears quasi-judicial variance requests and appeals of staff determinations. Check the official agenda for specific cases and hearing procedures; end time is not published.",
+      "source_url": "https://www.townofleland.com/calendar",
+      "source_name": "Town of Leland official calendar",
+      "status": "published",
+      "checked_at": "2026-10-21",
+      "editor_note": "Verify the agenda before attendance."
+    },
+    {
+      "id": "brunswick-board-commissioners-2026-11-02",
+      "title": "Brunswick County Board of Commissioners Regular Meeting",
+      "category": "County government",
+      "start": "2026-11-02T15:00:00-05:00",
+      "end": "2026-11-02T17:00:00-05:00",
+      "venue": "Commissioners’ Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
+      "description": "Regular Board of Commissioners meeting. The County's published 2027 Schedule of Values process anticipates consideration of adoption on November 2. Confirm the final agenda for specific items and public-comment details.",
+      "source_url": "https://www.brunswickcountync.gov/1105/Uniform-Schedules-of-Values-Standards-an",
+      "source_name": "Brunswick County 2027 Schedule of Values process",
+      "status": "published",
+      "checked_at": "2026-10-21",
+      "editor_note": "Verify the final agenda when available."
+    },
+    {
+      "id": "brunswick-board-of-education-2026-11-04",
+      "title": "Brunswick County Board of Education Meeting",
+      "category": "Public meeting",
+      "start": "2026-11-04T18:00:00-05:00",
+      "end": "2026-11-04T19:00:00-05:00",
+      "venue": "The COAST (Center of Applied Sciences and Technology), 1109 Old Ocean Hwy, Bolivia, NC 28422",
+      "description": "Regular Board of Education meeting. Meetings are streamed live and recorded. Anyone wishing to speak to the Board about a school-related problem must notify the Executive Assistant, Superintendent, or Board Chair by noon on the meeting day. Check the official agenda for any changes.",
+      "source_url": "https://www.bcswan.net/school-board/board-agendas-and-minutes",
+      "source_name": "Brunswick County Schools official Board Meetings page",
+      "status": "published",
+      "checked_at": "2026-10-21"
     }
   ]
 }
