@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-21",
+  "last_checked": "2026-10-22",
   "events": [
     {
       "id": "brunswick-early-voting-2026-10-15-31",
@@ -473,6 +473,61 @@
       "source_name": "Brunswick County Schools official Board Meetings page",
       "status": "published",
       "checked_at": "2026-10-21"
+    },
+    {
+      "id": "belville-trunk-or-treat-monster-mash-2026-10-23",
+      "title": "Halloween Trunk or Treat — Monster Mash",
+      "category": "Community event",
+      "start": "2026-10-23T17:00:00-04:00",
+      "end": "2026-10-23T19:00:00-04:00",
+      "venue": "Belville Riverwalk Park, 580 River Road SE, Belville, NC 28451",
+      "description": "Public Halloween trunk-or-treat hosted by the Town of Belville, featuring decorated vehicle trunks, candy, festive games, and costume contests. No attendee registration requirement is listed by the Town; check the official page for updates.",
+      "source_url": "https://townofbelville.com/recreation-and-events/",
+      "source_name": "Town of Belville official event listing",
+      "status": "published",
+      "checked_at": "2026-10-22",
+      "editor_note": "Town page confirms date and time. Venue and activity details cross-checked against Port City Daily."
+    },
+    {
+      "id": "northwest-city-hall-council-meeting-2026-10-27",
+      "title": "City of Northwest City Hall Council Meeting",
+      "category": "Public meeting",
+      "start": "2026-10-27T18:00:00-04:00",
+      "end": "2026-10-27T19:00:00-04:00",
+      "venue": "City Hall, 4889 Vernon Road, Northwest, NC 28451",
+      "description": "Scheduled City Council meeting hosted by the City of Northwest. Check the official event page for agenda information or updates. Public attendance; no registration requirement is listed.",
+      "source_url": "https://www.cityofnorthwest.com/meetings-agendas-and-events/city-hall-council-meeting-3",
+      "source_name": "City of Northwest official meeting listing",
+      "status": "published",
+      "checked_at": "2026-10-22"
+    },
+    {
+      "id": "northwest-fall-festival-2026-10-30",
+      "title": "Northwest Fall Festival",
+      "category": "Community event",
+      "start": "2026-10-30T17:30:00-04:00",
+      "end": "2026-10-30T19:30:00-04:00",
+      "venue": "Northwest City Park, 4891 Vernon Road NE, Northwest, NC 28451",
+      "description": "Free community fall festival and trunk-or-treat hosted by the City of Northwest, with family games, costumes, and food. No attendee registration requirement is listed.",
+      "source_url": "https://www.cityofnorthwest.com/meetings-agendas-and-events/os9s85tzct5iug4p5uzi9st8qgncbw",
+      "source_name": "City of Northwest official event listing",
+      "status": "published",
+      "checked_at": "2026-10-22",
+      "editor_note": "Official City page confirms date and time; venue and activities cross-checked against Port City Daily."
+    },
+    {
+      "id": "leland-in-lights-grand-illumination-2026-11-21",
+      "title": "Leland in Lights Grand Illumination",
+      "category": "Community event",
+      "start": "2026-11-21T18:00:00-05:00",
+      "end": "2026-11-21T20:00:00-05:00",
+      "venue": "Founders Park, 113 Town Hall Drive, Leland, NC 28451",
+      "description": "The Town of Leland's holiday-season kickoff features the Grand Illumination, train rides, Santa's Workshop, live music, a snow machine, food trucks, community activities, and new holiday light displays. The lights are scheduled to remain on nightly through January 3, 2027. Limited parking is available at Founders Park, with overflow parking at First Baptist Church, North Brunswick High School, and Port City Community Church. No attendee registration requirement is listed; organizations hosting booths have a separate interest form.",
+      "source_url": "https://www.townofleland.com/parks-recreation-cultural-resources/programs-events/leland-lights/grand-illumination",
+      "source_name": "Town of Leland official Grand Illumination page",
+      "status": "published",
+      "checked_at": "2026-10-22",
+      "editor_note": "Official Town page confirms date, time, venue, activities, and parking. Booth participation is separate from attendee registration."
     }
   ]
 }
