@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-22",
+  "last_checked": "2026-10-23",
   "events": [
     {
       "id": "brunswick-early-voting-2026-10-15-31",
@@ -488,6 +488,74 @@
       "status": "published",
       "checked_at": "2026-10-22",
       "editor_note": "Official Town page confirms date, time, venue, activities, and parking. Booth participation is separate from attendee registration."
+    },
+    {
+      "id": "nurse-blake-wilmington-2026-10-23",
+      "title": "Nurse Blake",
+      "category": "Community event",
+      "start": "2026-10-23T19:00:00-04:00",
+      "end": null,
+      "venue": "Wilson Center, 703 North 3rd Street, Wilmington, NC 28401",
+      "description": "Outback and Wilson Center Presents comedian Nurse Blake's BUT DID YOU DIE? tour. Tickets are required; doors open at 6 p.m. The official listing does not publish an end time.",
+      "source_url": "https://www.wilsoncentertickets.com/events/detail/nurse-blake-1408778",
+      "source_name": "Official Wilson Center event listing",
+      "status": "published",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "id": "eternamente-dia-de-los-muertos-2026-10-23",
+      "title": "Eternamente: A Día de los Muertos Spectacular!",
+      "category": "Community event",
+      "start": "2026-10-23T19:30:00-04:00",
+      "end": "2026-10-23T22:00:00-04:00",
+      "venue": "Kenan Auditorium, 601 South College Road, Wilmington, NC 28403",
+      "description": "Kenan Auditorium Presents a celebration of Mexican culture featuring live mariachi music, traditional Ballet Folklórico, colorful costumes, and a tribute to Día de los Muertos traditions. Tickets are required.",
+      "source_url": "https://uncw.campuslabs.com/engage/event/12610247",
+      "source_name": "UNCW official event listing",
+      "status": "published",
+      "checked_at": "2026-10-23",
+      "editor_note": "Schedule and venue cross-checked against the performing group's official calendar."
+    },
+    {
+      "id": "ghostbusters-in-concert-wilmington-2026-10-24",
+      "title": "Ghostbusters in Concert",
+      "category": "Community event",
+      "start": "2026-10-24T19:30:00-04:00",
+      "end": null,
+      "venue": "Wilson Center, 703 North 3rd Street, Wilmington, NC 28401",
+      "description": "Wilson Center Presents the 1984 film Ghostbusters on a large screen with an orchestra performing the film's score live. Tickets are required; doors open at 6:30 p.m. The official listing does not publish an end time.",
+      "source_url": "https://www.wilsoncentertickets.com/events/detail/ghostbusters-in-concert-1486964",
+      "source_name": "Official Wilson Center event listing",
+      "status": "published",
+      "checked_at": "2026-10-23"
+    },
+    {
+      "id": "leland-homeschool-studio-ages-5-12-2026-10-27",
+      "title": "Youth - Homeschool Studio (Ages 5-12)",
+      "category": "Community event",
+      "start": "2026-10-27T10:00:00-04:00",
+      "end": "2026-10-27T12:00:00-04:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Homeschool studio session offering guided art activities with Town of Leland staff and instructors. Online registration is offered; confirm availability before attending.",
+      "source_url": "https://www.townofleland.com/Calendar.aspx?EID=809",
+      "source_name": "Town of Leland official event calendar",
+      "status": "published",
+      "checked_at": "2026-10-23",
+      "editor_note": "Town calendar confirms 10 a.m.-noon."
+    },
+    {
+      "id": "leland-homeschool-studio-teen-2026-10-27",
+      "title": "Youth - Homeschool Studio - Teen (Ages 13-17)",
+      "category": "Community event",
+      "start": "2026-10-27T12:00:00-04:00",
+      "end": "2026-10-27T13:30:00-04:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Teen homeschool studio session featuring guided art projects that encourage creativity and exploration. Online registration is offered; confirm availability before attending.",
+      "source_url": "https://www.townofleland.com/Calendar.aspx?EID=810",
+      "source_name": "Town of Leland official event calendar",
+      "status": "published",
+      "checked_at": "2026-10-23",
+      "editor_note": "Town calendar confirms noon-1:30 p.m."
     }
   ]
 }
