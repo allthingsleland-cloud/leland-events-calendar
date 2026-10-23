@@ -31,46 +31,6 @@
       "editor_note": "Added from the event host’s official website; multi-day event, hours vary by date."
     },
     {
-      "id": "leland-library-baby-storytime-2026-10-22",
-      "title": "Baby Storytime — Leland Branch Library",
-      "category": "Community event",
-      "start": "2026-10-22T10:00:00-04:00",
-      "end": null,
-      "venue": "Leland Branch Library, 487 Village Road, Leland, NC 28451",
-      "description": "Weekly storytime for ages 0–2. The County schedule publishes the start time but not the end time. No registration requirement is identified in the schedule; check with the library for updates.",
-      "source_url": "https://brunswickcountync.gov/954/Kids",
-      "source_name": "Brunswick County Public Library storytime schedule",
-      "status": "published",
-      "checked_at": "2026-10-20"
-    },
-    {
-      "id": "leland-library-prek-storytime-2026-10-22",
-      "title": "PreK and Up Storytime — Leland Branch Library",
-      "category": "Community event",
-      "start": "2026-10-22T11:00:00-04:00",
-      "end": null,
-      "venue": "Leland Branch Library, 487 Village Road, Leland, NC 28451",
-      "description": "Weekly storytime for ages 2–5. The County schedule publishes the start time but not the end time. No registration requirement is identified in the schedule; check with the library for updates.",
-      "source_url": "https://brunswickcountync.gov/954/Kids",
-      "source_name": "Brunswick County Public Library storytime schedule",
-      "status": "published",
-      "checked_at": "2026-10-20"
-    },
-    {
-      "id": "flu-clinic-evening-bolivia-2026-10-22",
-      "title": "Evening Flu Vaccine Clinic — Bolivia",
-      "category": "Health services",
-      "start": "2026-10-22T16:00:00-04:00",
-      "end": "2026-10-22T18:30:00-04:00",
-      "venue": "Building A, 25 Courthouse Drive NE, Bolivia, NC 28422",
-      "description": "Appointment required; call 910-253-2250 to schedule.",
-      "source_url": "https://brunswickcountync.gov/calendar.aspx?CID=0&month=10&view=list&year=2026",
-      "source_name": "Brunswick County official calendar",
-      "status": "published",
-      "checked_at": "2026-10-19",
-      "editor_note": "Migrated from existing public page; reconfirm clinic and appointment details."
-    },
-    {
       "id": "district-31-haunted-trail-2026",
       "title": "District 31 Haunted Trail",
       "category": "Community event",
