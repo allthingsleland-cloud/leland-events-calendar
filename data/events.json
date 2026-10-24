@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-23",
+  "last_checked": "2026-10-24",
   "events": [
     {
       "id": "brunswick-early-voting-2026-10-15-31",
@@ -501,6 +501,127 @@
       "status": "published",
       "checked_at": "2026-10-23",
       "editor_note": "Town calendar confirms noon-1:30 p.m."
+    },
+    {
+      "id": "indigo-girls-wilmington-2026-10-29",
+      "title": "Indigo Girls",
+      "category": "Community event",
+      "start": "2026-10-29T19:00:00-04:00",
+      "end": null,
+      "venue": "Wilson Center, 703 North 3rd Street, Wilmington, NC 28401",
+      "description": "Wilson Center Presents the Grammy-winning folk-rock duo Indigo Girls, with Linda Perry as special guest. Tickets required; doors open at 6 p.m. The venue does not publish an end time.",
+      "source_url": "https://www.wilsoncentertickets.com/events/detail/indigo-girls-1498008",
+      "source_name": "Official Wilson Center event listing",
+      "status": "published",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "id": "night-of-living-dead-thalian-hall-2026-10-29",
+      "title": "Night of the Living Dead (1968)",
+      "category": "Community event",
+      "start": "2026-10-29T19:00:00-04:00",
+      "end": null,
+      "venue": "Thalian Hall, 310 Chestnut Street, Wilmington, NC 28401",
+      "description": "Thalian Hall Cinema's seventh annual screening of George A. Romero's landmark 1968 horror film. Runtime is 1 hour, 36 minutes. Tickets listed at $12 adult and $10 senior or student with valid ID; no exact end time is published.",
+      "source_url": "https://www.thalianhall.org/thc-notld1968-26",
+      "source_name": "Official Thalian Hall event page",
+      "status": "published",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "id": "capitol-fools-thalian-hall-2026-10-30",
+      "title": "Capitol Fools",
+      "category": "Community event",
+      "start": "2026-10-30T19:30:00-04:00",
+      "end": null,
+      "venue": "Thalian Hall, 310 Chestnut Street, Wilmington, NC 28401",
+      "description": "Political satire performance featuring musical parodies and comedy about American politics. Tickets required. The venue does not publish an end time in its event listing.",
+      "source_url": "https://www.thalianhall.org/Main_Attractions",
+      "source_name": "Official Thalian Hall event calendar",
+      "status": "published",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "id": "abbamania-thalian-hall-2026-11-05",
+      "title": "Abbamania",
+      "category": "Community event",
+      "start": "2026-11-05T19:30:00-05:00",
+      "end": null,
+      "venue": "Thalian Hall, 310 Chestnut Street, Wilmington, NC 28401",
+      "description": "Live concert celebrating ABBA's music, including songs such as Dancing Queen, Take a Chance, and Waterloo. Tickets required; no exact end time is published.",
+      "source_url": "https://www.thalianhall.org/abbamania",
+      "source_name": "Official Thalian Hall event page",
+      "status": "published",
+      "checked_at": "2026-10-24",
+      "editor_note": "Date and start time cross-checked against Thalian Hall's official Main Attractions calendar."
+    },
+    {
+      "id": "celebrate-downtown-wilmington-2026-11-06",
+      "title": "Celebrate Downtown: People, Projects, and Plans for the Future",
+      "category": "Community event",
+      "start": "2026-11-06T17:00:00-05:00",
+      "end": "2026-11-06T21:00:00-05:00",
+      "venue": "Riverfront Park, 10 Cowan Street, Wilmington, NC 28401",
+      "description": "Free, family-friendly City of Wilmington event featuring project displays, opportunities to meet City staff, food trucks, activities, and a screening of Hocus Pocus at 6:45 p.m. Project displays run 5-6:30 p.m. Free parking opens at 4 p.m. in the Skyline Center South lot at Nutt and Brunswick streets. Rescheduled from October 30 to November 6.",
+      "source_url": "https://www.wilmingtonnc.gov/Connect-With-Us/Department-Directory/Parks-Recreation/Parks-Trails/Riverfront-Park",
+      "source_name": "City of Wilmington official Riverfront Park event listing",
+      "status": "published",
+      "checked_at": "2026-10-24",
+      "editor_note": "Rescheduled date cross-checked against local reporting."
+    },
+    {
+      "id": "electric-light-orchestra-experience-2026-11-06",
+      "title": "The Electric Light Orchestra Experience",
+      "category": "Community event",
+      "start": "2026-11-06T19:30:00-05:00",
+      "end": null,
+      "venue": "Wilson Center, 703 North 3rd Street, Wilmington, NC 28401",
+      "description": "Multimedia concert celebrating Jeff Lynne's ELO music, featuring a 12-piece band and the Wilmington Symphony Orchestra's string section. Tickets required; doors open at 6:30 p.m. The venue does not publish an end time.",
+      "source_url": "https://www.wilsoncentertickets.com/events/detail/the-electric-light-orchestra-experience-1493744",
+      "source_name": "Official Wilson Center event listing",
+      "status": "published",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "id": "southport-wooden-boat-show-2026-11-07",
+      "title": "17th Annual Southport Wooden Boat Show",
+      "category": "Community event",
+      "start": "2026-11-07T10:00:00-05:00",
+      "end": "2026-11-07T16:00:00-05:00",
+      "venue": "Old Yacht Basin and downtown Southport, including 102 S. Caswell Avenue, Southport, NC 28461",
+      "description": "Free maritime festival featuring wooden boats on land and in the water, boatbuilding demonstrations, nautical vendors, maritime displays, live music, and children's activities. Some optional activities, including Taste of the Cape Fear, require tickets.",
+      "source_url": "https://southportwoodenboatshow.com/events/",
+      "source_name": "Official Southport Wooden Boat Show schedule",
+      "status": "published",
+      "checked_at": "2026-10-24",
+      "editor_note": "2026 date, downtown location, and free general admission cross-checked against regional tourism listings."
+    },
+    {
+      "id": "spamalot-wilson-center-2026-11-07",
+      "title": "Spamalot",
+      "category": "Community event",
+      "start": "2026-11-07T19:30:00-05:00",
+      "end": null,
+      "venue": "Wilson Center, 703 North 3rd Street, Wilmington, NC 28401",
+      "description": "Tony Award-winning musical comedy inspired by Monty Python and the Holy Grail. Tickets required; doors open at 6:30 p.m. Published runtime is 2 hours, 20 minutes including a 15-minute intermission; no exact end time is published.",
+      "source_url": "https://www.wilsoncentertickets.com/events/detail/spamalot-1542322",
+      "source_name": "Official Wilson Center event listing",
+      "status": "published",
+      "checked_at": "2026-10-24"
+    },
+    {
+      "id": "belville-board-of-commissioners-2026-10-27",
+      "title": "Town of Belville Board of Commissioners",
+      "category": "Public meeting",
+      "start": "2026-10-27T18:00:00-04:00",
+      "end": null,
+      "venue": "Highway Patrol Training Center, 63 River Road, Belville, NC 28451",
+      "description": "Regular meeting of the Town of Belville Board of Commissioners. The Town schedules regular meetings on the fourth Tuesday of the month at 6 p.m. Public attendance; no registration requirement is listed. The Town does not publish an end time.",
+      "source_url": "https://townofbelville.com/board-of-commissioners/",
+      "source_name": "Town of Belville official Board of Commissioners page",
+      "status": "published",
+      "checked_at": "2026-10-24",
+      "editor_note": "Date cross-checked against the Town's 2026 Board of Commissioners meeting calendar."
     }
   ]
 }
