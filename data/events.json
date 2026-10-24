@@ -31,20 +31,6 @@
       "editor_note": "Added from the event host’s official website; multi-day event, hours vary by date."
     },
     {
-      "id": "district-31-haunted-trail-2026",
-      "title": "District 31 Haunted Trail",
-      "category": "Community event",
-      "start": "2026-10-23T19:00:00-04:00",
-      "end": null,
-      "venue": "Grissettown–Longwood Fire Department, Ocean Isle Beach area; confirm exact address and nightly hours with the event organizer.",
-      "description": "Seasonal haunted trail operating Friday and Saturday evenings in October, including Halloween. Check the event organizer’s current listing before travelling for hours, admission and access details.",
-      "source_url": "https://www.ncbrunswick.com/events/",
-      "source_name": "NC’s Brunswick Islands events calendar",
-      "status": "review",
-      "checked_at": "2026-10-18",
-      "editor_note": "Temporarily held from public display pending confirmation from the event organizer of the exact address, operating dates, hours and admission details."
-    },
-    {
       "id": "ride-for-kindness-2026-10-24",
       "title": "Ride for Kindness",
       "category": "Community event",
@@ -435,20 +421,6 @@
       "checked_at": "2026-10-21"
     },
     {
-      "id": "belville-trunk-or-treat-monster-mash-2026-10-23",
-      "title": "Halloween Trunk or Treat — Monster Mash",
-      "category": "Community event",
-      "start": "2026-10-23T17:00:00-04:00",
-      "end": "2026-10-23T19:00:00-04:00",
-      "venue": "Belville Riverwalk Park, 580 River Road SE, Belville, NC 28451",
-      "description": "Public Halloween trunk-or-treat hosted by the Town of Belville, featuring decorated vehicle trunks, candy, festive games, and costume contests. No attendee registration requirement is listed by the Town; check the official page for updates.",
-      "source_url": "https://townofbelville.com/recreation-and-events/",
-      "source_name": "Town of Belville official event listing",
-      "status": "published",
-      "checked_at": "2026-10-22",
-      "editor_note": "Town page confirms date and time. Venue and activity details cross-checked against Port City Daily."
-    },
-    {
       "id": "northwest-city-hall-council-meeting-2026-10-27",
       "title": "City of Northwest City Hall Council Meeting",
       "category": "Public meeting",
@@ -488,33 +460,6 @@
       "status": "published",
       "checked_at": "2026-10-22",
       "editor_note": "Official Town page confirms date, time, venue, activities, and parking. Booth participation is separate from attendee registration."
-    },
-    {
-      "id": "nurse-blake-wilmington-2026-10-23",
-      "title": "Nurse Blake",
-      "category": "Community event",
-      "start": "2026-10-23T19:00:00-04:00",
-      "end": null,
-      "venue": "Wilson Center, 703 North 3rd Street, Wilmington, NC 28401",
-      "description": "Outback and Wilson Center Presents comedian Nurse Blake's BUT DID YOU DIE? tour. Tickets are required; doors open at 6 p.m. The official listing does not publish an end time.",
-      "source_url": "https://www.wilsoncentertickets.com/events/detail/nurse-blake-1408778",
-      "source_name": "Official Wilson Center event listing",
-      "status": "published",
-      "checked_at": "2026-10-23"
-    },
-    {
-      "id": "eternamente-dia-de-los-muertos-2026-10-23",
-      "title": "Eternamente: A Día de los Muertos Spectacular!",
-      "category": "Community event",
-      "start": "2026-10-23T19:30:00-04:00",
-      "end": "2026-10-23T22:00:00-04:00",
-      "venue": "Kenan Auditorium, 601 South College Road, Wilmington, NC 28403",
-      "description": "Kenan Auditorium Presents a celebration of Mexican culture featuring live mariachi music, traditional Ballet Folklórico, colorful costumes, and a tribute to Día de los Muertos traditions. Tickets are required.",
-      "source_url": "https://uncw.campuslabs.com/engage/event/12610247",
-      "source_name": "UNCW official event listing",
-      "status": "published",
-      "checked_at": "2026-10-23",
-      "editor_note": "Schedule and venue cross-checked against the performing group's official calendar."
     },
     {
       "id": "ghostbusters-in-concert-wilmington-2026-10-24",
