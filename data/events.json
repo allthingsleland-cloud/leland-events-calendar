@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-24",
+  "last_checked": "2026-10-25",
   "events": [
     {
       "id": "brunswick-early-voting-2026-10-15-31",
@@ -360,11 +360,11 @@
       "end": "2026-11-02T17:00:00-05:00",
       "venue": "Commissioners’ Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
       "description": "Regular Board of Commissioners meeting. The County's published 2027 Schedule of Values process anticipates consideration of adoption on November 2. Confirm the final agenda for specific items and public-comment details.",
-      "source_url": "https://www.brunswickcountync.gov/1105/Uniform-Schedules-of-Values-Standards-an",
-      "source_name": "Brunswick County 2027 Schedule of Values process",
+      "source_url": "https://www.brunswickcountync.gov/calendar.aspx?CID=0&month=11&view=list&year=2026",
+      "source_name": "Brunswick County official calendar",
       "status": "published",
-      "checked_at": "2026-10-21",
-      "editor_note": "Verify the final agenda when available."
+      "checked_at": "2026-10-25",
+      "editor_note": "Regular meeting is scheduled for the first Monday of the month at 3 p.m.; check the official County calendar and agenda for any changes."
     },
     {
       "id": "brunswick-board-of-education-2026-11-04",
@@ -568,6 +568,111 @@
       "status": "published",
       "checked_at": "2026-10-24",
       "editor_note": "Date cross-checked against the Town's 2026 Board of Commissioners meeting calendar."
+    },
+    {
+      "id": "cape-fear-kite-festival-2026-11-06-08",
+      "title": "20th Annual Cape Fear Kite Festival",
+      "category": "Community event",
+      "start": "2026-11-06T00:00:00-05:00",
+      "end": "2026-11-08T23:59:00-05:00",
+      "venue": "Fort Fisher State Recreation Area, 1000 Loggerhead Road, Kure Beach, NC 28449; Friday activities also at Kure Beach Pier and Carolina Beach beachfront.",
+      "description": "The 20th annual festival features professional kite flyers. Friday activities include a preview at Kure Beach Pier and CB Aglow on the Carolina Beach beachfront; the main kite displays are Saturday and Sunday at Fort Fisher. Admission is free, with free parking and shuttle transportation from Blakeslee Air Force Base on Saturday and Sunday. Activity times vary; check the organizer's page for updates.",
+      "source_url": "https://www.pleasureislandnc.org/cape-fear-kite-festival.html",
+      "source_name": "Pleasure Island Chamber of Commerce",
+      "status": "published",
+      "checked_at": "2026-10-25",
+      "editor_note": "Multi-day listing; activity times vary by location."
+    },
+    {
+      "id": "polish-festival-castle-hayne-2026-11-07",
+      "title": "St. Stan's Polish Festival",
+      "category": "Community event",
+      "start": "2026-11-07T11:00:00-05:00",
+      "end": "2026-11-07T16:00:00-05:00",
+      "venue": "St. Stanislaus Catholic Church, 4849 Castle Hayne Road, Castle Hayne, NC 28429; parking-lot entrance on Marathon Avenue.",
+      "description": "The 26th annual festival features Polish food, baked goods, music, dancing, children's activities and a craft sale. Admission and parking are free; food and other items are available for purchase.",
+      "source_url": "https://ststanspolishfestival.org/",
+      "source_name": "St. Stanislaus Polish Festival",
+      "status": "published",
+      "checked_at": "2026-10-25"
+    },
+    {
+      "id": "t-hanksgiving-thalian-hall-2026-11-06",
+      "title": "T. Hanksgiving — Friday Performance",
+      "category": "Community event",
+      "start": "2026-11-06T19:30:00-05:00",
+      "end": null,
+      "venue": "Ruth and Bucky Stein Theatre, Thalian Hall, 310 Chestnut Street, Wilmington, NC 28401",
+      "description": "Pineapple-Shaped Lamps presents a sketch-comedy tribute to Tom Hanks. Tickets required; consult the official listing for prices and availability.",
+      "source_url": "https://www.thalianhall.org/psl-t-hanks-26",
+      "source_name": "Thalian Hall official event listing",
+      "status": "published",
+      "checked_at": "2026-10-25"
+    },
+    {
+      "id": "t-hanksgiving-thalian-hall-2026-11-07",
+      "title": "T. Hanksgiving — Saturday Performance",
+      "category": "Community event",
+      "start": "2026-11-07T19:30:00-05:00",
+      "end": null,
+      "venue": "Ruth and Bucky Stein Theatre, Thalian Hall, 310 Chestnut Street, Wilmington, NC 28401",
+      "description": "Pineapple-Shaped Lamps presents a sketch-comedy tribute to Tom Hanks. Tickets required; consult the official listing for prices and availability.",
+      "source_url": "https://www.thalianhall.org/psl-t-hanks-26",
+      "source_name": "Thalian Hall official event listing",
+      "status": "published",
+      "checked_at": "2026-10-25"
+    },
+    {
+      "id": "t-hanksgiving-thalian-hall-2026-11-08",
+      "title": "T. Hanksgiving — Sunday Performance",
+      "category": "Community event",
+      "start": "2026-11-08T15:00:00-05:00",
+      "end": null,
+      "venue": "Ruth and Bucky Stein Theatre, Thalian Hall, 310 Chestnut Street, Wilmington, NC 28401",
+      "description": "Sunday performance of Pineapple-Shaped Lamps' sketch-comedy tribute to Tom Hanks. Tickets required; consult the official listing for prices and availability.",
+      "source_url": "https://www.thalianhall.org/psl-t-hanks-26",
+      "source_name": "Thalian Hall official event listing",
+      "status": "published",
+      "checked_at": "2026-10-25"
+    },
+    {
+      "id": "spamalot-wilson-center-2026-11-08-1300",
+      "title": "Spamalot — Sunday Matinee",
+      "category": "Community event",
+      "start": "2026-11-08T13:00:00-05:00",
+      "end": null,
+      "venue": "Wilson Center, 703 North 3rd Street, Wilmington, NC 28401",
+      "description": "Sunday matinee of the Tony Award-winning musical Spamalot. Tickets required. The published runtime is 2 hours and 20 minutes including intermission; exact end time is not separately published.",
+      "source_url": "https://www.wilsoncentertickets.com/events/detail/spamalot-1542322",
+      "source_name": "Official Wilson Center event listing",
+      "status": "published",
+      "checked_at": "2026-10-25"
+    },
+    {
+      "id": "spamalot-wilson-center-2026-11-08-1830",
+      "title": "Spamalot — Sunday Evening Performance",
+      "category": "Community event",
+      "start": "2026-11-08T18:30:00-05:00",
+      "end": null,
+      "venue": "Wilson Center, 703 North 3rd Street, Wilmington, NC 28401",
+      "description": "Sunday evening performance of the Tony Award-winning musical Spamalot. Tickets required. The published runtime is 2 hours and 20 minutes including intermission; exact end time is not separately published.",
+      "source_url": "https://www.wilsoncentertickets.com/events/detail/spamalot-1542322",
+      "source_name": "Official Wilson Center event listing",
+      "status": "published",
+      "checked_at": "2026-10-25"
+    },
+    {
+      "id": "switchfoot-anberlin-wilmington-2026-11-07",
+      "title": "Switchfoot with Special Guest Anberlin — Forever Now Tour",
+      "category": "Community event",
+      "start": "2026-11-07T19:00:00-05:00",
+      "end": null,
+      "venue": "Greenfield Lake Amphitheater, 1941 Amphitheater Drive, Wilmington, NC 28401",
+      "description": "Concert featuring Switchfoot with special guest Anberlin on the Forever Now Tour. Tickets required.",
+      "source_url": "https://www.livenation.com/event/G5eVZ_1pT4WoU/switchfoot-with-special-guest-anberlin-forever-now-tour",
+      "source_name": "Live Nation official event listing",
+      "status": "published",
+      "checked_at": "2026-10-25"
     }
   ]
 }
