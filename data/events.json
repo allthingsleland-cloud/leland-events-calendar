@@ -31,47 +31,6 @@
       "editor_note": "Added from the event host’s official website; multi-day event, hours vary by date."
     },
     {
-      "id": "ride-for-kindness-2026-10-24",
-      "title": "Ride for Kindness",
-      "category": "Community event",
-      "start": "2026-10-24T09:00:00-04:00",
-      "end": "2026-10-24T15:00:00-04:00",
-      "venue": "Starts at Shipwreck Harley-Davidson and ends at Shuckin' Shack Oyster Bar in the Wilmington area.",
-      "description": "Fundraising ride hosted by Anthony's Way - The Road to Kindness, supporting children and teenagers affected by ADHD. The published report lists $25 pre-registration. Confirm exact addresses and route with the organizer.",
-      "source_url": "https://portcitydaily.com/community-and-events/2026/10/16/ride-for-kindness-fundraising-event-for-adhd-focused-nonprofit/",
-      "source_name": "Port City Daily event report",
-      "status": "published",
-      "checked_at": "2026-10-19",
-      "editor_note": "Verify exact addresses and route with the host."
-    },
-    {
-      "id": "leland-pressed-plant-journals-2026-10-24",
-      "title": "Mixed Media — Pressed Plant Journals and Notepads",
-      "category": "Community event",
-      "start": "2026-10-24T12:00:00-04:00",
-      "end": "2026-10-24T14:00:00-04:00",
-      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
-      "description": "Create personalized journals and notepads using pressed flowers and plants, handmade papers and dyed fabrics. Hosted by Town of Leland Parks, Recreation and Cultural Resources. Online registration is offered; published supply fee is $30. Check availability before attending.",
-      "source_url": "https://www.townofleland.com/event/mixed-media-pressed-plant-journals-and-notepads-0",
-      "source_name": "Town of Leland official event listing",
-      "status": "published",
-      "checked_at": "2026-10-20"
-    },
-    {
-      "id": "leland-fall-festival-2026-10-24",
-      "title": "Leland Fall Festival",
-      "category": "Community event",
-      "start": "2026-10-24T15:00:00-04:00",
-      "end": "2026-10-24T18:00:00-04:00",
-      "venue": "Founders Park, 113 Town Hall Drive, Leland",
-      "description": "Free, family-friendly event with community trick-or-treat booths, live entertainment, a pumpkin patch, face painting, yard games and food trucks.",
-      "source_url": "https://www.townofleland.com/news/fall-festival-brings-seasonal-fun-founders-park",
-      "source_name": "Town of Leland event announcement",
-      "status": "published",
-      "checked_at": "2026-10-17",
-      "editor_note": "Migrated from existing public page; reconfirm start time and activities."
-    },
-    {
       "id": "brunswick-elections-absentee-2026-10-27",
       "title": "Brunswick County Board of Elections — Absentee Meeting",
       "category": "Elections",
@@ -460,19 +419,6 @@
       "status": "published",
       "checked_at": "2026-10-22",
       "editor_note": "Official Town page confirms date, time, venue, activities, and parking. Booth participation is separate from attendee registration."
-    },
-    {
-      "id": "ghostbusters-in-concert-wilmington-2026-10-24",
-      "title": "Ghostbusters in Concert",
-      "category": "Community event",
-      "start": "2026-10-24T19:30:00-04:00",
-      "end": null,
-      "venue": "Wilson Center, 703 North 3rd Street, Wilmington, NC 28401",
-      "description": "Wilson Center Presents the 1984 film Ghostbusters on a large screen with an orchestra performing the film's score live. Tickets are required; doors open at 6:30 p.m. The official listing does not publish an end time.",
-      "source_url": "https://www.wilsoncentertickets.com/events/detail/ghostbusters-in-concert-1486964",
-      "source_name": "Official Wilson Center event listing",
-      "status": "published",
-      "checked_at": "2026-10-23"
     },
     {
       "id": "leland-homeschool-studio-ages-5-12-2026-10-27",
