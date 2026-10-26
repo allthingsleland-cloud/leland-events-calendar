@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-25",
+  "last_checked": "2026-10-26",
   "events": [
     {
       "id": "brunswick-early-voting-2026-10-15-31",
@@ -659,6 +659,90 @@
       "source_name": "Live Nation official event listing",
       "status": "published",
       "checked_at": "2026-10-25"
+    },
+    {
+      "id": "bcs-showcase-of-bands-2026-10-28",
+      "title": "Brunswick County Schools Showcase of Bands",
+      "category": "Community event",
+      "start": "2026-10-28T19:00:00-04:00",
+      "end": null,
+      "venue": "West Brunswick High School Stadium, Shallotte, NC",
+      "description": "Brunswick County Schools' annual Showcase of Bands features marching bands from West Brunswick, North Brunswick, and South Brunswick high schools. Admission is free and open to the public; the announcement does not state a registration requirement. Host: Brunswick County Schools. End time is not published.",
+      "source_url": "https://www.bcswan.net/post-page/~board/brunswick-county-schools-news/post/brunswick-county-schools-fine-arts-students-to-take-center-stage-at-upcoming-events",
+      "source_name": "Brunswick County Schools official announcement",
+      "status": "published",
+      "checked_at": "2026-10-26",
+      "editor_note": "Start time and free admission were listed in the reviewed announcement; end time is not published."
+    },
+    {
+      "id": "northwest-honoring-veterans-2026-11-08",
+      "title": "Honoring Our Veterans",
+      "category": "Community event",
+      "start": "2026-11-08T14:00:00-05:00",
+      "end": null,
+      "venue": "Jerry W. Munn City of Northwest Park, 4889 Vernon Road, Northwest, NC 28451",
+      "description": "Community gathering to recognize and honor veterans. Host: City of Northwest. The city announcement invites the public; admission and registration requirements are not stated. End time is not published.",
+      "source_url": "https://www.cityofnorthwest.com/",
+      "source_name": "City of Northwest official announcement",
+      "status": "published",
+      "checked_at": "2026-10-26",
+      "editor_note": "City homepage confirms November 8, 2026, at 2 p.m.; venue is identified in the event poster."
+    },
+    {
+      "id": "brunswick-all-county-chorus-2026-11-09",
+      "title": "All-County Chorus",
+      "category": "Community event",
+      "start": "2026-11-09T18:00:00-05:00",
+      "end": "2026-11-09T19:30:00-05:00",
+      "venue": "Odell Williamson Auditorium, 150 College Road NE, Bolivia, NC 28422",
+      "description": "Brunswick County Schools' All-County Chorus concert features elementary, middle, and high school choir students from across the county. Admission is free and open to the public; no registration requirement is stated. Host: Brunswick County Schools.",
+      "source_url": "https://lms.bcswan.net/",
+      "source_name": "Brunswick County Schools official school calendar",
+      "status": "published",
+      "checked_at": "2026-10-26",
+      "editor_note": "Date, start time, end time, and venue listed on district school calendar."
+    },
+    {
+      "id": "bad-day-music-arts-festival-2026-11-14",
+      "title": "BAD Day Music + Arts Festival",
+      "category": "Community event",
+      "start": "2026-11-14T12:00:00-05:00",
+      "end": null,
+      "venue": "Brooklyn Arts District, Wilmington, NC 28401",
+      "description": "Single-day music and arts festival featuring live performances, arts programming, mural painting, wellness activities, and a children's zone. Host: Does Entertainment. Ticketed; children 12 and under are free with a ticketed adult. End time is not published.",
+      "source_url": "https://baddayfest.com/",
+      "source_name": "BAD Day Music + Arts Festival official website",
+      "status": "published",
+      "checked_at": "2026-10-26",
+      "editor_note": "Date confirmed by organizer; noon start cross-checked against event ticket listing. End time is not published."
+    },
+    {
+      "id": "taste-wrightsville-beach-2026-11-14",
+      "title": "Taste of Wrightsville Beach",
+      "category": "Community event",
+      "start": "2026-11-14T17:00:00-05:00",
+      "end": "2026-11-14T20:00:00-05:00",
+      "venue": "Tent in the parking lot of Bluewater Waterfront Grill, 4 Marina Street, Wrightsville Beach, NC 28480",
+      "description": "Annual food-tasting event featuring local cuisine, beverages, and live music. Net proceeds benefit Weekend Meals on Wheels of New Hanover County. Host: Weekend Meals on Wheels. Ticketed; check the host page for current prices and availability.",
+      "source_url": "https://www.weekendmealsonwheels.org/taste-of-wrightsville-beach",
+      "source_name": "Weekend Meals on Wheels official event page",
+      "status": "published",
+      "checked_at": "2026-10-26",
+      "editor_note": "Date confirmed by host; 5–8 p.m. schedule cross-checked against local reporting."
+    },
+    {
+      "id": "leland-citizens-academy-2027-01-06-2027-02-10",
+      "title": "Leland Citizens Academy — Six-Week Program",
+      "category": "Community event",
+      "start": "2027-01-06T15:00:00-05:00",
+      "end": "2027-02-10T17:00:00-05:00",
+      "venue": "Various Town of Leland facilities; individual session locations are not published",
+      "description": "Free six-week program introducing participants to Town government, budgeting, public safety, planning and development, public works, and parks and recreation. Sessions are held Wednesdays from 3–5 p.m., January 6 through February 10; this is a weekly program, not a continuous event. Open to people who live within Leland town limits or own a business within town limits. Application required by November 30, 2026; cohort limited to 20 participants. Selected applicants will be notified December 21. Host: Town of Leland.",
+      "source_url": "https://www.townofleland.com/leland-citizens-academy",
+      "source_name": "Town of Leland official Citizens Academy page",
+      "status": "published",
+      "checked_at": "2026-10-26",
+      "editor_note": "Schedule, eligibility, application deadline, and cohort limit confirmed by the Town. Individual session locations are not published."
     }
   ]
 }
