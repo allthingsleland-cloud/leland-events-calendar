@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "events": [
     {
       "id": "brunswick-early-voting-2026-10-15-31",
@@ -743,6 +743,86 @@
       "status": "published",
       "checked_at": "2026-10-26",
       "editor_note": "Schedule, eligibility, application deadline, and cohort limit confirmed by the Town. Individual session locations are not published."
+    },
+    {
+      "id": "leland-library-baby-storytime-2026-11-05",
+      "title": "Baby Storytime — Leland Branch Library",
+      "category": "Community event",
+      "start": "2026-11-05T10:00:00-05:00",
+      "end": "2026-11-05T10:30:00-05:00",
+      "venue": "Leland Meeting Room, Leland Branch Library, 487 Village Road, Leland, NC 28451",
+      "description": "Thirty minutes of stories, music, and playtime for ages 0–2. Hosted by Brunswick County Public Library. The official event calendar lists this session from 10:00 to 10:30 a.m.; no registration requirement is shown for this event.",
+      "source_url": "https://brunsco.libcal.com/calendar?cal%5B%5D=18533&cid=18533&ct%5B%5D=65526&d=0000-00-00&t=d",
+      "source_name": "Brunswick County Library official events calendar",
+      "status": "published",
+      "checked_at": "2026-10-27"
+    },
+    {
+      "id": "leland-library-prek-storytime-2026-11-05",
+      "title": "PreK and Up Storytime — Leland Branch Library",
+      "category": "Community event",
+      "start": "2026-11-05T11:00:00-05:00",
+      "end": "2026-11-05T11:30:00-05:00",
+      "venue": "Leland Meeting Room, Leland Branch Library, 487 Village Road, Leland, NC 28451",
+      "description": "Weekly stories, movement, music, and crafts for children ages 2–5 and up. Hosted by Brunswick County Public Library. The official event calendar lists this session from 11:00 to 11:30 a.m.; no registration requirement is shown for this event.",
+      "source_url": "https://brunsco.libcal.com/calendar?cal%5B%5D=18533&cid=18533&ct%5B%5D=65526&d=0000-00-00&t=d",
+      "source_name": "Brunswick County Library official events calendar",
+      "status": "published",
+      "checked_at": "2026-10-27"
+    },
+    {
+      "id": "wilmington-city-council-2026-11-03",
+      "title": "City of Wilmington City Council Meeting",
+      "category": "Public meeting",
+      "start": "2026-11-03T18:30:00-05:00",
+      "end": "2026-11-03T20:30:00-05:00",
+      "venue": "Council Chambers, City Hall at Skyline Center, 929 North Front Street, Wilmington, NC 28401",
+      "description": "Regular City Council meeting. Public speaking requests must be submitted before noon on the preceding business day, Monday, November 2. Remote viewing options are listed on the City's official page. Confirm the meeting date and agenda before attending.",
+      "source_url": "https://www.wilmingtonnc.gov/Connect-With-Us/City-Mayor-Council",
+      "source_name": "City of Wilmington official City Council schedule",
+      "status": "published",
+      "checked_at": "2026-10-27",
+      "editor_note": "Recheck date and agenda: a separate council calendar currently shows November 5, while the City page/agenda search result references November 3."
+    },
+    {
+      "id": "wilmington-planning-commission-2026-11-04",
+      "title": "City of Wilmington Planning Commission",
+      "category": "Public meeting",
+      "start": "2026-11-04T18:00:00-05:00",
+      "end": null,
+      "venue": "City Council Chambers, Skyline Center, 929 North Front Street, Wilmington, NC 28401",
+      "description": "Monthly Planning Commission meeting. The City lists a November 4 agenda and provides a live GTV8 stream. A public-comment form is available; no registration requirement for ordinary attendance is stated. End time is not published. Host: City of Wilmington.",
+      "source_url": "https://www.wilmingtonnc.gov/Connect-With-Us/Boards-Commissions-Committees/Planning-Commission",
+      "source_name": "City of Wilmington official Planning Commission page",
+      "status": "published",
+      "checked_at": "2026-10-27"
+    },
+    {
+      "id": "brunswick-planning-board-2026-11-09",
+      "title": "Brunswick County Planning Board",
+      "category": "Public meeting",
+      "start": "2026-11-09T16:00:00-05:00",
+      "end": null,
+      "venue": "Commissioners’ Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
+      "description": "Brunswick County Planning Board meeting. The County's official schedule lists November 9 at 4 p.m. Meetings are open to the public; attendees wishing to speak during the public-comment period should sign in before speaking. End time is not published.",
+      "source_url": "https://brunswickcountync.gov/587/Planning-Board",
+      "source_name": "Brunswick County official Planning Board page",
+      "status": "published",
+      "checked_at": "2026-10-27"
+    },
+    {
+      "id": "belville-planning-board-2026-11-10",
+      "title": "Town of Belville Planning Board",
+      "category": "Public meeting",
+      "start": "2026-11-10T18:00:00-05:00",
+      "end": null,
+      "venue": "Brunswick Community College Leland Center, 2045 Enterprise Boulevard, Leland, NC 28451; Room 204 or 209",
+      "description": "Belville Planning Board meeting. The Town's 2026 meeting calendar highlights Tuesday, November 10. The regular meeting time is 6 p.m. at Brunswick Community College Leland Center; enter through the front entrance for room directions. The date differs from the usual first-Tuesday pattern, so check the posted agenda before attending. Host: Town of Belville. End time is not published.",
+      "source_url": "https://townofbelville.com/wp-content/uploads/2026/07/2026-Planning-Board-BOA-Meeting-Calendar-rev-07-2026.pdf",
+      "source_name": "Town of Belville 2026 Planning Board and Board of Adjustment calendar",
+      "status": "published",
+      "checked_at": "2026-10-27",
+      "editor_note": "Confirm against the posted agenda because the highlighted date differs from the Town's usual first-Tuesday schedule."
     }
   ]
 }
