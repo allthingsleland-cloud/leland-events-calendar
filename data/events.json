@@ -17,34 +17,6 @@
       "editor_note": "Multi-day listing; daily hours vary by location."
     },
     {
-      "id": "brunswick-elections-absentee-2026-10-27",
-      "title": "Brunswick County Board of Elections — Absentee Meeting",
-      "category": "Elections",
-      "start": "2026-10-27T16:00:00-04:00",
-      "end": "2026-10-27T17:00:00-04:00",
-      "venue": "Commissioners’ Chambers, Brunswick County Government Center, 30 Government Center Drive NE, Bolivia, NC 28422",
-      "description": "Board of Elections absentee meeting. Members of the public may attend in person or virtually via the listed County livestream. Consult the official County calendar for access and agenda information.",
-      "source_url": "https://brunswickcountync.gov/calendar.aspx?CID=0&month=10&view=list&year=2026",
-      "source_name": "Brunswick County official calendar",
-      "status": "published",
-      "checked_at": "2026-10-20",
-      "editor_note": "Migrated from existing public page; reconfirm current listing."
-    },
-    {
-      "id": "leland-planning-board-2026-10-27",
-      "title": "Town of Leland Planning Board",
-      "category": "Public meeting",
-      "start": "2026-10-27T18:00:00-04:00",
-      "end": null,
-      "venue": "Leland Town Hall, 102 Town Hall Drive, Leland, NC 28451",
-      "description": "The Planning Board makes recommendations on land-use policy, including zoning-map changes and Code of Ordinances updates. Check the official meeting portal for the agenda and public-comment details.",
-      "source_url": "https://townofleland.civicweb.net/Portal/MeetingSchedule.aspx",
-      "source_name": "Official Town meeting schedule and agendas",
-      "status": "published",
-      "checked_at": "2026-10-21",
-      "editor_note": "Start time and venue confirmed by editor: 6 p.m. at Leland Town Hall on October 27, 2026."
-    },
-    {
       "id": "leland-library-baby-storytime-2026-10-28",
       "title": "Baby Storytime — Leland Branch Library",
       "category": "Community event",
@@ -366,19 +338,6 @@
       "checked_at": "2026-10-21"
     },
     {
-      "id": "northwest-city-hall-council-meeting-2026-10-27",
-      "title": "City of Northwest City Hall Council Meeting",
-      "category": "Public meeting",
-      "start": "2026-10-27T18:00:00-04:00",
-      "end": "2026-10-27T19:00:00-04:00",
-      "venue": "City Hall, 4889 Vernon Road, Northwest, NC 28451",
-      "description": "Scheduled City Council meeting hosted by the City of Northwest. Check the official event page for agenda information or updates. Public attendance; no registration requirement is listed.",
-      "source_url": "https://www.cityofnorthwest.com/meetings-agendas-and-events/city-hall-council-meeting-3",
-      "source_name": "City of Northwest official meeting listing",
-      "status": "published",
-      "checked_at": "2026-10-22"
-    },
-    {
       "id": "northwest-fall-festival-2026-10-30",
       "title": "Northwest Fall Festival",
       "category": "Community event",
@@ -405,34 +364,6 @@
       "status": "published",
       "checked_at": "2026-10-22",
       "editor_note": "Official Town page confirms date, time, venue, activities, and parking. Booth participation is separate from attendee registration."
-    },
-    {
-      "id": "leland-homeschool-studio-ages-5-12-2026-10-27",
-      "title": "Youth - Homeschool Studio (Ages 5-12)",
-      "category": "Community event",
-      "start": "2026-10-27T10:00:00-04:00",
-      "end": "2026-10-27T12:00:00-04:00",
-      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
-      "description": "Homeschool studio session offering guided art activities with Town of Leland staff and instructors. Online registration is offered; confirm availability before attending.",
-      "source_url": "https://www.townofleland.com/Calendar.aspx?EID=809",
-      "source_name": "Town of Leland official event calendar",
-      "status": "published",
-      "checked_at": "2026-10-23",
-      "editor_note": "Town calendar confirms 10 a.m.-noon."
-    },
-    {
-      "id": "leland-homeschool-studio-teen-2026-10-27",
-      "title": "Youth - Homeschool Studio - Teen (Ages 13-17)",
-      "category": "Community event",
-      "start": "2026-10-27T12:00:00-04:00",
-      "end": "2026-10-27T13:30:00-04:00",
-      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
-      "description": "Teen homeschool studio session featuring guided art projects that encourage creativity and exploration. Online registration is offered; confirm availability before attending.",
-      "source_url": "https://www.townofleland.com/Calendar.aspx?EID=810",
-      "source_name": "Town of Leland official event calendar",
-      "status": "published",
-      "checked_at": "2026-10-23",
-      "editor_note": "Town calendar confirms noon-1:30 p.m."
     },
     {
       "id": "indigo-girls-wilmington-2026-10-29",
@@ -540,20 +471,6 @@
       "source_name": "Official Wilson Center event listing",
       "status": "published",
       "checked_at": "2026-10-24"
-    },
-    {
-      "id": "belville-board-of-commissioners-2026-10-27",
-      "title": "Town of Belville Board of Commissioners",
-      "category": "Public meeting",
-      "start": "2026-10-27T18:00:00-04:00",
-      "end": null,
-      "venue": "Highway Patrol Training Center, 63 River Road, Belville, NC 28451",
-      "description": "Regular meeting of the Town of Belville Board of Commissioners. The Town schedules regular meetings on the fourth Tuesday of the month at 6 p.m. Public attendance; no registration requirement is listed. The Town does not publish an end time.",
-      "source_url": "https://townofbelville.com/board-of-commissioners/",
-      "source_name": "Town of Belville official Board of Commissioners page",
-      "status": "published",
-      "checked_at": "2026-10-24",
-      "editor_note": "Date cross-checked against the Town's 2026 Board of Commissioners meeting calendar."
     },
     {
       "id": "cape-fear-kite-festival-2026-11-06-08",
