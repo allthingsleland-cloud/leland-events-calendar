@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-27",
+  "last_checked": "2026-10-28",
   "events": [
     {
       "id": "brunswick-early-voting-2026-10-15-31",
@@ -317,12 +317,12 @@
       "start": "2026-11-02T15:00:00-05:00",
       "end": "2026-11-02T17:00:00-05:00",
       "venue": "Commissioners’ Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
-      "description": "Regular Board of Commissioners meeting. The County's published 2027 Schedule of Values process anticipates consideration of adoption on November 2. Confirm the final agenda for specific items and public-comment details.",
-      "source_url": "https://www.brunswickcountync.gov/calendar.aspx?CID=0&month=11&view=list&year=2026",
-      "source_name": "Brunswick County official calendar",
+      "description": "Regular Board of Commissioners meeting. Items expected to return from the October 19 meeting include consideration of the 2027 countywide reappraisal Schedule of Values, an updated Hydrant Bulk Water Policy, and continuation of the public hearing on the Water Shortage Response Plan and Water Emergency Ordinance. The final agenda may include other items. Public comment and public-hearing participation procedures are available from the County. In-person attendance is available in Commissioners’ Chambers, and the County provides livestreams through its Agendas and Minutes Portal.",
+      "source_url": "https://www.brunswickcountync.gov/m/newsflash?cat=1%2C6",
+      "source_name": "Brunswick County official meeting notice and recap",
       "status": "published",
-      "checked_at": "2026-10-25",
-      "editor_note": "Regular meeting is scheduled for the first Monday of the month at 3 p.m.; check the official County calendar and agenda for any changes."
+      "checked_at": "2026-10-28",
+      "editor_note": "County notice says the November 2 regular meeting begins at 3 p.m. Recheck the final agenda before publication."
     },
     {
       "id": "brunswick-board-of-education-2026-11-04",
@@ -698,8 +698,7 @@
       "source_url": "https://www.wilmingtonnc.gov/Connect-With-Us/City-Mayor-Council",
       "source_name": "City of Wilmington official City Council schedule",
       "status": "published",
-      "checked_at": "2026-10-27",
-      "editor_note": "Recheck date and agenda: a separate council calendar currently shows November 5, while the City page/agenda search result references November 3."
+      "checked_at": "2026-10-27"
     },
     {
       "id": "wilmington-planning-commission-2026-11-04",
@@ -716,16 +715,17 @@
     },
     {
       "id": "brunswick-planning-board-2026-11-09",
-      "title": "Brunswick County Planning Board",
+      "title": "Brunswick County Planning Board — Public Hearings (Z-947CZ and SS-293)",
       "category": "Public meeting",
       "start": "2026-11-09T16:00:00-05:00",
       "end": null,
       "venue": "Commissioners’ Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
-      "description": "Brunswick County Planning Board meeting. The County's official schedule lists November 9 at 4 p.m. Meetings are open to the public; attendees wishing to speak during the public-comment period should sign in before speaking. End time is not published.",
-      "source_url": "https://brunswickcountync.gov/587/Planning-Board",
-      "source_name": "Brunswick County official Planning Board page",
+      "description": "Brunswick County Planning Board meeting and public hearings. Case Z-947CZ and proposed land-use plan amendment LUM-947 concern approximately 3.48 acres at 10018 Chappell Loop Road SE near Leland, with a request for conditional commercial-intensive zoning to allow a flex-space warehouse and office park. Project SS-293, Heron Bluff Major Subdivision, proposes 172 single-family lots on approximately 80.18 acres at 7255 and 7269 Ridgewood Trail NW and Longwood Road NW (NC 904) near Longwood. The County lists the meeting for 4 p.m. in Commissioners’ Chambers. End time is not published. Contact Brunswick County Planning at 910-253-2025 for hearing participation details.",
+      "source_url": "https://www.brunswickcountync.gov/m/newsflash?cat=1%2C6",
+      "source_name": "Brunswick County official public-hearing notices",
       "status": "published",
-      "checked_at": "2026-10-27"
+      "checked_at": "2026-10-28",
+      "editor_note": "Confirm the final agenda and any changes before the meeting."
     },
     {
       "id": "belville-planning-board-2026-11-10",
@@ -740,6 +740,20 @@
       "status": "published",
       "checked_at": "2026-10-27",
       "editor_note": "Confirm against the posted agenda because the highlighted date differs from the Town's usual first-Tuesday schedule."
+    },
+    {
+      "id": "brunswick-internal-audit-committee-application-deadline-2026-11-05",
+      "title": "Deadline: Apply for Brunswick County Internal Audit Committee",
+      "category": "County government",
+      "start": "2026-11-05T17:00:00-05:00",
+      "end": null,
+      "venue": "Online application",
+      "description": "Deadline to apply for two community-member positions on Brunswick County's new Internal Audit Committee. Applicants with certified public accounting experience are sought; active CPA licenses are preferred, but applicants with inactive licenses and relevant experience may be considered. This is an application deadline, not an in-person event. Submit by 5 p.m. November 5.",
+      "source_url": "https://forms.brunswickcountync.gov/Forms/5gVQO",
+      "source_name": "Brunswick County official application form; County announcement",
+      "status": "published",
+      "checked_at": "2026-10-28",
+      "editor_note": "Confirm application form and deadline remain active before November 5."
     }
   ]
 }
