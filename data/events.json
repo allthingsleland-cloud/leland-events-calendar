@@ -17,33 +17,6 @@
       "editor_note": "Multi-day listing; daily hours vary by location."
     },
     {
-      "id": "northwest-fall-festival-2026-10-30",
-      "title": "Northwest Fall Festival",
-      "category": "Community event",
-      "start": "2026-10-30T17:30:00-04:00",
-      "end": "2026-10-30T19:30:00-04:00",
-      "venue": "Northwest City Park, 4891 Vernon Road NE, Northwest, NC 28451",
-      "description": "Free community fall festival and trunk-or-treat hosted by the City of Northwest, with family games, costumes, and food. No attendee registration requirement is listed.",
-      "source_url": "https://www.cityofnorthwest.com/meetings-agendas-and-events/os9s85tzct5iug4p5uzi9st8qgncbw",
-      "source_name": "City of Northwest official event listing",
-      "status": "published",
-      "checked_at": "2026-10-22",
-      "editor_note": "Official City page confirms date and time; venue and activities cross-checked against Port City Daily."
-    },
-    {
-      "id": "capitol-fools-thalian-hall-2026-10-30",
-      "title": "Capitol Fools",
-      "category": "Community event",
-      "start": "2026-10-30T19:30:00-04:00",
-      "end": null,
-      "venue": "Thalian Hall, 310 Chestnut Street, Wilmington, NC 28401",
-      "description": "Political satire performance featuring musical parodies and comedy about American politics. Tickets required. The venue does not publish an end time in its event listing.",
-      "source_url": "https://www.thalianhall.org/Main_Attractions",
-      "source_name": "Official Thalian Hall event calendar",
-      "status": "published",
-      "checked_at": "2026-10-24"
-    },
-    {
       "id": "leland-pressed-plant-journals-2026-10-31",
       "title": "Mixed Media — Pressed Plant Journals and Notepads",
       "category": "Community event",
