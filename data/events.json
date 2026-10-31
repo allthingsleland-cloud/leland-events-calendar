@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-30",
+  "last_checked": "2026-10-31",
   "events": [
     {
       "id": "brunswick-early-voting-2026-10-15-31",
@@ -61,14 +61,14 @@
       "title": "Brunswick County Board of Commissioners Regular Meeting",
       "category": "County government",
       "start": "2026-11-02T15:00:00-05:00",
-      "end": "2026-11-02T17:00:00-05:00",
+      "end": null,
       "venue": "Commissioners’ Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
-      "description": "Regular Board of Commissioners meeting. Items expected to return from the October 19 meeting include consideration of the 2027 countywide reappraisal Schedule of Values, an updated Hydrant Bulk Water Policy, and continuation of the public hearing on the Water Shortage Response Plan and Water Emergency Ordinance. The final agenda may include other items. Public comment and public-hearing participation procedures are available from the County. In-person attendance is available in Commissioners’ Chambers, and the County provides livestreams through its Agendas and Minutes Portal.",
-      "source_url": "https://www.brunswickcountync.gov/m/newsflash?cat=1%2C6",
-      "source_name": "Brunswick County official meeting notice and recap",
+      "description": "Regular Brunswick County Board of Commissioners meeting. The agenda includes a continued public hearing on the Water Shortage Response Plan and Water Emergency Ordinance, an annual audit report, a Sheriff's Office update on automated license plate reader cameras, and other administrative items. The public is welcome to attend in person or watch the livestream through the County Agendas and Minutes Portal. Host: Brunswick County.",
+      "source_url": "https://brunswickcountync.gov/m/newsflash/Home/Detail/936",
+      "source_name": "Brunswick County official November 2 meeting notice",
       "status": "published",
-      "checked_at": "2026-10-28",
-      "editor_note": "County notice says the November 2 regular meeting begins at 3 p.m. Recheck the final agenda before publication."
+      "checked_at": "2026-10-31",
+      "editor_note": "County notice confirms a 3 p.m. start. No end time is published."
     },
     {
       "id": "brunswick-elections-absentee-2026-11-02",
@@ -349,19 +349,6 @@
       "editor_note": "Rescheduled date cross-checked against local reporting."
     },
     {
-      "id": "electric-light-orchestra-experience-2026-11-06",
-      "title": "The Electric Light Orchestra Experience",
-      "category": "Community event",
-      "start": "2026-11-06T19:30:00-05:00",
-      "end": null,
-      "venue": "Wilson Center, 703 North 3rd Street, Wilmington, NC 28401",
-      "description": "Multimedia concert celebrating Jeff Lynne's ELO music, featuring a 12-piece band and the Wilmington Symphony Orchestra's string section. Tickets required; doors open at 6:30 p.m. The venue does not publish an end time.",
-      "source_url": "https://www.wilsoncentertickets.com/events/detail/the-electric-light-orchestra-experience-1493744",
-      "source_name": "Official Wilson Center event listing",
-      "status": "published",
-      "checked_at": "2026-10-24"
-    },
-    {
       "id": "t-hanksgiving-thalian-hall-2026-11-06",
       "title": "T. Hanksgiving — Friday Performance",
       "category": "Community event",
@@ -373,6 +360,19 @@
       "source_name": "Thalian Hall official event listing",
       "status": "published",
       "checked_at": "2026-10-25"
+    },
+    {
+      "id": "electric-light-orchestra-experience-2026-11-06",
+      "title": "The Electric Light Orchestra Experience",
+      "category": "Community event",
+      "start": "2026-11-06T19:30:00-05:00",
+      "end": null,
+      "venue": "Wilson Center, 703 North 3rd Street, Wilmington, NC 28401",
+      "description": "Multimedia concert celebrating Jeff Lynne's ELO music, featuring a 12-piece band and the Wilmington Symphony Orchestra's string section. Tickets required; doors open at 6:30 p.m. The venue does not publish an end time.",
+      "source_url": "https://www.wilsoncentertickets.com/events/detail/the-electric-light-orchestra-experience-1493744",
+      "source_name": "Official Wilson Center event listing",
+      "status": "published",
+      "checked_at": "2026-10-24"
     },
     {
       "id": "southport-wooden-boat-show-2026-11-07",
@@ -416,6 +416,19 @@
       "checked_at": "2026-10-29"
     },
     {
+      "id": "polish-festival-castle-hayne-2026-11-07",
+      "title": "St. Stan's Polish Festival",
+      "category": "Community event",
+      "start": "2026-11-07T11:00:00-05:00",
+      "end": "2026-11-07T16:00:00-05:00",
+      "venue": "St. Stanislaus Catholic Church, 4849 Castle Hayne Road, Castle Hayne, NC 28429; parking-lot entrance on Marathon Avenue.",
+      "description": "The 26th annual festival features Polish food, baked goods, music, dancing, children's activities and a craft sale. Admission and parking are free; food and other items are available for purchase.",
+      "source_url": "https://ststanspolishfestival.org/",
+      "source_name": "St. Stanislaus Polish Festival",
+      "status": "published",
+      "checked_at": "2026-10-25"
+    },
+    {
       "id": "great-pumpkin-blowout-2026-11-07",
       "title": "The Great Pumpkin Blowout",
       "category": "Community event",
@@ -428,19 +441,6 @@
       "status": "published",
       "checked_at": "2026-10-18",
       "editor_note": "Confirmed on the official NC DNCR site."
-    },
-    {
-      "id": "polish-festival-castle-hayne-2026-11-07",
-      "title": "St. Stan's Polish Festival",
-      "category": "Community event",
-      "start": "2026-11-07T11:00:00-05:00",
-      "end": "2026-11-07T16:00:00-05:00",
-      "venue": "St. Stanislaus Catholic Church, 4849 Castle Hayne Road, Castle Hayne, NC 28429; parking-lot entrance on Marathon Avenue.",
-      "description": "The 26th annual festival features Polish food, baked goods, music, dancing, children's activities and a craft sale. Admission and parking are free; food and other items are available for purchase.",
-      "source_url": "https://ststanspolishfestival.org/",
-      "source_name": "St. Stanislaus Polish Festival",
-      "status": "published",
-      "checked_at": "2026-10-25"
     },
     {
       "id": "switchfoot-anberlin-wilmington-2026-11-07",
@@ -644,6 +644,19 @@
       "editor_note": "Confirm end time with Town or VFW. Town calendar says 3 p.m.; VFW says closing ceremonies begin at 3:45 p.m."
     },
     {
+      "id": "wilmington-historic-preservation-commission-2026-11-12",
+      "title": "Wilmington Historic Preservation Commission",
+      "category": "Public meeting",
+      "start": "2026-11-12T17:30:00-05:00",
+      "end": "2026-11-12T20:00:00-05:00",
+      "venue": "Council Chambers, City Hall at Skyline Center, 929 North Front Street, Wilmington, NC 28401",
+      "description": "Regular Historic Preservation Commission meeting. Host: City of Wilmington. No registration requirement is stated. Meetings can be watched through GTV, YouTube, or the Cablecast app; consult the agenda for meeting details and public participation information.",
+      "source_url": "https://www.wilmingtonnc.gov/Events-directory/Historic-Preservation-Commission",
+      "source_name": "City of Wilmington official meeting page",
+      "status": "published",
+      "checked_at": "2026-10-31"
+    },
+    {
       "id": "brunswick-zoning-board-adjustment-2026-11-12",
       "title": "Brunswick County Zoning Board of Adjustment",
       "category": "Public meeting",
@@ -684,6 +697,19 @@
       "status": "published",
       "checked_at": "2026-10-26",
       "editor_note": "Date confirmed by organizer; noon start cross-checked against event ticket listing. End time is not published."
+    },
+    {
+      "id": "wmpo-public-participation-plan-comment-deadline-2026-11-14",
+      "title": "Deadline: Public Comment on WMPO Public Participation Plan Amendment",
+      "category": "Public meeting",
+      "start": "2026-11-14T17:00:00-05:00",
+      "end": null,
+      "venue": "Submit comments by email to wmpo@wilmingtonnc.gov or mail to Wilmington Urban Area MPO, PO Box 1810, Wilmington, NC 28402-1810. Printed copy available at 545 N. 4th Street, Wilmington, NC 28401.",
+      "description": "Final deadline to submit comments on the proposed amendment to the WMPO Public Participation Plan. The amendment would add an online form as another way to submit public comments during transportation-planning comment periods. Host: Wilmington Urban Area Metropolitan Planning Organization. No registration required; comments are due by 5 p.m.",
+      "source_url": "https://www.wmpo.org/public-comment-opportunity-amendment-to-public-participation-plan/",
+      "source_name": "Wilmington Urban Area MPO official announcement",
+      "status": "published",
+      "checked_at": "2026-10-31"
     },
     {
       "id": "taste-wrightsville-beach-2026-11-14",
@@ -752,6 +778,19 @@
       "status": "published",
       "checked_at": "2026-10-29",
       "editor_note": "Confirm activity-specific timing before final listing."
+    },
+    {
+      "id": "belville-christmas-tree-lighting-2026-12-05",
+      "title": "Christmas Tree Lighting — Belville Riverwalk Park",
+      "category": "Community event",
+      "start": "2026-12-05T16:00:00-05:00",
+      "end": "2026-12-05T18:00:00-05:00",
+      "venue": "Belville Riverwalk Park, 580 River Road SE, Belville, NC 28451",
+      "description": "Town of Belville Christmas Tree Lighting. Host: Town of Belville. Public event. No attendee registration requirement is stated; check with Belville Parks and Recreation for event details.",
+      "source_url": "https://townofbelville.com/recreation-and-events/",
+      "source_name": "Town of Belville official Recreation & Events page",
+      "status": "published",
+      "checked_at": "2026-10-31"
     },
     {
       "id": "leland-live-at-lights-2026-12-05",
