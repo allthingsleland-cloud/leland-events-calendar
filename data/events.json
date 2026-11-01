@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-31",
+  "last_checked": "2026-11-01",
   "events": [
     {
       "id": "wilmington-city-council-agenda-briefing-2026-11-02",
@@ -521,6 +521,20 @@
       "checked_at": "2026-10-25"
     },
     {
+      "id": "brunswick-boe-sample-audit-count-2026-11-09",
+      "title": "Brunswick County Board of Elections — Sample Audit Count",
+      "category": "Public meeting",
+      "start": "2026-11-09T09:00:00-05:00",
+      "end": "2026-11-09T10:00:00-05:00",
+      "venue": "Brunswick County Board of Elections Office, 75 Stamp Act Drive NE, Building H, Bolivia, NC 28422",
+      "description": "Sample audit count following the November 2026 General Election. The meeting is listed as an in-person meeting with a Zoom livestream. Host: Brunswick County Board of Elections.",
+      "source_url": "https://brunswickcountync.gov/Calendar.aspx?EID=1403",
+      "source_name": "Brunswick County official Board of Elections calendar",
+      "status": "published",
+      "checked_at": "2026-11-01",
+      "editor_note": "County calendar lists the meeting from 9 to 10 a.m."
+    },
+    {
       "id": "wilmington-clean-energy-advisory-committee-2026-11-09",
       "title": "Wilmington Clean Energy Advisory Committee",
       "category": "Public meeting",
@@ -587,6 +601,20 @@
       "status": "published",
       "checked_at": "2026-10-27",
       "editor_note": "Confirm against the posted agenda because the highlighted date differs from the Town's usual first-Tuesday schedule."
+    },
+    {
+      "id": "brunswick-parks-recreation-advisory-board-2026-11-10",
+      "title": "Brunswick County Parks and Recreation Advisory Board",
+      "category": "Public meeting",
+      "start": "2026-11-10T18:00:00-05:00",
+      "end": null,
+      "venue": "Parks and Recreation Boardroom, Building G, 20 Referendum Drive, Bolivia, NC 28422",
+      "description": "Regular meeting of the Brunswick County Parks and Recreation Advisory Board. End time is not published.",
+      "source_url": "https://bcparks.recdesk.com/Community/Page?pageId=9195",
+      "source_name": "Brunswick County Parks and Recreation",
+      "status": "published",
+      "checked_at": "2026-11-01",
+      "editor_note": "Official board information confirms the 6 p.m. meeting and location."
     },
     {
       "id": "smart-start-kpl-leland-2026-11-11",
