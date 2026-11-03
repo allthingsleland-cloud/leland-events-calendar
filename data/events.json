@@ -3,33 +3,6 @@
   "last_checked": "2026-11-02",
   "events": [
     {
-      "id": "brunswick-board-commissioners-2026-11-02",
-      "title": "Brunswick County Board of Commissioners Regular Meeting",
-      "category": "County government",
-      "start": "2026-11-02T15:00:00-05:00",
-      "end": null,
-      "venue": "Commissioners’ Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
-      "description": "Regular Brunswick County Board of Commissioners meeting. The agenda includes a continued public hearing on the Water Shortage Response Plan and Water Emergency Ordinance, an annual audit report, a Sheriff's Office update on automated license plate reader cameras, and other administrative items. The public is welcome to attend in person or watch the livestream through the County Agendas and Minutes Portal. Host: Brunswick County.",
-      "source_url": "https://brunswickcountync.gov/m/newsflash/Home/Detail/936",
-      "source_name": "Brunswick County official November 2 meeting notice",
-      "status": "published",
-      "checked_at": "2026-11-01",
-      "editor_note": "Rechecked November 1 against the County’s official November 2 notice; 3 p.m. start confirmed, no end time published."
-    },
-    {
-      "id": "brunswick-elections-absentee-2026-11-02",
-      "title": "Brunswick County Board of Elections — Regular and Absentee Meeting",
-      "category": "Elections",
-      "start": "2026-11-02T16:00:00-05:00",
-      "end": "2026-11-02T17:00:00-05:00",
-      "venue": "Board of Elections Office, 75 Stamp Act Drive NE, Building H, Bolivia, NC 28422",
-      "description": "Regular and absentee meeting of the Board of Elections. Members of the public may attend in person or virtually via the County's Zoom livestream.",
-      "source_url": "https://brunswickcountync.gov/Calendar.aspx?EID=1401",
-      "source_name": "Brunswick County official Board of Elections meeting listing",
-      "status": "published",
-      "checked_at": "2026-10-21"
-    },
-    {
       "id": "brunswick-general-election-day-2026-11-03",
       "title": "November 2026 General Election — Election Day Voting",
       "category": "Elections",
