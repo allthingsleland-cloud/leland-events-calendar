@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-03",
   "events": [
     {
       "id": "brunswick-general-election-day-2026-11-03",
@@ -376,6 +376,19 @@
       "editor_note": "Organizer listing confirms Nov. 7, 11 a.m.–12:15 p.m., venue, and registration details."
     },
     {
+      "id": "leland-lcac-youth-little-learners-2026-11-07",
+      "title": "Youth — Little Learners",
+      "category": "Community event",
+      "start": "2026-11-07T11:30:00-05:00",
+      "end": "2026-11-07T12:30:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Literacy-based art program for young children. The program begins with story time and explores creativity through art activities. Host: Town of Leland. Check the Town's registration page for availability and age requirements.",
+      "source_url": "https://www.townofleland.com/calendar",
+      "source_name": "Town of Leland official calendar and Parks, Recreation & Cultural Resources program schedule",
+      "status": "published",
+      "checked_at": "2026-11-03"
+    },
+    {
       "id": "applearchy-cider-fest-2026-11-07",
       "title": "Applearchy Cider Fest",
       "category": "Community event",
@@ -388,6 +401,19 @@
       "status": "published",
       "checked_at": "2026-11-01",
       "editor_note": "Visit Leland lists the festival on Nov. 7, 12–5 p.m.; ticket tiers and tasting window are stated in the listing."
+    },
+    {
+      "id": "leland-lcac-storytime-2026-11-07",
+      "title": "Storytime at the Leland Cultural Arts Center",
+      "category": "Community event",
+      "start": "2026-11-07T13:30:00-05:00",
+      "end": "2026-11-07T14:30:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Monthly Storytime at the Leland Cultural Arts Center, followed by a short craft project. Parents or guardians should accompany children. Host: Town of Leland. Check the Town's registration page for details.",
+      "source_url": "https://www.townofleland.com/calendar",
+      "source_name": "Town of Leland official calendar and Parks, Recreation & Cultural Resources program schedule",
+      "status": "published",
+      "checked_at": "2026-11-03"
     },
     {
       "id": "switchfoot-anberlin-wilmington-2026-11-07",
@@ -509,6 +535,32 @@
       "editor_note": "County calendar lists the meeting from 9 to 10 a.m."
     },
     {
+      "id": "leland-lcac-homeschool-studio-ages-5-12-2026-11-09",
+      "title": "Youth Homeschool Studio (Ages 5–12)",
+      "category": "Community event",
+      "start": "2026-11-09T10:00:00-05:00",
+      "end": "2026-11-09T12:00:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Homeschool art program exploring a variety of art mediums through creative projects. Host: Town of Leland. Registration required; check availability and program details with the Town.",
+      "source_url": "https://www.townofleland.com/calendar",
+      "source_name": "Town of Leland official calendar and Parks, Recreation & Cultural Resources program schedule",
+      "status": "published",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "leland-lcac-homeschool-studio-teen-2026-11-09",
+      "title": "Youth Homeschool Studio — Teen (Ages 13–17)",
+      "category": "Community event",
+      "start": "2026-11-09T12:00:00-05:00",
+      "end": "2026-11-09T13:30:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Homeschool art program for teens exploring a variety of art mediums through creative projects. Host: Town of Leland. Registration required; check availability and program details with the Town.",
+      "source_url": "https://www.townofleland.com/calendar",
+      "source_name": "Town of Leland official calendar and Parks, Recreation & Cultural Resources program schedule",
+      "status": "published",
+      "checked_at": "2026-11-03"
+    },
+    {
       "id": "wilmington-clean-energy-advisory-committee-2026-11-09",
       "title": "Wilmington Clean Energy Advisory Committee",
       "category": "Public meeting",
@@ -548,6 +600,19 @@
       "status": "published",
       "checked_at": "2026-10-26",
       "editor_note": "Date, start time, end time, and venue listed on district school calendar."
+    },
+    {
+      "id": "leland-lcac-seasonal-scrapbooking-2026-11-09",
+      "title": "Seasonal Scrapbooking — Fall Is in the Air",
+      "category": "Community event",
+      "start": "2026-11-09T18:00:00-05:00",
+      "end": "2026-11-09T20:00:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Seasonal scrapbooking program. Host: Town of Leland. Registration required; check the Town's online registration page for availability and materials information.",
+      "source_url": "https://www.townofleland.com/calendar",
+      "source_name": "Town of Leland official calendar and Parks, Recreation & Cultural Resources program schedule",
+      "status": "published",
+      "checked_at": "2026-11-03"
     },
     {
       "id": "smart-start-kpl-leland-2026-11-10",
@@ -687,6 +752,19 @@
       "editor_note": "Check Town agenda portal for cancellation or agenda update before the meeting."
     },
     {
+      "id": "leland-lcac-candy-bar-bingo-2026-11-12",
+      "title": "Candy Bar Bingo",
+      "category": "Community event",
+      "start": "2026-11-12T18:00:00-05:00",
+      "end": "2026-11-12T19:30:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "All-ages bingo with candy prizes. Registration includes three bingo cards; additional cards may be available for purchase. Children under 13 should attend with an adult. Host: Town of Leland. Check the Town's registration page for current registration details and availability.",
+      "source_url": "https://www.townofleland.com/calendar",
+      "source_name": "Town of Leland official calendar and Parks, Recreation & Cultural Resources program schedule",
+      "status": "published",
+      "checked_at": "2026-11-03"
+    },
+    {
       "id": "brunswick-elections-canvass-2026-11-13",
       "title": "Brunswick County Board of Elections — Canvass Meeting",
       "category": "Elections",
@@ -739,6 +817,19 @@
       "status": "published",
       "checked_at": "2026-10-26",
       "editor_note": "Date confirmed by host; 5–8 p.m. schedule cross-checked against local reporting."
+    },
+    {
+      "id": "leland-lcac-contra-dance-2026-11-14",
+      "title": "Contra Dance",
+      "category": "Community event",
+      "start": "2026-11-14T19:00:00-05:00",
+      "end": "2026-11-14T22:00:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Community contra dance open to beginners and experienced dancers. The evening includes a beginner group lesson from 7–7:30 p.m., followed by open dancing from 7:30–10 p.m. No partner or prior experience is needed. Host: Town of Leland.",
+      "source_url": "https://www.townofleland.com/224/Social-Dance-Series",
+      "source_name": "Town of Leland official Social Dance Series page",
+      "status": "published",
+      "checked_at": "2026-11-03"
     },
     {
       "id": "northwest-city-hall-council-2026-11-17",
