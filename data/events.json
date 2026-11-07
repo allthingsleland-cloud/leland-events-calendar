@@ -495,6 +495,19 @@
       "checked_at": "2026-11-04"
     },
     {
+      "id": "wilmington-little-aces-tennis-clinics-2026-11-10",
+      "title": "Little Aces Tennis Clinics: Session 1",
+      "category": "Community event",
+      "start": "2026-11-10T15:30:00-05:00",
+      "end": "2026-11-10T16:30:00-05:00",
+      "venue": "Empie Park, 3405 Park Avenue, Wilmington, NC 28403",
+      "description": "Tennis fundamentals for children ages 5–7, using drills and games. Host: City of Wilmington Parks and Recreation. The City lists a $72 program fee and online registration; confirm availability for this final listed session.",
+      "source_url": "https://www.wilmingtonnc.gov/Events-directory/Little-Aces-Tennis-Clinics-Session-1",
+      "source_name": "City of Wilmington official events calendar",
+      "status": "published",
+      "checked_at": "2026-11-07"
+    },
+    {
       "id": "brunswick-parks-recreation-advisory-board-2026-11-10",
       "title": "Brunswick County Parks and Recreation Advisory Board",
       "category": "Public meeting",
@@ -1023,6 +1036,19 @@
       "checked_at": "2026-11-07"
     },
     {
+      "id": "nhc-hispanic-latino-commission-2026-11-17",
+      "title": "New Hanover County Hispanic/Latino Commission Meeting",
+      "category": "Public meeting",
+      "start": "2026-11-17T16:00:00-05:00",
+      "end": null,
+      "venue": "New Hanover County Government Center, Room 155, 230 Government Center Drive, Wilmington, NC 28403",
+      "description": "Meeting of the New Hanover County Hispanic/Latino Commission. The County announced that the November meeting was rescheduled to November 17 at 4 p.m. Host: New Hanover County. Public meeting.",
+      "source_url": "https://diversity.nhcgov.com/m/newsflash?cat=10",
+      "source_name": "New Hanover County official public notice",
+      "status": "published",
+      "checked_at": "2026-11-07"
+    },
+    {
       "id": "northwest-city-hall-council-2026-11-17",
       "title": "City Hall Council Meeting — City of Northwest",
       "category": "Public meeting",
@@ -1299,6 +1325,19 @@
       "checked_at": "2026-11-04"
     },
     {
+      "id": "nhc-commission-for-women-2026-12-02",
+      "title": "New Hanover County Commission for Women Meeting",
+      "category": "Public meeting",
+      "start": "2026-12-02T16:00:00-05:00",
+      "end": null,
+      "venue": "New Hanover County Government Center, Room 155, 230 Government Center Drive, Wilmington, NC 28403",
+      "description": "New Hanover County Commission for Women meeting. The County rescheduled its December meeting to December 2 at 4 p.m. because of the Christmas holiday. Host: New Hanover County. Public meeting.",
+      "source_url": "https://diversity.nhcgov.com/m/newsflash?cat=10",
+      "source_name": "New Hanover County official public notice",
+      "status": "published",
+      "checked_at": "2026-11-07"
+    },
+    {
       "id": "leland-live-at-lights-2026-12-04",
       "title": "Live at Leland in Lights — Live Entertainment",
       "category": "Community event",
@@ -1380,6 +1419,19 @@
       "status": "published",
       "checked_at": "2026-10-18",
       "editor_note": "Confirmed on the official NC DNCR site."
+    },
+    {
+      "id": "nhc-hispanic-latino-commission-2026-12-15",
+      "title": "New Hanover County Hispanic/Latino Commission Meeting",
+      "category": "Public meeting",
+      "start": "2026-12-15T16:00:00-05:00",
+      "end": null,
+      "venue": "New Hanover County Government Center, Room 155, 230 Government Center Drive, Wilmington, NC 28403",
+      "description": "Meeting of the New Hanover County Hispanic/Latino Commission. The County announced the December meeting for December 15 at 4 p.m. Host: New Hanover County. Public meeting.",
+      "source_url": "https://diversity.nhcgov.com/m/newsflash?cat=10",
+      "source_name": "New Hanover County official public notice",
+      "status": "published",
+      "checked_at": "2026-11-07"
     },
     {
       "id": "leland-live-at-lights-2026-12-18",
