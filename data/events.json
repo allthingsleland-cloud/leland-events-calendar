@@ -1275,6 +1275,33 @@
       "status": "published",
       "checked_at": "2026-11-08",
       "editor_note": "Added after editorial approval; event notice published by the Town on November 6, 2026."
+    },
+    {
+      "id": "wmpo-prioritization-8-local-input-comment-deadline-2026-11-11",
+      "title": "Deadline: Public Comment on WMPO Prioritization 8.0 Local Input Assignments",
+      "category": "Public meeting",
+      "start": "2026-11-11T17:00:00-05:00",
+      "end": null,
+      "venue": "Submit comments by email to wmpo@wilmingtonnc.gov or mail to Wilmington Urban Area MPO, PO Box 1810, Wilmington, NC 28402-1810. Printed materials available at 545 N. 4th Street, Wilmington, NC 28401.",
+      "description": "Deadline for public comments on proposed Division Needs Tier Local Input Point Assignments for NCDOT's Prioritization 8.0 process. Host: Wilmington Urban Area Metropolitan Planning Organization. No registration required; comments are due by 5 p.m.",
+      "source_url": "https://www.wmpo.org/public-comment-opportunity-prioritization-8-0-local-input/",
+      "source_name": "Wilmington Urban Area MPO official announcement",
+      "status": "published",
+      "checked_at": "2026-11-08"
+    },
+    {
+      "id": "wmpo-board-meeting-2026-11-18",
+      "title": "Wilmington Urban Area MPO Board Meeting",
+      "category": "Public meeting",
+      "start": "2026-11-18T15:00:00-05:00",
+      "end": null,
+      "venue": "Board Room, WMPO Office, 525 N. 4th Street, Wilmington, NC 28401",
+      "description": "Meeting of the Wilmington Urban Area MPO Board, which sets policy direction and approves regional transportation plans, projects and proposals. Host: Wilmington Urban Area Metropolitan Planning Organization. Public meeting; no registration requirement stated. The 3 p.m. start follows the WMPO's published regular meeting schedule; confirm against the specific agenda when posted.",
+      "source_url": "https://www.wmpo.org/november-board-meeting/",
+      "source_name": "Wilmington Urban Area MPO official announcement",
+      "status": "published",
+      "checked_at": "2026-11-08",
+      "editor_note": "Confirm the specific meeting start time when the agenda is posted."
     }
   ]
 }
