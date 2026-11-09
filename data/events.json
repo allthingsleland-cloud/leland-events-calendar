@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-08",
+  "last_checked": "2026-11-09",
   "events": [
     {
       "id": "brunswick-boe-sample-audit-count-2026-11-09",
@@ -1209,6 +1209,62 @@
       "status": "published",
       "checked_at": "2026-11-08",
       "editor_note": "Confirm the specific meeting start time when the agenda is posted."
+    },
+    {
+      "id": "leland-free-to-be-me-with-you-2026-11-14",
+      "title": "Free to be Me, With You!",
+      "category": "Community event",
+      "start": "2026-11-14T10:00:00-05:00",
+      "end": "2026-11-14T11:00:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Child-centered art activities involving color, shapes, animals, playdough, painting, collage, gluing and storytelling. Parent participation is required. Host: Town of Leland. Age, fee and attendee registration details need confirmation.",
+      "source_url": "https://www.townofleland.com/Calendar.aspx?EID=860",
+      "source_name": "Town of Leland official calendar; time corroborated by local event listings",
+      "status": "published",
+      "checked_at": "2026-11-09",
+      "editor_note": "Town calendar confirms event and date. The 10–11 a.m. time is corroborated by local event listings. Verify age range, fee and attendee registration details before approval."
+    },
+    {
+      "id": "manna-ministries-leland-food-distribution-2026-11-21",
+      "title": "Manna Ministries of Leland — Monthly Food Distribution",
+      "category": "Community event",
+      "start": "2026-11-21T09:00:00-05:00",
+      "end": "2026-11-21T11:00:00-05:00",
+      "venue": "Woodburn Presbyterian Church, 509 Village Road NE, Leland, NC 28451",
+      "description": "Monthly food distribution. Manna's official schedule says November and December distributions take place on the third Saturday, with the line open 9–11 a.m. Host: Manna Ministries of Leland. No registration or identification requirement is stated on the official page; contact the ministry to confirm any requirements.",
+      "source_url": "https://www.mannaleland.org/need-food.html",
+      "source_name": "Manna Ministries of Leland official Need Food page",
+      "status": "published",
+      "checked_at": "2026-11-09",
+      "editor_note": "Official page confirms the November third-Saturday schedule, hours and address."
+    },
+    {
+      "id": "southport-board-of-aldermen-regular-meeting-2026-11-12",
+      "title": "Southport Board of Aldermen Regular Meeting — Public Hearing on Bed and Breakfast Standards",
+      "category": "Public meeting",
+      "start": "2026-11-12T18:00:00-05:00",
+      "end": null,
+      "venue": "Southport Community Building, 223 E. Bay Street, Southport, NC 28461",
+      "description": "Regular Board of Aldermen meeting. The City has scheduled a public hearing on a proposed UDO text amendment to Section 3.8.C, Bed and Breakfast, establishing standards for gatherings at bed-and-breakfast properties. Host: City of Southport. Meetings are open to the public; the City provides a meeting livestream. No registration required. End time is not published.",
+      "source_url": "https://www.cityofsouthport.gov/news_detail_T4_R110.php",
+      "source_name": "City of Southport official public-hearing notice and CivicClerk calendar",
+      "status": "published",
+      "checked_at": "2026-11-09",
+      "editor_note": "The official notice confirms the Bed and Breakfast hearing. Port City Daily also reports a Southport Crossing PUD hearing; verify the final agenda before adding that additional item."
+    },
+    {
+      "id": "southport-planning-board-meeting-2026-11-19",
+      "title": "Southport Planning Board Meeting",
+      "category": "Public meeting",
+      "start": "2026-11-19T18:00:00-05:00",
+      "end": null,
+      "venue": "Southport Community Building, 223 E. Bay Street, Southport, NC 28461",
+      "description": "Regular meeting of the City of Southport Planning Board. The official CivicClerk calendar lists the meeting for 6 p.m. in the Southport Community Building. Agenda was not posted as of November 9. Public meeting; no registration requirement stated. Host: City of Southport. End time is not published.",
+      "source_url": "https://southportnc.portal.civicclerk.com/",
+      "source_name": "City of Southport official CivicClerk meeting calendar",
+      "status": "published",
+      "checked_at": "2026-11-09",
+      "editor_note": "Agenda not yet posted; verify before the meeting."
     }
   ]
 }
