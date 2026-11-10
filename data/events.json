@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-09",
+  "last_checked": "2026-11-10",
   "events": [
     {
       "id": "1898-wilmington-wreath-laying-2026-11-10",
@@ -29,6 +29,19 @@
       "checked_at": "2026-10-30"
     },
     {
+      "id": "brunswick-elections-provisional-absentee-2026-11-10",
+      "title": "Brunswick County Board of Elections — Provisional and Absentee Meeting",
+      "category": "Elections",
+      "start": "2026-11-10T10:00:00-05:00",
+      "end": null,
+      "venue": "Commissioners’ Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
+      "description": "The Board of Elections reviews provisional ballot eligibility and absentee ballot cures received by noon. The meeting is open to the public and available by Zoom livestream. Host: Brunswick County.",
+      "source_url": "https://www.brunswickcountync.gov/m/NewsFlash/Home/Detail/938",
+      "source_name": "Brunswick County official November 1, 2026 election notice",
+      "status": "published",
+      "checked_at": "2026-11-02"
+    },
+    {
       "id": "keep-brunswick-county-beautiful-2026-11-10",
       "title": "Keep Brunswick County Beautiful Meeting",
       "category": "Public meeting",
@@ -41,19 +54,6 @@
       "status": "published",
       "checked_at": "2026-11-01",
       "editor_note": "County page confirms second Tuesday monthly at 10 a.m. and the meeting location; County calendar lists Nov. 10."
-    },
-    {
-      "id": "brunswick-elections-provisional-absentee-2026-11-10",
-      "title": "Brunswick County Board of Elections — Provisional and Absentee Meeting",
-      "category": "Elections",
-      "start": "2026-11-10T10:00:00-05:00",
-      "end": null,
-      "venue": "Commissioners’ Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
-      "description": "The Board of Elections reviews provisional ballot eligibility and absentee ballot cures received by noon. The meeting is open to the public and available by Zoom livestream. Host: Brunswick County.",
-      "source_url": "https://www.brunswickcountync.gov/m/NewsFlash/Home/Detail/938",
-      "source_name": "Brunswick County official November 1, 2026 election notice",
-      "status": "published",
-      "checked_at": "2026-11-02"
     },
     {
       "id": "1898-clergy-unity-luncheon-2026-11-10",
@@ -95,20 +95,6 @@
       "checked_at": "2026-11-07"
     },
     {
-      "id": "brunswick-parks-recreation-advisory-board-2026-11-10",
-      "title": "Brunswick County Parks and Recreation Advisory Board",
-      "category": "Public meeting",
-      "start": "2026-11-10T18:00:00-05:00",
-      "end": null,
-      "venue": "Parks and Recreation Boardroom, Building G, 20 Referendum Drive, Bolivia, NC 28422",
-      "description": "Regular meeting of the Brunswick County Parks and Recreation Advisory Board. End time is not published.",
-      "source_url": "https://bcparks.recdesk.com/Community/Page?pageId=9195",
-      "source_name": "Brunswick County Parks and Recreation",
-      "status": "published",
-      "checked_at": "2026-11-01",
-      "editor_note": "Official board information confirms the 6 p.m. meeting and location."
-    },
-    {
       "id": "belville-planning-board-2026-11-10",
       "title": "Belville Planning Board Public Hearing — 9111 Ocean Hwy E Rezoning",
       "category": "Public meeting",
@@ -121,6 +107,20 @@
       "status": "published",
       "checked_at": "2026-11-08",
       "editor_note": "Updated from the Town's November 3, 2026 public-hearing notice. Confirm the notice PDF remains accessible at the Town's official website."
+    },
+    {
+      "id": "brunswick-parks-recreation-advisory-board-2026-11-10",
+      "title": "Brunswick County Parks and Recreation Advisory Board",
+      "category": "Public meeting",
+      "start": "2026-11-10T18:00:00-05:00",
+      "end": null,
+      "venue": "Parks and Recreation Boardroom, Building G, 20 Referendum Drive, Bolivia, NC 28422",
+      "description": "Regular meeting of the Brunswick County Parks and Recreation Advisory Board. End time is not published.",
+      "source_url": "https://bcparks.recdesk.com/Community/Page?pageId=9195",
+      "source_name": "Brunswick County Parks and Recreation",
+      "status": "published",
+      "checked_at": "2026-11-01",
+      "editor_note": "Official board information confirms the 6 p.m. meeting and location."
     },
     {
       "id": "smart-start-kpl-leland-2026-11-11",
@@ -149,6 +149,19 @@
       "status": "published",
       "checked_at": "2026-10-30",
       "editor_note": "Confirm end time with Town or VFW. Town calendar says 3 p.m.; VFW says closing ceremonies begin at 3:45 p.m."
+    },
+    {
+      "id": "wmpo-prioritization-8-local-input-comment-deadline-2026-11-11",
+      "title": "Deadline: Public Comment on WMPO Prioritization 8.0 Local Input Assignments",
+      "category": "Public meeting",
+      "start": "2026-11-11T17:00:00-05:00",
+      "end": null,
+      "venue": "Submit comments by email to wmpo@wilmingtonnc.gov or mail to Wilmington Urban Area MPO, PO Box 1810, Wilmington, NC 28402-1810. Printed materials available at 545 N. 4th Street, Wilmington, NC 28401.",
+      "description": "Deadline for public comments on proposed Division Needs Tier Local Input Point Assignments for NCDOT's Prioritization 8.0 process. Host: Wilmington Urban Area Metropolitan Planning Organization. No registration required; comments are due by 5 p.m.",
+      "source_url": "https://www.wmpo.org/public-comment-opportunity-prioritization-8-0-local-input/",
+      "source_name": "Wilmington Urban Area MPO official announcement",
+      "status": "published",
+      "checked_at": "2026-11-08"
     },
     {
       "id": "museum-coastal-carolina-festival-of-trees-2026-11-12",
@@ -216,30 +229,30 @@
       "checked_at": "2026-11-07"
     },
     {
-      "id": "wilmington-historic-preservation-commission-2026-11-12",
-      "title": "Wilmington Historic Preservation Commission",
-      "category": "Public meeting",
-      "start": "2026-11-12T17:30:00-05:00",
-      "end": "2026-11-12T20:00:00-05:00",
-      "venue": "Council Chambers, City Hall at Skyline Center, 929 North Front Street, Wilmington, NC 28401",
-      "description": "Regular Historic Preservation Commission meeting. Host: City of Wilmington. No registration requirement is stated. Meetings can be watched through GTV, YouTube, or the Cablecast app; consult the agenda for meeting details and public participation information.",
-      "source_url": "https://www.wilmingtonnc.gov/Events-directory/Historic-Preservation-Commission",
-      "source_name": "City of Wilmington official meeting page",
+      "id": "library-tech-support-2026-11-12",
+      "title": "One-on-One Technology Support",
+      "category": "Community event",
+      "start": "2026-11-12T13:00:00-05:00",
+      "end": "2026-11-12T15:00:00-05:00",
+      "venue": "Harper Library Reference Room, 109 W. Moore Street, Southport, NC 28461",
+      "description": "Free 30-minute individual technology assistance for computers, tablets and phones. Host: Brunswick County Public Library. Appointment required; call 910-253-1813 or schedule online.",
+      "source_url": "https://brunsco.libcal.com/event/17339174",
+      "source_name": "Brunswick County Public Library",
       "status": "published",
-      "checked_at": "2026-10-31"
+      "checked_at": "2026-11-10"
     },
     {
-      "id": "museum-sandbar-lecture-pirates-carolinas-2026-11-12",
-      "title": "Sandbar Lecture Series — Pirates of the Carolinas",
-      "category": "History & culture",
-      "start": "2026-11-12T17:30:00-05:00",
-      "end": "2026-11-12T19:00:00-05:00",
-      "venue": "Museum of Coastal Carolina, 21 East 2nd Street, Ocean Isle Beach, NC 28469",
-      "description": "Local historian Jim McKee, site manager at Brunswick Town/Fort Anderson State Historic Site, discusses pirates of the Carolina coast, including Stede Bonnet, Anne Bonny and Mary Read. Host: Museum of Coastal Carolina. The event page does not state a separate ticket price; confirm admission details with the museum.",
-      "source_url": "https://museumplanetarium.org/event/sandbar-lecture-series-pirate-tales/",
-      "source_name": "Museum of Coastal Carolina official event page",
+      "id": "library-italian-club-2026-11-12",
+      "title": "Italian Language Learners Club",
+      "category": "Community event",
+      "start": "2026-11-12T17:00:00-05:00",
+      "end": "2026-11-12T18:30:00-05:00",
+      "venue": "Southwest Brunswick Branch Library, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "Informal Italian conversation and practice for ages 12 and older. Host: Brunswick County Public Library. No registration requirement stated.",
+      "source_url": "https://brunsco.libcal.com/event/17057946",
+      "source_name": "Brunswick County Public Library",
       "status": "published",
-      "checked_at": "2026-11-04"
+      "checked_at": "2026-11-10"
     },
     {
       "id": "holiday-sip-shop-support-leland-2026-11-12",
@@ -269,17 +282,30 @@
       "checked_at": "2026-11-07"
     },
     {
-      "id": "leland-lcac-candy-bar-bingo-2026-11-12",
-      "title": "Candy Bar Bingo",
-      "category": "Community event",
-      "start": "2026-11-12T18:00:00-05:00",
-      "end": "2026-11-12T19:30:00-05:00",
-      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
-      "description": "All-ages bingo with candy prizes. Registration includes three bingo cards; additional cards may be available for purchase. Children under 13 should attend with an adult. Host: Town of Leland. Check the Town's registration page for current registration details and availability.",
-      "source_url": "https://www.townofleland.com/calendar",
-      "source_name": "Town of Leland official calendar and Parks, Recreation & Cultural Resources program schedule",
+      "id": "museum-sandbar-lecture-pirates-carolinas-2026-11-12",
+      "title": "Sandbar Lecture Series — Pirates of the Carolinas",
+      "category": "History & culture",
+      "start": "2026-11-12T17:30:00-05:00",
+      "end": "2026-11-12T19:00:00-05:00",
+      "venue": "Museum of Coastal Carolina, 21 East 2nd Street, Ocean Isle Beach, NC 28469",
+      "description": "Local historian Jim McKee, site manager at Brunswick Town/Fort Anderson State Historic Site, discusses pirates of the Carolina coast, including Stede Bonnet, Anne Bonny and Mary Read. Host: Museum of Coastal Carolina. The event page does not state a separate ticket price; confirm admission details with the museum.",
+      "source_url": "https://museumplanetarium.org/event/sandbar-lecture-series-pirate-tales/",
+      "source_name": "Museum of Coastal Carolina official event page",
       "status": "published",
-      "checked_at": "2026-11-03"
+      "checked_at": "2026-11-04"
+    },
+    {
+      "id": "wilmington-historic-preservation-commission-2026-11-12",
+      "title": "Wilmington Historic Preservation Commission",
+      "category": "Public meeting",
+      "start": "2026-11-12T17:30:00-05:00",
+      "end": "2026-11-12T20:00:00-05:00",
+      "venue": "Council Chambers, City Hall at Skyline Center, 929 North Front Street, Wilmington, NC 28401",
+      "description": "Regular Historic Preservation Commission meeting. Host: City of Wilmington. No registration requirement is stated. Meetings can be watched through GTV, YouTube, or the Cablecast app; consult the agenda for meeting details and public participation information.",
+      "source_url": "https://www.wilmingtonnc.gov/Events-directory/Historic-Preservation-Commission",
+      "source_name": "City of Wilmington official meeting page",
+      "status": "published",
+      "checked_at": "2026-10-31"
     },
     {
       "id": "brunswick-fire-protection-oversight-committee-2026-11-12",
@@ -293,6 +319,33 @@
       "source_name": "Brunswick County official calendar",
       "status": "published",
       "checked_at": "2026-11-04"
+    },
+    {
+      "id": "leland-lcac-candy-bar-bingo-2026-11-12",
+      "title": "Candy Bar Bingo",
+      "category": "Community event",
+      "start": "2026-11-12T18:00:00-05:00",
+      "end": "2026-11-12T19:30:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "All-ages bingo with candy prizes. Registration includes three bingo cards; additional cards may be available for purchase. Children under 13 should attend with an adult. Host: Town of Leland. Check the Town's registration page for current registration details and availability.",
+      "source_url": "https://www.townofleland.com/calendar",
+      "source_name": "Town of Leland official calendar and Parks, Recreation & Cultural Resources program schedule",
+      "status": "published",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "southport-board-of-aldermen-regular-meeting-2026-11-12",
+      "title": "Southport Board of Aldermen Regular Meeting — Public Hearing on Bed and Breakfast Standards",
+      "category": "Public meeting",
+      "start": "2026-11-12T18:00:00-05:00",
+      "end": null,
+      "venue": "Southport Community Building, 223 E. Bay Street, Southport, NC 28461",
+      "description": "Regular Board of Aldermen meeting. The City has scheduled a public hearing on a proposed UDO text amendment to Section 3.8.C, Bed and Breakfast, establishing standards for gatherings at bed-and-breakfast properties. Host: City of Southport. Meetings are open to the public; the City provides a meeting livestream. No registration required. End time is not published.",
+      "source_url": "https://www.cityofsouthport.gov/news_detail_T4_R110.php",
+      "source_name": "City of Southport official public-hearing notice and CivicClerk calendar",
+      "status": "published",
+      "checked_at": "2026-11-09",
+      "editor_note": "The official notice confirms the Bed and Breakfast hearing. Port City Daily also reports a Southport Crossing PUD hearing; verify the final agenda before adding that additional item."
     },
     {
       "id": "brunswick-extension-turfgrass-professional-education-2026-11-13",
@@ -321,6 +374,19 @@
       "checked_at": "2026-11-06"
     },
     {
+      "id": "library-mahjong-2026-11-13",
+      "title": "Mahjong",
+      "category": "Community event",
+      "start": "2026-11-13T10:00:00-05:00",
+      "end": "2026-11-13T11:30:00-05:00",
+      "venue": "Harper Library, 109 W. Moore Street, Southport, NC 28461",
+      "description": "Open mahjong play. Eight tables and six tile sets available. Host: Brunswick County Public Library and Friends of the Library Southport Oak Island. First-come, first-served; no registration.",
+      "source_url": "https://brunsco.libcal.com/event/16400489",
+      "source_name": "Brunswick County Public Library",
+      "status": "published",
+      "checked_at": "2026-11-10"
+    },
+    {
       "id": "brunswick-elections-canvass-2026-11-13",
       "title": "Brunswick County Board of Elections — Canvass Meeting",
       "category": "Elections",
@@ -347,6 +413,20 @@
       "checked_at": "2026-11-05"
     },
     {
+      "id": "leland-free-to-be-me-with-you-2026-11-14",
+      "title": "Free to be Me, With You!",
+      "category": "Community event",
+      "start": "2026-11-14T10:00:00-05:00",
+      "end": "2026-11-14T11:00:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Child-centered art activities involving color, shapes, animals, playdough, painting, collage, gluing and storytelling. Parent participation is required. Host: Town of Leland. Age, fee and attendee registration details need confirmation.",
+      "source_url": "https://www.townofleland.com/Calendar.aspx?EID=860",
+      "source_name": "Town of Leland official calendar; time corroborated by local event listings",
+      "status": "published",
+      "checked_at": "2026-11-09",
+      "editor_note": "Town calendar confirms event and date. The 10–11 a.m. time is corroborated by local event listings. Verify age range, fee and attendee registration details before approval."
+    },
+    {
       "id": "wilmington-zumba-maides-2026-11-14",
       "title": "Zumba at Maides Park",
       "category": "Community event",
@@ -358,19 +438,6 @@
       "source_name": "City of Wilmington official events calendar",
       "status": "published",
       "checked_at": "2026-11-06"
-    },
-    {
-      "id": "battleship-hidden-battleship-2026-11-14",
-      "title": "Hidden Battleship",
-      "category": "History & culture",
-      "start": "2026-11-14T11:00:00-05:00",
-      "end": "2026-11-14T17:00:00-05:00",
-      "venue": "Battleship NORTH CAROLINA, 1 Battleship Road NE, Wilmington, NC 28401",
-      "description": "Small-group, behind-the-scenes tour of unrestored areas of the Battleship. Tickets are $75 per participant; advance booking is required. Host: Battleship NORTH CAROLINA.",
-      "source_url": "https://battleshipnc.com/eventscalendar/2026-11-14/",
-      "source_name": "Battleship NORTH CAROLINA official event calendar",
-      "status": "published",
-      "checked_at": "2026-11-04"
     },
     {
       "id": "amigos-international-festival-2026-11-14-15",
@@ -387,6 +454,19 @@
       "editor_note": "Tourism calendar uses the older name 'International Festival' and displays a midnight start; WECT confirms the Amigos International Festival name and daily hours."
     },
     {
+      "id": "battleship-hidden-battleship-2026-11-14",
+      "title": "Hidden Battleship",
+      "category": "History & culture",
+      "start": "2026-11-14T11:00:00-05:00",
+      "end": "2026-11-14T17:00:00-05:00",
+      "venue": "Battleship NORTH CAROLINA, 1 Battleship Road NE, Wilmington, NC 28401",
+      "description": "Small-group, behind-the-scenes tour of unrestored areas of the Battleship. Tickets are $75 per participant; advance booking is required. Host: Battleship NORTH CAROLINA.",
+      "source_url": "https://battleshipnc.com/eventscalendar/2026-11-14/",
+      "source_name": "Battleship NORTH CAROLINA official event calendar",
+      "status": "published",
+      "checked_at": "2026-11-04"
+    },
+    {
       "id": "bad-day-music-arts-festival-2026-11-14",
       "title": "BAD Day Music + Arts Festival",
       "category": "Community event",
@@ -401,6 +481,19 @@
       "editor_note": "Date confirmed by organizer; noon start cross-checked against event ticket listing. End time is not published."
     },
     {
+      "id": "wmpo-public-participation-plan-comment-deadline-2026-11-14",
+      "title": "Deadline: Public Comment on WMPO Public Participation Plan Amendment",
+      "category": "Public meeting",
+      "start": "2026-11-14T17:00:00-05:00",
+      "end": null,
+      "venue": "Submit comments by email to wmpo@wilmingtonnc.gov or mail to Wilmington Urban Area MPO, PO Box 1810, Wilmington, NC 28402-1810. Printed copy available at 545 N. 4th Street, Wilmington, NC 28401.",
+      "description": "Final deadline to submit comments on the proposed amendment to the WMPO Public Participation Plan. The amendment would add an online form as another way to submit public comments during transportation-planning comment periods. Host: Wilmington Urban Area Metropolitan Planning Organization. No registration required; comments are due by 5 p.m.",
+      "source_url": "https://www.wmpo.org/public-comment-opportunity-amendment-to-public-participation-plan/",
+      "source_name": "Wilmington Urban Area MPO official announcement",
+      "status": "published",
+      "checked_at": "2026-10-31"
+    },
+    {
       "id": "taste-wrightsville-beach-2026-11-14",
       "title": "Taste of Wrightsville Beach",
       "category": "Community event",
@@ -413,19 +506,6 @@
       "status": "published",
       "checked_at": "2026-10-26",
       "editor_note": "Date confirmed by host; 5–8 p.m. schedule cross-checked against local reporting."
-    },
-    {
-      "id": "wmpo-public-participation-plan-comment-deadline-2026-11-14",
-      "title": "Deadline: Public Comment on WMPO Public Participation Plan Amendment",
-      "category": "Public meeting",
-      "start": "2026-11-14T17:00:00-05:00",
-      "end": null,
-      "venue": "Submit comments by email to wmpo@wilmingtonnc.gov or mail to Wilmington Urban Area MPO, PO Box 1810, Wilmington, NC 28402-1810. Printed copy available at 545 N. 4th Street, Wilmington, NC 28401.",
-      "description": "Final deadline to submit comments on the proposed amendment to the WMPO Public Participation Plan. The amendment would add an online form as another way to submit public comments during transportation-planning comment periods. Host: Wilmington Urban Area Metropolitan Planning Organization. No registration required; comments are due by 5 p.m.",
-      "source_url": "https://www.wmpo.org/public-comment-opportunity-amendment-to-public-participation-plan/",
-      "source_name": "Wilmington Urban Area MPO official announcement",
-      "status": "published",
-      "checked_at": "2026-10-31"
     },
     {
       "id": "leland-lcac-contra-dance-2026-11-14",
@@ -493,6 +573,45 @@
       "checked_at": "2026-11-04"
     },
     {
+      "id": "library-tai-chi-2026-11-16",
+      "title": "Move It Monday — Tai Chi",
+      "category": "Community event",
+      "start": "2026-11-16T09:00:00-05:00",
+      "end": "2026-11-16T10:00:00-05:00",
+      "venue": "Southwest Brunswick Branch Library, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "Free group fitness class hosted by Brunswick County Public Library and AARP Virtual Community. Participants must sign a waiver; mats encouraged.",
+      "source_url": "https://brunsco.libcal.com/event/17306278",
+      "source_name": "Brunswick County Public Library",
+      "status": "published",
+      "checked_at": "2026-11-10"
+    },
+    {
+      "id": "library-storytime-2026-11-16",
+      "title": "Storytime!",
+      "category": "Community event",
+      "start": "2026-11-16T10:00:00-05:00",
+      "end": "2026-11-16T11:00:00-05:00",
+      "venue": "Harper Library, 109 W. Moore Street, Southport, NC 28461",
+      "description": "Stories, songs, dancing and crafts for children ages 0–5. Host: Brunswick County Public Library. Registration not required.",
+      "source_url": "https://brunsco.libcal.com/event/17070727",
+      "source_name": "Brunswick County Public Library",
+      "status": "published",
+      "checked_at": "2026-11-10"
+    },
+    {
+      "id": "library-stay-play-2026-11-16",
+      "title": "Stay and Play",
+      "category": "Community event",
+      "start": "2026-11-16T10:30:00-05:00",
+      "end": "2026-11-16T11:30:00-05:00",
+      "venue": "Rourk Branch Library, 5068 Main Street, Shallotte, NC 28470",
+      "description": "Free-play activities for children ages 0–5 and their caregivers. Host: Brunswick County Public Library. Registration not required.",
+      "source_url": "https://brunsco.libcal.com/event/17055963",
+      "source_name": "Brunswick County Public Library",
+      "status": "published",
+      "checked_at": "2026-11-10"
+    },
+    {
       "id": "leland-council-agenda-meeting-2026-11-16",
       "title": "Leland Town Council Agenda Meeting",
       "category": "Public meeting",
@@ -504,6 +623,19 @@
       "source_name": "Town of Leland official calendar and CivicWeb meeting portal",
       "status": "published",
       "checked_at": "2026-11-04"
+    },
+    {
+      "id": "library-legends-2026-11-16",
+      "title": "Library Legends — Teen Chess and Board Game Club",
+      "category": "Community event",
+      "start": "2026-11-16T16:00:00-05:00",
+      "end": "2026-11-16T17:00:00-05:00",
+      "venue": "Rourk Branch Library, 5068 Main Street, Shallotte, NC 28470",
+      "description": "Chess and board games for ages 11 and older. Beginners welcome. Host: Brunswick County Public Library. Registration not required.",
+      "source_url": "https://brunsco.libcal.com/event/15806786",
+      "source_name": "Brunswick County Public Library",
+      "status": "published",
+      "checked_at": "2026-11-10"
     },
     {
       "id": "nhc-board-commissioners-meeting-2026-11-16",
@@ -740,6 +872,20 @@
       "checked_at": "2026-11-04"
     },
     {
+      "id": "wmpo-board-meeting-2026-11-18",
+      "title": "Wilmington Urban Area MPO Board Meeting",
+      "category": "Public meeting",
+      "start": "2026-11-18T15:00:00-05:00",
+      "end": null,
+      "venue": "Board Room, WMPO Office, 525 N. 4th Street, Wilmington, NC 28401",
+      "description": "Meeting of the Wilmington Urban Area MPO Board, which sets policy direction and approves regional transportation plans, projects and proposals. Host: Wilmington Urban Area Metropolitan Planning Organization. Public meeting; no registration requirement stated. The 3 p.m. start follows the WMPO's published regular meeting schedule; confirm against the specific agenda when posted.",
+      "source_url": "https://www.wmpo.org/november-board-meeting/",
+      "source_name": "Wilmington Urban Area MPO official announcement",
+      "status": "published",
+      "checked_at": "2026-11-08",
+      "editor_note": "Confirm the specific meeting start time when the agenda is posted."
+    },
+    {
       "id": "cape-fear-museum-advisory-board-meeting-2026-11-18",
       "title": "Cape Fear Museum Advisory Board Meeting",
       "category": "Public meeting",
@@ -806,17 +952,17 @@
       "checked_at": "2026-11-07"
     },
     {
-      "id": "leland-town-council-regular-2026-11-19",
-      "title": "Leland Town Council Regular Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-19T18:00:00-05:00",
-      "end": null,
-      "venue": "Leland Town Hall Council Chambers, 102 Town Hall Drive, Leland, NC 28451",
-      "description": "Regular Town Council meeting. Host: Town of Leland. The Town's official meeting portal says regular meetings are held on the third Thursday of each month at 6 p.m. Public meeting; check the agenda for public-comment procedures. End time is not published.",
-      "source_url": "https://townofleland.civicweb.net/Portal/MeetingTypeList.aspx",
-      "source_name": "Town of Leland official meeting portal",
+      "id": "library-italian-club-2026-11-19",
+      "title": "Italian Language Learners Club",
+      "category": "Community event",
+      "start": "2026-11-19T17:00:00-05:00",
+      "end": "2026-11-19T18:30:00-05:00",
+      "venue": "Southwest Brunswick Branch Library, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "Informal Italian conversation and practice for ages 12 and older. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/17057947",
+      "source_name": "Brunswick County Public Library",
       "status": "published",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-10"
     },
     {
       "id": "brunswick-boc-public-hearing-z-949cz-2026-11-19",
@@ -832,6 +978,33 @@
       "checked_at": "2026-11-04"
     },
     {
+      "id": "leland-town-council-regular-2026-11-19",
+      "title": "Leland Town Council Regular Meeting",
+      "category": "Public meeting",
+      "start": "2026-11-19T18:00:00-05:00",
+      "end": null,
+      "venue": "Leland Town Hall Council Chambers, 102 Town Hall Drive, Leland, NC 28451",
+      "description": "Regular Town Council meeting. Host: Town of Leland. The Town's official meeting portal says regular meetings are held on the third Thursday of each month at 6 p.m. Public meeting; check the agenda for public-comment procedures. End time is not published.",
+      "source_url": "https://townofleland.civicweb.net/Portal/MeetingTypeList.aspx",
+      "source_name": "Town of Leland official meeting portal",
+      "status": "published",
+      "checked_at": "2026-10-30"
+    },
+    {
+      "id": "southport-planning-board-meeting-2026-11-19",
+      "title": "Southport Planning Board Meeting",
+      "category": "Public meeting",
+      "start": "2026-11-19T18:00:00-05:00",
+      "end": null,
+      "venue": "Southport Community Building, 223 E. Bay Street, Southport, NC 28461",
+      "description": "Regular meeting of the City of Southport Planning Board. The official CivicClerk calendar lists the meeting for 6 p.m. in the Southport Community Building. Agenda was not posted as of November 9. Public meeting; no registration requirement stated. Host: City of Southport. End time is not published.",
+      "source_url": "https://southportnc.portal.civicclerk.com/",
+      "source_name": "City of Southport official CivicClerk meeting calendar",
+      "status": "published",
+      "checked_at": "2026-11-09",
+      "editor_note": "Agenda not yet posted; verify before the meeting."
+    },
+    {
       "id": "wilmington-little-explorers-2026-11-20",
       "title": "Little Explorers — Thankful Nature",
       "category": "Community event",
@@ -843,6 +1016,19 @@
       "source_name": "City of Wilmington official events calendar",
       "status": "published",
       "checked_at": "2026-11-06"
+    },
+    {
+      "id": "library-mahjong-2026-11-20",
+      "title": "Mahjong",
+      "category": "Community event",
+      "start": "2026-11-20T10:00:00-05:00",
+      "end": "2026-11-20T11:30:00-05:00",
+      "venue": "Harper Library, 109 W. Moore Street, Southport, NC 28461",
+      "description": "Open mahjong play. First-come, first-served. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/16400489",
+      "source_name": "Brunswick County Public Library",
+      "status": "published",
+      "checked_at": "2026-11-10"
     },
     {
       "id": "cape-fear-book-festival-2026-11-20-22",
@@ -872,6 +1058,34 @@
       "checked_at": "2026-11-05"
     },
     {
+      "id": "manna-ministries-leland-food-distribution-2026-11-21",
+      "title": "Manna Ministries of Leland — Monthly Food Distribution",
+      "category": "Community event",
+      "start": "2026-11-21T09:00:00-05:00",
+      "end": "2026-11-21T11:00:00-05:00",
+      "venue": "Woodburn Presbyterian Church, 509 Village Road NE, Leland, NC 28451",
+      "description": "Monthly food distribution. Manna's official schedule says November and December distributions take place on the third Saturday, with the line open 9–11 a.m. Host: Manna Ministries of Leland. No registration or identification requirement is stated on the official page; contact the ministry to confirm any requirements.",
+      "source_url": "https://www.mannaleland.org/need-food.html",
+      "source_name": "Manna Ministries of Leland official Need Food page",
+      "status": "published",
+      "checked_at": "2026-11-09",
+      "editor_note": "Official page confirms the November third-Saturday schedule, hours and address."
+    },
+    {
+      "id": "belville-budget-work-session-2026-11-21",
+      "title": "Town of Belville Board of Commissioners Budget Work Session",
+      "category": "Public meeting",
+      "start": "2026-11-21T09:00:00-05:00",
+      "end": "2026-11-21T12:00:00-05:00",
+      "venue": "Brunswick Community College Leland Center, 2045 Enterprise Drive NE, Room 204, Leland, NC 28451",
+      "description": "Public work session to discuss the Town of Belville's FY 2027–2028 budget. Host: Town of Belville. No registration requirement is stated.",
+      "source_url": "https://townofbelville.com/",
+      "source_name": "Town of Belville official meeting notice, November 6, 2026",
+      "status": "published",
+      "checked_at": "2026-11-08",
+      "editor_note": "Added after editorial approval; event notice published by the Town on November 6, 2026."
+    },
+    {
       "id": "shelton-herb-farm-salad-bowl-workshop-2026-11-21",
       "title": "Salad Bowl Potting Workshop",
       "category": "Community event",
@@ -897,6 +1111,71 @@
       "status": "published",
       "checked_at": "2026-10-29",
       "editor_note": "The latest Town announcement names Port City Community Church and First Baptist Church as parking locations. Confirm whether North Brunswick High School remains an overflow location before removing that detail from the existing listing."
+    },
+    {
+      "id": "library-zumba-2026-11-23",
+      "title": "Move It Monday — Zumba",
+      "category": "Community event",
+      "start": "2026-11-23T09:00:00-05:00",
+      "end": "2026-11-23T10:00:00-05:00",
+      "venue": "Southwest Brunswick Branch Library, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "Free group fitness class hosted by Brunswick County Public Library and AARP Virtual Community. Participants must sign a waiver; mats encouraged.",
+      "source_url": "https://brunsco.libcal.com/event/17306279",
+      "source_name": "Brunswick County Public Library",
+      "status": "published",
+      "checked_at": "2026-11-10"
+    },
+    {
+      "id": "library-storytime-2026-11-23",
+      "title": "Storytime!",
+      "category": "Community event",
+      "start": "2026-11-23T10:00:00-05:00",
+      "end": "2026-11-23T11:00:00-05:00",
+      "venue": "Harper Library, 109 W. Moore Street, Southport, NC 28461",
+      "description": "Stories, songs, dancing and crafts for children ages 0–5. Registration not required.",
+      "source_url": "https://brunsco.libcal.com/event/17070727",
+      "source_name": "Brunswick County Public Library",
+      "status": "published",
+      "checked_at": "2026-11-10"
+    },
+    {
+      "id": "library-stay-play-2026-11-23",
+      "title": "Stay and Play",
+      "category": "Community event",
+      "start": "2026-11-23T10:30:00-05:00",
+      "end": "2026-11-23T11:30:00-05:00",
+      "venue": "Rourk Branch Library, 5068 Main Street, Shallotte, NC 28470",
+      "description": "Free-play activities for children ages 0–5 and their caregivers. Registration not required.",
+      "source_url": "https://brunsco.libcal.com/event/17055963",
+      "source_name": "Brunswick County Public Library",
+      "status": "published",
+      "checked_at": "2026-11-10"
+    },
+    {
+      "id": "library-agatha-christie-book-club-2026-11-23",
+      "title": "Agatha Christie Book Club",
+      "category": "Community event",
+      "start": "2026-11-23T16:00:00-05:00",
+      "end": "2026-11-23T17:00:00-05:00",
+      "venue": "Southwest Brunswick Branch Library, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "Book discussion for adults ages 19 and older. Host: Brunswick County Public Library. Contact 910-253-2665 with questions.",
+      "source_url": "https://brunsco.libcal.com/event/15633232",
+      "source_name": "Brunswick County Public Library",
+      "status": "published",
+      "checked_at": "2026-11-10"
+    },
+    {
+      "id": "library-legends-2026-11-23",
+      "title": "Library Legends — Teen Chess and Board Game Club",
+      "category": "Community event",
+      "start": "2026-11-23T16:00:00-05:00",
+      "end": "2026-11-23T17:00:00-05:00",
+      "venue": "Rourk Branch Library, 5068 Main Street, Shallotte, NC 28470",
+      "description": "Chess and board games for ages 11 and older. Beginners welcome. Registration not required.",
+      "source_url": "https://brunsco.libcal.com/event/15806787",
+      "source_name": "Brunswick County Public Library",
+      "status": "published",
+      "checked_at": "2026-11-10"
     },
     {
       "id": "wilmington-holiday-parade-2026-11-29",
@@ -1061,103 +1340,6 @@
       "status": "published",
       "checked_at": "2026-10-26",
       "editor_note": "Schedule, eligibility, application deadline, and cohort limit confirmed by the Town. Individual session locations are not published."
-    },
-    {
-      "id": "belville-budget-work-session-2026-11-21",
-      "title": "Town of Belville Board of Commissioners Budget Work Session",
-      "category": "Public meeting",
-      "start": "2026-11-21T09:00:00-05:00",
-      "end": "2026-11-21T12:00:00-05:00",
-      "venue": "Brunswick Community College Leland Center, 2045 Enterprise Drive NE, Room 204, Leland, NC 28451",
-      "description": "Public work session to discuss the Town of Belville's FY 2027–2028 budget. Host: Town of Belville. No registration requirement is stated.",
-      "source_url": "https://townofbelville.com/",
-      "source_name": "Town of Belville official meeting notice, November 6, 2026",
-      "status": "published",
-      "checked_at": "2026-11-08",
-      "editor_note": "Added after editorial approval; event notice published by the Town on November 6, 2026."
-    },
-    {
-      "id": "wmpo-prioritization-8-local-input-comment-deadline-2026-11-11",
-      "title": "Deadline: Public Comment on WMPO Prioritization 8.0 Local Input Assignments",
-      "category": "Public meeting",
-      "start": "2026-11-11T17:00:00-05:00",
-      "end": null,
-      "venue": "Submit comments by email to wmpo@wilmingtonnc.gov or mail to Wilmington Urban Area MPO, PO Box 1810, Wilmington, NC 28402-1810. Printed materials available at 545 N. 4th Street, Wilmington, NC 28401.",
-      "description": "Deadline for public comments on proposed Division Needs Tier Local Input Point Assignments for NCDOT's Prioritization 8.0 process. Host: Wilmington Urban Area Metropolitan Planning Organization. No registration required; comments are due by 5 p.m.",
-      "source_url": "https://www.wmpo.org/public-comment-opportunity-prioritization-8-0-local-input/",
-      "source_name": "Wilmington Urban Area MPO official announcement",
-      "status": "published",
-      "checked_at": "2026-11-08"
-    },
-    {
-      "id": "wmpo-board-meeting-2026-11-18",
-      "title": "Wilmington Urban Area MPO Board Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-18T15:00:00-05:00",
-      "end": null,
-      "venue": "Board Room, WMPO Office, 525 N. 4th Street, Wilmington, NC 28401",
-      "description": "Meeting of the Wilmington Urban Area MPO Board, which sets policy direction and approves regional transportation plans, projects and proposals. Host: Wilmington Urban Area Metropolitan Planning Organization. Public meeting; no registration requirement stated. The 3 p.m. start follows the WMPO's published regular meeting schedule; confirm against the specific agenda when posted.",
-      "source_url": "https://www.wmpo.org/november-board-meeting/",
-      "source_name": "Wilmington Urban Area MPO official announcement",
-      "status": "published",
-      "checked_at": "2026-11-08",
-      "editor_note": "Confirm the specific meeting start time when the agenda is posted."
-    },
-    {
-      "id": "leland-free-to-be-me-with-you-2026-11-14",
-      "title": "Free to be Me, With You!",
-      "category": "Community event",
-      "start": "2026-11-14T10:00:00-05:00",
-      "end": "2026-11-14T11:00:00-05:00",
-      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
-      "description": "Child-centered art activities involving color, shapes, animals, playdough, painting, collage, gluing and storytelling. Parent participation is required. Host: Town of Leland. Age, fee and attendee registration details need confirmation.",
-      "source_url": "https://www.townofleland.com/Calendar.aspx?EID=860",
-      "source_name": "Town of Leland official calendar; time corroborated by local event listings",
-      "status": "published",
-      "checked_at": "2026-11-09",
-      "editor_note": "Town calendar confirms event and date. The 10–11 a.m. time is corroborated by local event listings. Verify age range, fee and attendee registration details before approval."
-    },
-    {
-      "id": "manna-ministries-leland-food-distribution-2026-11-21",
-      "title": "Manna Ministries of Leland — Monthly Food Distribution",
-      "category": "Community event",
-      "start": "2026-11-21T09:00:00-05:00",
-      "end": "2026-11-21T11:00:00-05:00",
-      "venue": "Woodburn Presbyterian Church, 509 Village Road NE, Leland, NC 28451",
-      "description": "Monthly food distribution. Manna's official schedule says November and December distributions take place on the third Saturday, with the line open 9–11 a.m. Host: Manna Ministries of Leland. No registration or identification requirement is stated on the official page; contact the ministry to confirm any requirements.",
-      "source_url": "https://www.mannaleland.org/need-food.html",
-      "source_name": "Manna Ministries of Leland official Need Food page",
-      "status": "published",
-      "checked_at": "2026-11-09",
-      "editor_note": "Official page confirms the November third-Saturday schedule, hours and address."
-    },
-    {
-      "id": "southport-board-of-aldermen-regular-meeting-2026-11-12",
-      "title": "Southport Board of Aldermen Regular Meeting — Public Hearing on Bed and Breakfast Standards",
-      "category": "Public meeting",
-      "start": "2026-11-12T18:00:00-05:00",
-      "end": null,
-      "venue": "Southport Community Building, 223 E. Bay Street, Southport, NC 28461",
-      "description": "Regular Board of Aldermen meeting. The City has scheduled a public hearing on a proposed UDO text amendment to Section 3.8.C, Bed and Breakfast, establishing standards for gatherings at bed-and-breakfast properties. Host: City of Southport. Meetings are open to the public; the City provides a meeting livestream. No registration required. End time is not published.",
-      "source_url": "https://www.cityofsouthport.gov/news_detail_T4_R110.php",
-      "source_name": "City of Southport official public-hearing notice and CivicClerk calendar",
-      "status": "published",
-      "checked_at": "2026-11-09",
-      "editor_note": "The official notice confirms the Bed and Breakfast hearing. Port City Daily also reports a Southport Crossing PUD hearing; verify the final agenda before adding that additional item."
-    },
-    {
-      "id": "southport-planning-board-meeting-2026-11-19",
-      "title": "Southport Planning Board Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-19T18:00:00-05:00",
-      "end": null,
-      "venue": "Southport Community Building, 223 E. Bay Street, Southport, NC 28461",
-      "description": "Regular meeting of the City of Southport Planning Board. The official CivicClerk calendar lists the meeting for 6 p.m. in the Southport Community Building. Agenda was not posted as of November 9. Public meeting; no registration requirement stated. Host: City of Southport. End time is not published.",
-      "source_url": "https://southportnc.portal.civicclerk.com/",
-      "source_name": "City of Southport official CivicClerk meeting calendar",
-      "status": "published",
-      "checked_at": "2026-11-09",
-      "editor_note": "Agenda not yet posted; verify before the meeting."
     }
   ]
 }
