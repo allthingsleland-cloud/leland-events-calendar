@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-10",
+  "last_checked": "2026-11-11",
   "events": [
     {
       "id": "smart-start-kpl-leland-2026-11-11",
@@ -763,7 +763,7 @@
       "source_name": "Wilmington Urban Area MPO official announcement",
       "status": "published",
       "checked_at": "2026-11-08",
-      "editor_note": "Confirm the specific meeting start time when the agenda is posted."
+      "editor_note": null
     },
     {
       "id": "cape-fear-museum-advisory-board-meeting-2026-11-18",
@@ -990,7 +990,7 @@
       "source_name": "Town of Leland official announcement, October 26, 2026",
       "status": "published",
       "checked_at": "2026-10-29",
-      "editor_note": "The latest Town announcement names Port City Community Church and First Baptist Church as parking locations. Confirm whether North Brunswick High School remains an overflow location before removing that detail from the existing listing."
+      "editor_note": null
     },
     {
       "id": "library-zumba-2026-11-23",
@@ -1220,6 +1220,188 @@
       "status": "published",
       "checked_at": "2026-10-26",
       "editor_note": "Schedule, eligibility, application deadline, and cohort limit confirmed by the Town. Individual session locations are not published."
+    },
+    {
+      "id": "brunswick-library-baby-storytime-leland-2026-11-12",
+      "title": "Baby Storytime — Leland Branch Library",
+      "category": "Community event",
+      "start": "2026-11-12T10:00:00-05:00",
+      "end": "2026-11-12T10:30:00-05:00",
+      "venue": "Leland Branch Library, 487 Village Road, Leland, NC 28451",
+      "description": "Thirty minutes of stories, music and playtime for children ages 0–2. Host: Brunswick County Public Library. The event page does not list a registration requirement.",
+      "source_url": "https://brunsco.libcal.com/event/15456281",
+      "source_name": "Brunswick County Public Library LibCal",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "brunswick-library-lifelong-learners-2026-11-12",
+      "title": "Max and Sarah Williams Lifelong Learners: How the Spanish Civil War Became Europe's Battleground",
+      "category": "Community event",
+      "start": "2026-11-12T10:00:00-05:00",
+      "end": "2026-11-12T12:00:00-05:00",
+      "venue": "G.V. Barbee, Sr. Branch Library, Barbee Meeting Room, 8200 E. Oak Island Drive, Oak Island, NC 28465",
+      "description": "A Great Courses session about the Spanish Civil War. Sponsored by Friends of the Library Southport Oak Island. No registration is required for in-person attendance; Zoom participants must call Barbee Library at 910-253-1815 to register. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/17411096",
+      "source_name": "Brunswick County Public Library LibCal",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "brunswick-library-baby-storytime-leland-2026-11-18",
+      "title": "Baby Storytime — Leland Branch Library",
+      "category": "Community event",
+      "start": "2026-11-18T10:00:00-05:00",
+      "end": "2026-11-18T10:30:00-05:00",
+      "venue": "Leland Branch Library, 487 Village Road, Leland, NC 28451",
+      "description": "Thirty minutes of stories, music and playtime for children ages 0–2. Host: Brunswick County Public Library. The event page does not list a registration requirement.",
+      "source_url": "https://brunsco.libcal.com/event/15456281",
+      "source_name": "Brunswick County Public Library LibCal",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "brunswick-library-baby-storytime-leland-2026-11-19",
+      "title": "Baby Storytime — Leland Branch Library",
+      "category": "Community event",
+      "start": "2026-11-19T10:00:00-05:00",
+      "end": "2026-11-19T10:30:00-05:00",
+      "venue": "Leland Branch Library, 487 Village Road, Leland, NC 28451",
+      "description": "Thirty minutes of stories, music and playtime for children ages 0–2. Host: Brunswick County Public Library. The event page does not list a registration requirement.",
+      "source_url": "https://brunsco.libcal.com/event/15456281",
+      "source_name": "Brunswick County Public Library LibCal",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "brunswick-library-lifelong-learners-2026-11-19",
+      "title": "Max and Sarah Williams Lifelong Learners: How the Spanish Civil War Became Europe's Battleground",
+      "category": "Community event",
+      "start": "2026-11-19T10:00:00-05:00",
+      "end": "2026-11-19T12:00:00-05:00",
+      "venue": "G.V. Barbee, Sr. Branch Library, Barbee Meeting Room, 8200 E. Oak Island Drive, Oak Island, NC 28465",
+      "description": "A Great Courses session about the Spanish Civil War. Sponsored by Friends of the Library Southport Oak Island. No registration is required for in-person attendance; Zoom participants must call Barbee Library at 910-253-1815 to register. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/17411096",
+      "source_name": "Brunswick County Public Library LibCal",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "southport-board-adjustment-2026-11-24",
+      "title": "Board of Adjustment Meeting — Southport",
+      "category": "Public meeting",
+      "start": "2026-11-24T16:30:00-05:00",
+      "end": null,
+      "venue": "Indian Trail Meeting Hall, 113 W. Moore Street, Southport, NC 28461",
+      "description": "Meeting of the City of Southport Board of Adjustment. Public meeting; no registration requirement stated. Agenda and end time were not available in the official calendar listing. Host: City of Southport.",
+      "source_url": "https://southportnc.portal.civicclerk.com/",
+      "source_name": "City of Southport CivicClerk meeting calendar",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "brunswick-library-baby-storytime-leland-2026-11-25",
+      "title": "Baby Storytime — Leland Branch Library",
+      "category": "Community event",
+      "start": "2026-11-25T10:00:00-05:00",
+      "end": "2026-11-25T10:30:00-05:00",
+      "venue": "Leland Branch Library, 487 Village Road, Leland, NC 28451",
+      "description": "Thirty minutes of stories, music and playtime for children ages 0–2. Host: Brunswick County Public Library. The event page does not list a registration requirement.",
+      "source_url": "https://brunsco.libcal.com/event/15456281",
+      "source_name": "Brunswick County Public Library LibCal",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "leland-gallery-of-trees-2026-11-30-12-17",
+      "title": "Gallery of Trees",
+      "category": "History & culture",
+      "start": "2026-11-30T09:00:00-05:00",
+      "end": "2026-12-17T21:00:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Exhibit of decorated trees created by local groups, businesses and artists. Visiting hours follow LCAC hours: Monday–Thursday 9 a.m.–9 p.m. and Friday–Saturday 9 a.m.–3 p.m.; Sunday hours are not listed. Host: Town of Leland. No visitor registration requirement stated.",
+      "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
+      "source_name": "Town of Leland official holiday announcement",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": "Multi-day exhibit; visiting hours vary by weekday."
+    },
+    {
+      "id": "leland-pack-the-patrol-car-2026-12-04",
+      "title": "Pack the Patrol Car",
+      "category": "Community event",
+      "start": "2026-12-04T09:00:00-05:00",
+      "end": "2026-12-04T15:00:00-05:00",
+      "venue": "Walmart, 1112 New Pointe Boulevard, Leland, NC",
+      "description": "The Leland Police and Fire departments will collect nonperishable food items and new, unwrapped toys for Brunswick Family Assistance. Public donation drive; no registration requirement stated. Host: Town of Leland Police and Fire Departments.",
+      "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
+      "source_name": "Town of Leland official holiday announcement",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "leland-holiday-art-market-2026-12-05",
+      "title": "Holiday Art Market",
+      "category": "Community event",
+      "start": "2026-12-05T10:00:00-05:00",
+      "end": "2026-12-05T15:00:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "More than 30 local vendors will offer handmade goods, including jewelry, paintings and pottery. Food trucks and bakers will also be present. Host: Town of Leland. No attendee registration requirement stated.",
+      "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
+      "source_name": "Town of Leland official holiday announcement",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "leland-cookies-with-santa-2026-12-08",
+      "title": "Cookies with Santa",
+      "category": "Community event",
+      "start": "2026-12-08T18:30:00-05:00",
+      "end": "2026-12-08T20:00:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Family event with crafts, story time and festive treats. Tickets are $5 and advance registration is required. Host: Town of Leland.",
+      "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
+      "source_name": "Town of Leland official holiday announcement",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "leland-wilmington-big-band-2026-12-11",
+      "title": "Wilmington Big Band Performance",
+      "category": "History & culture",
+      "start": "2026-12-11T18:00:00-05:00",
+      "end": "2026-12-11T20:00:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Holiday classics and big band favorites performed by the Wilmington Big Band. Tickets are $15 and are available online or at the LCAC. Host: Town of Leland.",
+      "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
+      "source_name": "Town of Leland official holiday announcement",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "leland-sensory-friendly-santa-2026-12-12",
+      "title": "Sensory-Friendly Visits with Santa",
+      "category": "Community event",
+      "start": "2026-12-12T12:00:00-05:00",
+      "end": "2026-12-12T15:00:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Free, relaxed visits with Santa for children with sensory sensitivities. Registration is required; each registration is for one family group, with up to five families per 30-minute session. Host: Town of Leland.",
+      "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
+      "source_name": "Town of Leland official holiday announcement",
+      "status": "published",
+      "checked_at": "2026-11-11",
+      "editor_note": null
     }
   ]
 }
