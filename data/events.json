@@ -3,47 +3,6 @@
   "last_checked": "2026-11-11",
   "events": [
     {
-      "id": "smart-start-kpl-leland-2026-11-11",
-      "title": "Kaleidoscope Play & Learn — Leland",
-      "category": "Community event",
-      "start": "2026-11-11T09:30:00-05:00",
-      "end": "2026-11-11T11:00:00-05:00",
-      "venue": "Goshen Fellowship Church, 4124 Mt. Misery Road NE, Leland, NC 28451",
-      "description": "Free guided play group for children ages 0–5 and their parents, grandparents, or other caregivers. Host: Smart Start of Brunswick County. Families are asked to complete a registration form in advance or on site. Contact Lynn at 910-754-3166, option 4, for information. Smart Start lists this occurrence on Veterans Day.",
-      "source_url": "https://www.smartstartbrunswick.org/event/kaleidoscope-play-learn-leland-nc/2026-11-11",
-      "source_name": "Smart Start of Brunswick County official event listing",
-      "status": "published",
-      "checked_at": "2026-10-30",
-      "editor_note": "Smart Start lists this occurrence on Veterans Day; confirm directly with the organizer before attending."
-    },
-    {
-      "id": "belville-veterans-day-celebration-2026-11-11",
-      "title": "Veterans Day Celebration — Belville Riverwalk Park",
-      "category": "Community event",
-      "start": "2026-11-11T11:00:00-05:00",
-      "end": null,
-      "venue": "Belville Riverwalk Park, 580 River Road SE, Belville, NC 28451",
-      "description": "Veterans Day Celebration in partnership with Leland VFW Post 12196. Host: Town of Belville and VFW Post 12196. The Town's 2026 event calendar lists an 11 a.m. start and a 3 p.m. end, while the VFW page says closing ceremonies begin at 3:45 p.m.; the end time is therefore left unconfirmed. Public attendance; contact the Town or VFW for participation and volunteer details.",
-      "source_url": "https://townofbelville.com/wp-content/uploads/2026/10/Town-of-Belville-2026-Event-Calendar-q4-kp.pdf",
-      "source_name": "Town of Belville official 2026 event calendar and VFW Post 12196",
-      "status": "published",
-      "checked_at": "2026-10-30",
-      "editor_note": "Confirm end time with Town or VFW. Town calendar says 3 p.m.; VFW says closing ceremonies begin at 3:45 p.m."
-    },
-    {
-      "id": "wmpo-prioritization-8-local-input-comment-deadline-2026-11-11",
-      "title": "Deadline: Public Comment on WMPO Prioritization 8.0 Local Input Assignments",
-      "category": "Public meeting",
-      "start": "2026-11-11T17:00:00-05:00",
-      "end": null,
-      "venue": "Submit comments by email to wmpo@wilmingtonnc.gov or mail to Wilmington Urban Area MPO, PO Box 1810, Wilmington, NC 28402-1810. Printed materials available at 545 N. 4th Street, Wilmington, NC 28401.",
-      "description": "Deadline for public comments on proposed Division Needs Tier Local Input Point Assignments for NCDOT's Prioritization 8.0 process. Host: Wilmington Urban Area Metropolitan Planning Organization. No registration required; comments are due by 5 p.m.",
-      "source_url": "https://www.wmpo.org/public-comment-opportunity-prioritization-8-0-local-input/",
-      "source_name": "Wilmington Urban Area MPO official announcement",
-      "status": "published",
-      "checked_at": "2026-11-08"
-    },
-    {
       "id": "museum-coastal-carolina-festival-of-trees-2026-11-12",
       "title": "7th Annual Festival of Trees — Opening Day",
       "category": "History & culture",
