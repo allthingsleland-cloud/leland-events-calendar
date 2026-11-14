@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-13",
+  "last_checked": "2026-11-14",
   "events": [
     {
       "id": "brunswick-extension-turfgrass-professional-education-2026-11-13",
@@ -1083,34 +1083,6 @@
       "source_name": "City of Southport CivicClerk meeting calendar",
       "status": "published",
       "checked_at": "2026-11-11",
-      "editor_note": null
-    },
-    {
-      "id": "brunswick-library-baby-storytime-leland-2026-11-25",
-      "title": "Baby Storytime — Leland Branch Library",
-      "category": "Community event",
-      "start": "2026-11-25T10:00:00-05:00",
-      "end": "2026-11-25T10:30:00-05:00",
-      "venue": "Leland Branch Library, 487 Village Road, Leland, NC 28451",
-      "description": "Thirty minutes of stories, music and playtime for children ages 0–2. Host: Brunswick County Public Library. The event page does not list a registration requirement.",
-      "source_url": "https://brunsco.libcal.com/event/15456281",
-      "source_name": "Brunswick County Public Library LibCal",
-      "status": "published",
-      "checked_at": "2026-11-11",
-      "editor_note": null
-    },
-    {
-      "id": "brunswick-library-prek-up-storytime-leland-2026-11-25",
-      "title": "PreK and Up Storytime — Leland Branch Library",
-      "category": "Community event",
-      "start": "2026-11-25T11:00:00-05:00",
-      "end": "2026-11-25T11:30:00-05:00",
-      "venue": "Leland Branch Library, 487 Village Road, Leland, NC 28451",
-      "description": "Weekly stories, movement, music and crafts for children ages 2–5 and up. Host: Brunswick County Public Library. No registration requirement is stated.",
-      "source_url": "https://brunsco.libcal.com/event/15456402",
-      "source_name": "Brunswick County Public Library LibCal",
-      "status": "published",
-      "checked_at": "2026-11-12",
       "editor_note": null
     },
     {
