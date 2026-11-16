@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-15",
+  "last_checked": "2026-11-16",
   "events": [
     {
       "id": "amigos-international-festival-2026-11-14-15",
@@ -950,6 +950,19 @@
       "editor_note": null
     },
     {
+      "id": "cape-fear-habitat-turkey-trot-2026-11-26",
+      "title": "Cape Fear Habitat Turkey Trot",
+      "category": "Community event",
+      "start": "2026-11-26T08:00:00-05:00",
+      "end": "2026-11-26T10:00:00-05:00",
+      "venue": "Live Oak Bank Pavilion, 10 Cowan Street, Wilmington, NC 28401",
+      "description": "Thanksgiving morning 1-mile run/walk and 5K benefiting Cape Fear Habitat for Humanity. The untimed 1-mile event starts at 8 a.m.; the 5K starts at 8:30 a.m. New downtown location for 2026. Registration required; see organizer registration page for fees and details. Host: Cape Fear Habitat for Humanity.",
+      "source_url": "https://runsignup.com/capefearhabitatturkeytrot",
+      "source_name": "Cape Fear Habitat Turkey Trot official registration and event information",
+      "status": "published",
+      "checked_at": "2026-11-16"
+    },
+    {
       "id": "wmpo-stip-amendment-comment-deadline-2026-11-27",
       "title": "Deadline: Public Comment on WMPO STIP/MPO Amendment #26-7",
       "category": "Public meeting",
@@ -988,6 +1001,19 @@
       "status": "published",
       "checked_at": "2026-11-12",
       "editor_note": null
+    },
+    {
+      "id": "really-cool-stuff-holiday-market-2026-11-28",
+      "title": "Really Cool Stuff Holiday Market",
+      "category": "Community event",
+      "start": "2026-11-28T11:00:00-05:00",
+      "end": "2026-11-28T16:00:00-05:00",
+      "venue": "Dock Street between Water Street and North 2nd Street, Wilmington, NC 28401",
+      "description": "Free downtown Small Business Saturday holiday market featuring local artists and makers, handmade gifts, ornaments, wreaths, Santa and vinyl with a DJ. Host: Really Cool Stuff / Cool Wilmington. No registration required for visitors.",
+      "source_url": "https://www.reallycoolstuffnc.com/",
+      "source_name": "Event organizer's official website",
+      "status": "published",
+      "checked_at": "2026-11-16"
     },
     {
       "id": "leland-in-lights-weekend-2026-11-28",
