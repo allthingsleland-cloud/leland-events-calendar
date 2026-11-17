@@ -1,71 +1,19 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-16",
+  "last_checked": "2026-11-17",
   "events": [
-    {
-      "id": "library-legends-2026-11-16",
-      "title": "Library Legends — Teen Chess and Board Game Club",
-      "category": "Community event",
-      "start": "2026-11-16T16:00:00-05:00",
-      "end": "2026-11-16T17:00:00-05:00",
-      "venue": "Rourk Branch Library, 5068 Main Street, Shallotte, NC 28470",
-      "description": "Chess and board games for ages 11 and older. Beginners welcome. Host: Brunswick County Public Library. Registration not required.",
-      "source_url": "https://brunsco.libcal.com/event/15806786",
-      "source_name": "Brunswick County Public Library",
-      "status": "published",
-      "checked_at": "2026-11-10"
-    },
-    {
-      "id": "nhc-board-commissioners-meeting-2026-11-16",
-      "title": "New Hanover County Board of Commissioners Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-16T16:00:00-05:00",
-      "end": "2026-11-16T19:00:00-05:00",
-      "venue": "Historic Courthouse, 24 North 3rd Street, Wilmington, NC 28401",
-      "description": "Regular meeting of the New Hanover County Board of Commissioners. Host: New Hanover County. Public meeting; no registration requirement is stated. The county broadcasts meetings on NHCTV, its YouTube channel and Spectrum channel 13.",
-      "source_url": "https://www.nhcgov.com/m/calendar/event/detail/5809",
-      "source_name": "New Hanover County — Commission & Clerk calendar",
-      "status": "published",
-      "checked_at": "2026-11-05"
-    },
-    {
-      "id": "wilmington-crafting-maides-2026-11-16",
-      "title": "Crafting at Maides",
-      "category": "Community event",
-      "start": "2026-11-16T17:00:00-05:00",
-      "end": "2026-11-16T19:00:00-05:00",
-      "venue": "Davis Center at Maides Park, 1101 Manly Avenue, Wilmington, NC 28403",
-      "description": "Free adult and active-adult arts and crafts program. Registration is required. Host: City of Wilmington Parks and Recreation.",
-      "source_url": "https://www.wilmingtonnc.gov/Events-directory/Crafting-at-Maides",
-      "source_name": "City of Wilmington official events calendar",
-      "status": "published",
-      "checked_at": "2026-11-06"
-    },
-    {
-      "id": "brunswick-boc-public-hearings-2026-11-16",
-      "title": "Brunswick County Board of Commissioners — Regular Meeting & Public Hearings (PD-190, PD-187, Z-948 and Z-942)",
-      "category": "County government",
-      "start": "2026-11-16T18:00:00-05:00",
-      "end": null,
-      "venue": "Commissioners' Chambers, David R. Sandifer Administration Building, 30 Government Center Drive NE, Bolivia, NC 28422",
-      "description": "Public hearings on four development matters: PD-190, the Ibis Bay planned development modification/expansion; PD-187, the Jackson-Hill planned development; Z-948, a proposed change from neighborhood-commercial to commercial-low-density zoning near Calabash; and Z-942, a proposed change to medium-density residential zoning and related land-use plan amendment near Shallotte. Host: Brunswick County. People wishing to speak at a public hearing must sign up on the separate form at the door before the meeting. End time is not published.",
-      "source_url": "https://www.brunswickcountync.gov/m/newsflash?cat=6",
-      "source_name": "Brunswick County official public hearing notices",
-      "status": "published",
-      "checked_at": "2026-11-04"
-    },
     {
       "id": "brunswick-schools-board-committee-meetings-2026-11-17",
       "title": "Brunswick County Schools Board Committee Meetings",
       "category": "Public meeting",
       "start": "2026-11-17T09:00:00-05:00",
-      "end": null,
-      "venue": "Board Room, Brunswick County Schools Administrative Offices, 35 Referendum Drive, Bolivia, NC 28422",
-      "description": "Board committee meetings begin at 9 a.m. and run consecutively. Host: Brunswick County Schools. Public meeting; the district provides meeting information and livestream/recording access. End time is not published.",
+      "end": "2026-11-17T12:00:00-05:00",
+      "venue": "Board Room, Brunswick County Schools Administrative Offices, 35 Referendum Drive NE, Bolivia, NC 28422",
+      "description": "Board committee meetings begin at 9 a.m. and run consecutively through noon. Host: Brunswick County Schools. Public meeting; streamed live and recorded for playback.",
       "source_url": "https://www.bcswan.net/school-board/committee-meetings",
       "source_name": "Brunswick County Schools official committee-meeting page",
       "status": "published",
-      "checked_at": "2026-11-04"
+      "checked_at": "2026-11-17"
     },
     {
       "id": "wilmington-stem-stories-2026-11-17",
@@ -131,6 +79,19 @@
       "source_name": "Shelton Herb Farm / Eventbrite",
       "status": "published",
       "checked_at": "2026-11-07"
+    },
+    {
+      "id": "airlie-snake-talk-2026-11-17",
+      "title": "Snake Talk at Airlie Gardens",
+      "category": "Community event",
+      "start": "2026-11-17T14:00:00-05:00",
+      "end": "2026-11-17T14:30:00-05:00",
+      "venue": "Airlie Gardens classroom, 300 Airlie Road, Wilmington, NC 28403",
+      "description": "Meet one of Airlie Gardens' ambassador reptiles during an educator-led talk and feeding demonstration. All ages welcome; children under 14 must be supervised by an adult. Host: Airlie Gardens. Advance ticket reservation required.",
+      "source_url": "https://airliegardens.org/events/snake-talks/",
+      "source_name": "Airlie Gardens official event page",
+      "status": "published",
+      "checked_at": "2026-11-17"
     },
     {
       "id": "nhc-hispanic-latino-commission-2026-11-17",
@@ -818,6 +779,19 @@
       "editor_note": "Confirm the exact building street address against the posted agenda before adding an address."
     },
     {
+      "id": "library-storytime-barbee-2026-11-24",
+      "title": "Storytime — G.V. Barbee, Sr. Branch Library",
+      "category": "Community event",
+      "start": "2026-11-24T10:00:00-05:00",
+      "end": "2026-11-24T10:45:00-05:00",
+      "venue": "G.V. Barbee, Sr. Branch Library, 8200 E. Oak Island Drive, Oak Island, NC 28465",
+      "description": "Stories, singing, dancing and crafts for children ages five and younger. No registration required. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/15779482",
+      "source_name": "Brunswick County Public Library LibCal",
+      "status": "published",
+      "checked_at": "2026-11-17"
+    },
+    {
       "id": "southport-board-adjustment-2026-11-24",
       "title": "Board of Adjustment Meeting — Southport",
       "category": "Public meeting",
@@ -871,6 +845,19 @@
       "checked_at": "2026-11-15"
     },
     {
+      "id": "enchanted-airlie-2026-11-27",
+      "title": "Enchanted Airlie",
+      "category": "Community event",
+      "start": "2026-11-27T17:30:00-05:00",
+      "end": "2026-11-27T21:30:00-05:00",
+      "venue": "Airlie Gardens, 300 Airlie Road, Wilmington, NC 28403",
+      "description": "Self-guided holiday lights and music. Timed entry windows are 5:30-6:30, 6:30-7:30, 7:30-8:30 and 8:30-9:30 p.m. Advance tickets required; carload ticket listed at $35 plus tax and fees. Host: Airlie Gardens.",
+      "source_url": "https://airliegardens.org/events/enchanted-airlie/",
+      "source_name": "Airlie Gardens official event page",
+      "status": "published",
+      "checked_at": "2026-11-17"
+    },
+    {
       "id": "leland-in-lights-weekend-2026-11-27",
       "title": "Leland in Lights — Weekend Programming",
       "category": "Community event",
@@ -883,6 +870,32 @@
       "status": "published",
       "checked_at": "2026-11-12",
       "editor_note": null
+    },
+    {
+      "id": "wrightsville-beach-christmas-kickoff-2026-11-27",
+      "title": "Town of Wrightsville Beach Christmas Kick-Off & Tree Lighting",
+      "category": "Community event",
+      "start": "2026-11-27T17:30:00-05:00",
+      "end": "2026-11-27T19:30:00-05:00",
+      "venue": "Wrightsville Beach Park, 321 Causeway Drive, Wrightsville Beach, NC 28480",
+      "description": "Town holiday-season kickoff and Christmas tree lighting. Host: Town of Wrightsville Beach. No visitor registration requirement is listed.",
+      "source_url": "https://www.townofwrightsvillebeach.com/465/Annual-Events",
+      "source_name": "Town of Wrightsville Beach official Annual Events page",
+      "status": "published",
+      "checked_at": "2026-11-17"
+    },
+    {
+      "id": "nc-holiday-flotilla-day-in-the-park-2026-11-28",
+      "title": "NC Holiday Flotilla — Day in the Park",
+      "category": "Community event",
+      "start": "2026-11-28T10:00:00-05:00",
+      "end": "2026-11-28T16:00:00-05:00",
+      "venue": "Wrightsville Beach Park, 321 Causeway Drive, Wrightsville Beach, NC 28480",
+      "description": "Flotilla festival with local arts and crafts vendors, official merchandise and food vendors. Public event; visitor registration is not listed. Host: North Carolina Holiday Flotilla.",
+      "source_url": "https://www.ncholidayflotilla.org/",
+      "source_name": "North Carolina Holiday Flotilla official schedule",
+      "status": "published",
+      "checked_at": "2026-11-17"
     },
     {
       "id": "really-cool-stuff-holiday-market-2026-11-28",
@@ -898,6 +911,19 @@
       "checked_at": "2026-11-16"
     },
     {
+      "id": "enchanted-airlie-2026-11-28",
+      "title": "Enchanted Airlie",
+      "category": "Community event",
+      "start": "2026-11-28T17:30:00-05:00",
+      "end": "2026-11-28T21:30:00-05:00",
+      "venue": "Airlie Gardens, 300 Airlie Road, Wilmington, NC 28403",
+      "description": "Second opening-weekend date for the self-guided holiday lights and music experience. Timed entry windows are 5:30-6:30, 6:30-7:30, 7:30-8:30 and 8:30-9:30 p.m. Advance tickets required. Host: Airlie Gardens.",
+      "source_url": "https://airliegardens.org/events/enchanted-airlie/",
+      "source_name": "Airlie Gardens official event page",
+      "status": "published",
+      "checked_at": "2026-11-17"
+    },
+    {
       "id": "leland-in-lights-weekend-2026-11-28",
       "title": "Leland in Lights — Weekend Programming",
       "category": "Community event",
@@ -910,6 +936,19 @@
       "status": "published",
       "checked_at": "2026-11-12",
       "editor_note": null
+    },
+    {
+      "id": "nc-holiday-flotilla-boat-parade-2026-11-28",
+      "title": "NC Holiday Flotilla — Boat Parade & Fireworks",
+      "category": "Community event",
+      "start": "2026-11-28T18:00:00-05:00",
+      "end": null,
+      "venue": "Wrightsville Beach waterways, Wrightsville Beach, NC 28480; no single viewing address is specified",
+      "description": "Lighted boat parade begins at 6 p.m.; fireworks follow. Host: North Carolina Holiday Flotilla. Public viewing; end time is not published.",
+      "source_url": "https://www.ncholidayflotilla.org/",
+      "source_name": "North Carolina Holiday Flotilla official schedule",
+      "status": "published",
+      "checked_at": "2026-11-17"
     },
     {
       "id": "wilmington-holiday-parade-2026-11-29",
@@ -937,6 +976,58 @@
       "status": "published",
       "checked_at": "2026-11-11",
       "editor_note": "Multi-day exhibit; visiting hours vary by weekday."
+    },
+    {
+      "id": "library-move-it-monday-viewers-choice-2026-11-30",
+      "title": "Move It Monday — Viewers Choice",
+      "category": "Community event",
+      "start": "2026-11-30T09:00:00-05:00",
+      "end": "2026-11-30T10:00:00-05:00",
+      "venue": "Southwest Brunswick Branch Library, Meeting Room 127, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "Free group fitness class; the fifth Monday session is Viewers Choice. Participants must sign a waiver; mats encouraged. No registration requirement is listed. Host: Brunswick County Public Library and AARP Virtual Community.",
+      "source_url": "https://brunsco.libcal.com/event/17306280",
+      "source_name": "Brunswick County Public Library LibCal",
+      "status": "published",
+      "checked_at": "2026-11-17"
+    },
+    {
+      "id": "library-storytime-harper-2026-11-30",
+      "title": "Storytime! — Harper Branch Library",
+      "category": "Community event",
+      "start": "2026-11-30T10:00:00-05:00",
+      "end": "2026-11-30T11:00:00-05:00",
+      "venue": "Margaret & James Harper, Jr. Library, 109 W. Moore Street, Southport, NC 28461",
+      "description": "Stories, songs, dancing and crafts for children ages 0-5. No registration required. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/17070727",
+      "source_name": "Brunswick County Public Library LibCal",
+      "status": "published",
+      "checked_at": "2026-11-17"
+    },
+    {
+      "id": "library-stay-and-play-rourk-2026-11-30",
+      "title": "Stay and Play — Rourk Branch Library",
+      "category": "Community event",
+      "start": "2026-11-30T10:30:00-05:00",
+      "end": "2026-11-30T11:30:00-05:00",
+      "venue": "Rourk Branch Library, 5068 Main Street, Shallotte, NC 28470",
+      "description": "Free-play activities for children ages 0-5 and their caregivers. No registration required. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/17055963",
+      "source_name": "Brunswick County Public Library LibCal",
+      "status": "published",
+      "checked_at": "2026-11-17"
+    },
+    {
+      "id": "library-legends-2026-11-30",
+      "title": "Library Legends — Teen Chess and Board Game Club",
+      "category": "Community event",
+      "start": "2026-11-30T16:00:00-05:00",
+      "end": "2026-11-30T17:00:00-05:00",
+      "venue": "Rourk Branch Library, 5068 Main Street, Shallotte, NC 28470",
+      "description": "Chess and board games for ages 11 and older; beginners welcome. No registration required. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/15806788",
+      "source_name": "Brunswick County Public Library LibCal",
+      "status": "published",
+      "checked_at": "2026-11-17"
     },
     {
       "id": "nhc-commission-for-women-2026-12-02",
