@@ -1,99 +1,7 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-17",
+  "last_checked": "2026-11-18",
   "events": [
-    {
-      "id": "shelton-herb-farm-holiday-centerpiece-workshop-2026-11-17",
-      "title": "Holiday Centerpiece Workshop",
-      "category": "Community event",
-      "start": "2026-11-17T13:00:00-05:00",
-      "end": "2026-11-17T14:30:00-05:00",
-      "venue": "Shelton Herb Farm, 340 Goodman Road NE, Leland, NC 28451",
-      "description": "Hands-on holiday centerpiece workshop. Advance ticket purchase required; listed ticket price was $60.54.",
-      "source_url": "https://www.eventbrite.com/e/holiday-centerpiece-workshop-tickets-2001902483217",
-      "source_name": "Shelton Herb Farm / Eventbrite",
-      "status": "published",
-      "checked_at": "2026-11-07"
-    },
-    {
-      "id": "airlie-snake-talk-2026-11-17",
-      "title": "Snake Talk at Airlie Gardens",
-      "category": "Community event",
-      "start": "2026-11-17T14:00:00-05:00",
-      "end": "2026-11-17T14:30:00-05:00",
-      "venue": "Airlie Gardens classroom, 300 Airlie Road, Wilmington, NC 28403",
-      "description": "Meet one of Airlie Gardens' ambassador reptiles during an educator-led talk and feeding demonstration. All ages welcome; children under 14 must be supervised by an adult. Host: Airlie Gardens. Advance ticket reservation required.",
-      "source_url": "https://airliegardens.org/events/snake-talks/",
-      "source_name": "Airlie Gardens official event page",
-      "status": "published",
-      "checked_at": "2026-11-17"
-    },
-    {
-      "id": "nhc-hispanic-latino-commission-2026-11-17",
-      "title": "New Hanover County Hispanic/Latino Commission Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-17T16:00:00-05:00",
-      "end": null,
-      "venue": "New Hanover County Government Center, Room 155, 230 Government Center Drive, Wilmington, NC 28403",
-      "description": "Meeting of the New Hanover County Hispanic/Latino Commission. The County announced that the November meeting was rescheduled to November 17 at 4 p.m. Host: New Hanover County. Public meeting.",
-      "source_url": "https://diversity.nhcgov.com/m/newsflash?cat=10",
-      "source_name": "New Hanover County official public notice",
-      "status": "published",
-      "checked_at": "2026-11-07"
-    },
-    {
-      "id": "belville-board-commissioners-regular-meeting-2026-11-17",
-      "title": "Belville Board of Commissioners Regular Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-17T18:00:00-05:00",
-      "end": null,
-      "venue": "Highway Patrol Training Center, 63 River Road, Belville, NC 28451",
-      "description": "Regular meeting of the Town of Belville Board of Commissioners. Host: Town of Belville. Public meeting; no registration requirement stated. End time is not published.",
-      "source_url": "https://townofbelville.com/wp-content/uploads/2026/05/2026-ToB-BOC-Meeting-Calendar-v1.pdf",
-      "source_name": "Town of Belville official 2026 Board of Commissioners meeting calendar",
-      "status": "published",
-      "checked_at": "2026-11-12",
-      "editor_note": "November meeting is scheduled for the third Tuesday, November 17, rather than the usual fourth Tuesday."
-    },
-    {
-      "id": "northwest-city-hall-council-2026-11-17",
-      "title": "City Hall Council Meeting — City of Northwest",
-      "category": "Public meeting",
-      "start": "2026-11-17T18:00:00-05:00",
-      "end": "2026-11-17T19:00:00-05:00",
-      "venue": "City Hall, 4889 Vernon Road, Northwest, NC 28451",
-      "description": "City Council meeting. Host: City of Northwest. No registration requirement is listed; contact City Hall for agenda and public-comment information.",
-      "source_url": "https://www.cityofnorthwest.com/meetings-agendas-and-events/city-hall-council-meeting-4",
-      "source_name": "City of Northwest official meeting listing",
-      "status": "published",
-      "checked_at": "2026-10-30"
-    },
-    {
-      "id": "leland-planning-board-2026-11-17",
-      "title": "Leland Planning Board Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-17T18:00:00-05:00",
-      "end": null,
-      "venue": "Leland Town Hall, 102 Town Hall Drive, Leland, NC 28451",
-      "description": "Planning Board meeting listed on the Town's specific 2026 meeting schedule. Host: Town of Leland. Public meeting; no registration requirement stated. End time is not published.",
-      "source_url": "https://www.townofleland.com/sites/default/files/uploads/Planning%20and%20Inspections/town-of-leland-planning-meetings-and-deadlines-website-pdf-2026.pdf",
-      "source_name": "Town of Leland 2026 Planning Meetings and Deadlines schedule",
-      "status": "published",
-      "checked_at": "2026-11-04"
-    },
-    {
-      "id": "wilmington-city-council-meeting-2026-11-17",
-      "title": "Wilmington City Council Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-17T18:30:00-05:00",
-      "end": "2026-11-17T20:30:00-05:00",
-      "venue": "Council Chambers, City Hall at Skyline Center, 929 N. Front Street, Wilmington, NC 28401",
-      "description": "Regular City Council meeting. Host: City of Wilmington. Public attendance; anyone wishing to speak should submit the City's public-speaking request by noon on the preceding business day, November 16.",
-      "source_url": "https://www.wilmingtonnc.gov/Events-directory/City-Council-Meeting",
-      "source_name": "City of Wilmington official events calendar",
-      "status": "published",
-      "checked_at": "2026-11-04"
-    },
     {
       "id": "bcc-womenpreneur-empowerment-summit-2026-11-18-19",
       "title": "Womenpreneur Empowerment Summit",
@@ -282,6 +190,20 @@
       "editor_note": "Recommend one festival-level listing only; do not add individual film sessions until the official schedule is checked for cancellations/changes."
     },
     {
+      "id": "nhc-abc-board-meeting-2026-11-19",
+      "title": "New Hanover County ABC Board Meeting",
+      "category": "Public meeting",
+      "start": "2026-11-19T09:00:00-05:00",
+      "end": null,
+      "venue": "6009 Market Street, Wilmington, NC 28405",
+      "description": "Regular monthly public meeting of the New Hanover County ABC Board. Host: New Hanover County ABC Board. Public meeting; end time not published.",
+      "source_url": "https://www.newhanovercountyabc.com/our-board/",
+      "source_name": "New Hanover County ABC Board",
+      "status": "published",
+      "checked_at": "2026-11-18",
+      "editor_note": null
+    },
+    {
       "id": "brunswick-library-baby-storytime-leland-2026-11-19",
       "title": "Baby Storytime — Leland Branch Library",
       "category": "Community event",
@@ -335,6 +257,20 @@
       "source_name": "Brunswick County Public Library LibCal",
       "status": "published",
       "checked_at": "2026-11-12",
+      "editor_note": null
+    },
+    {
+      "id": "cape-fear-public-transportation-authority-2026-11-19",
+      "title": "Cape Fear Public Transportation Authority Meeting",
+      "category": "Public meeting",
+      "start": "2026-11-19T12:30:00-05:00",
+      "end": null,
+      "venue": "Forden Station, 505 Cando Street, Wilmington, NC 28401",
+      "description": "Regular public meeting of the Cape Fear Public Transportation Authority. Public comment is limited to five minutes per person. In-person attendance only; no virtual attendance. Written comments must be submitted by 5 p.m. November 18. Host: Cape Fear Public Transportation Authority.",
+      "source_url": "https://www.wavetransit.com/",
+      "source_name": "Wave Transit official public notice",
+      "status": "published",
+      "checked_at": "2026-11-18",
       "editor_note": null
     },
     {
