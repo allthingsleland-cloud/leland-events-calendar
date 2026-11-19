@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-18",
+  "last_checked": "2026-11-19",
   "events": [
     {
       "id": "bcc-womenpreneur-empowerment-summit-2026-11-18-19",
@@ -299,6 +299,34 @@
       "editor_note": "Agenda not yet posted; verify before the meeting."
     },
     {
+      "id": "navassa-town-council-meeting-2026-11-19",
+      "title": "Navassa Town Council Meeting",
+      "category": "Public meeting",
+      "start": "2026-11-19T19:30:00-05:00",
+      "end": null,
+      "venue": "Navassa Community Center, 338 Main Street, Navassa, NC 28451",
+      "description": "Town Council meeting reported for November 19. Host: Town of Navassa. Public meeting. A meeting agenda was not available in the source checked; confirm with the Town before traveling.",
+      "source_url": "https://portcitydaily.com/latest-news/2026/11/16/the-agenda-this-week-in-local-government-meeting/",
+      "source_name": "Port City Daily local government meeting roundup; venue cross-checked against regional municipal directory",
+      "status": "published",
+      "checked_at": "2026-11-19",
+      "editor_note": "Date and time were reported by Port City Daily; no official meeting agenda was located during review."
+    },
+    {
+      "id": "bald-head-island-village-council-meeting-2026-11-20",
+      "title": "Bald Head Island Village Council Meeting and Public Hearing",
+      "category": "Public meeting",
+      "start": "2026-11-20T10:00:00-05:00",
+      "end": null,
+      "venue": "Multipurpose Room, Department of Public Safety Building, 273 Edward Teach Extension, Bald Head Island, NC 28461",
+      "description": "Regular Village Council meeting includes a public hearing on extending the development moratorium covering certain commercially zoned PD-2C and PD-3C properties. Public may attend and speak in person. Remote listeners may hear the meeting on Zoom but cannot participate in the public hearing. Written comments were due by 5 p.m. November 19. Host: Village of Bald Head Island.",
+      "source_url": "https://villagebhi.org/wp-content/uploads/2026/11/2026-11-20-Notice-of-Public-Hearing-to-Extend-Commercial-Development-Moratorium.pdf",
+      "source_name": "Village of Bald Head Island official public hearing notice",
+      "status": "published",
+      "checked_at": "2026-11-19",
+      "editor_note": null
+    },
+    {
       "id": "wilmington-little-explorers-2026-11-20",
       "title": "Little Explorers — Thankful Nature",
       "category": "Community event",
@@ -436,6 +464,20 @@
       "editor_note": null
     },
     {
+      "id": "wilmington-christkindlmarkt-2026-11-21",
+      "title": "Christkindlmarkt German Christmas Market",
+      "category": "Community event",
+      "start": "2026-11-21T10:00:00-05:00",
+      "end": "2026-11-21T16:00:00-05:00",
+      "venue": "St. Matthew’s Evangelical Lutheran Church, 612 S. College Road, Wilmington, NC 28403",
+      "description": "German-style Christmas market featuring local vendors, food, music, dance and children’s activities. Host: St. Matthew’s Evangelical Lutheran Church. Free admission; purchases optional.",
+      "source_url": "https://www.wilmingtonandbeaches.com/event/wilmington-christkindlmarkt-german-festival/8357/",
+      "source_name": "Wilmington and Beaches event listing; St. Matthew’s Evangelical Lutheran Church",
+      "status": "published",
+      "checked_at": "2026-11-19",
+      "editor_note": null
+    },
+    {
       "id": "wilmington-walk-learn-halyburton-2026-11-21",
       "title": "Walk & Learn at Halyburton",
       "category": "Community event",
@@ -474,6 +516,20 @@
       "source_name": "Shelton Herb Farm / Eventbrite",
       "status": "published",
       "checked_at": "2026-11-07"
+    },
+    {
+      "id": "moores-creek-candlelight-tour-2026-11-21",
+      "title": "Moores Creek Candlelight Tour",
+      "category": "History & culture",
+      "start": "2026-11-21T17:30:00-05:00",
+      "end": "2026-11-21T21:30:00-05:00",
+      "venue": "Moores Creek National Battlefield, 40 Patriots Hall Drive, Currie, NC 28435",
+      "description": "Guided candlelit walking tours featuring stories about the American Revolution and the Battle of Moores Creek Bridge. Tours depart every 15 minutes; last departure is listed at 8:45 p.m. Each tour lasts approximately 45 minutes. Host: National Park Service. Free; reservations required by calling 910-283-5591.",
+      "source_url": "https://www.nps.gov/mocr/planyourvisit/moores-creek-candlelight-tour.htm",
+      "source_name": "National Park Service",
+      "status": "published",
+      "checked_at": "2026-11-19",
+      "editor_note": null
     },
     {
       "id": "leland-in-lights-grand-illumination-2026-11-21",
@@ -818,6 +874,20 @@
       "source_name": "Brunswick County Public Library LibCal",
       "status": "published",
       "checked_at": "2026-11-17"
+    },
+    {
+      "id": "brunswick-county-board-education-meeting-2026-12-01",
+      "title": "Brunswick County Board of Education Meeting",
+      "category": "Public meeting",
+      "start": "2026-12-01T18:00:00-05:00",
+      "end": "2026-12-01T19:00:00-05:00",
+      "venue": "Cape Fear Room, The COAST (Center of Applied Sciences and Technology), 1109 Old Ocean Highway, Bolivia, NC 28422",
+      "description": "Regular Board of Education meeting. Host: Brunswick County Schools. Public meeting; livestream and recording are available. The Board's public-address policy allows up to 30 minutes for public comment; speakers must notify the designated school official or Board chair by noon on meeting day.",
+      "source_url": "https://www.bcswan.net/school-board/board-agendas-and-minutes",
+      "source_name": "Brunswick County Schools Board of Education",
+      "status": "published",
+      "checked_at": "2026-11-19",
+      "editor_note": null
     },
     {
       "id": "nhc-commission-for-women-2026-12-02",
