@@ -1,20 +1,7 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-19",
+  "last_checked": "2026-11-20",
   "events": [
-    {
-      "id": "bcc-womenpreneur-empowerment-summit-2026-11-18-19",
-      "title": "Womenpreneur Empowerment Summit",
-      "category": "Community event",
-      "start": "2026-11-18T09:00:00-05:00",
-      "end": "2026-11-19T16:00:00-05:00",
-      "venue": "Brunswick Community College — Virginia Williamson Event Center (Nov. 18) and Douglas Terhune Center for Culinary Arts (Nov. 19), Bolivia, NC",
-      "description": "Two-day summit focused on women entrepreneurs. Registration listed at $60; registration deadline November 11 at 5 p.m. See the College's page for program and registration information.",
-      "source_url": "https://brunswickcc.edu/womenpreneur-empowerment-summit/",
-      "source_name": "Brunswick Community College",
-      "status": "published",
-      "checked_at": "2026-11-07"
-    },
     {
       "id": "cucalorus-film-festival-2026-11-19-22",
       "title": "Cucalorus Film Festival",
@@ -28,126 +15,6 @@
       "checked_at": "2026-11-06",
       "status": "published",
       "editor_note": "Recommend one festival-level listing only; do not add individual film sessions until the official schedule is checked for cancellations/changes."
-    },
-    {
-      "id": "shelton-herb-farm-salad-bowl-workshop-2026-11-19",
-      "title": "Salad Bowl Potting Workshop",
-      "category": "Community event",
-      "start": "2026-11-19T13:00:00-05:00",
-      "end": "2026-11-19T14:15:00-05:00",
-      "venue": "Shelton Herb Farm, 340 Goodman Road NE, Leland, NC 28451",
-      "description": "Hands-on salad bowl planting workshop. Advance ticket purchase required; listed ticket price was $55.20.",
-      "source_url": "https://www.eventbrite.com/e/salad-bowl-potting-workshop-tickets-2001899858366",
-      "source_name": "Shelton Herb Farm / Eventbrite",
-      "status": "published",
-      "checked_at": "2026-11-07"
-    },
-    {
-      "id": "wilmington-board-of-adjustment-2026-11-19",
-      "title": "Wilmington Board of Adjustment Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-19T13:00:00-05:00",
-      "end": "2026-11-19T15:00:00-05:00",
-      "venue": "Council Chambers, City Hall at Skyline Center, 929 N. Front Street, Wilmington, NC 28401",
-      "description": "Meeting of the City of Wilmington Board of Adjustment. Public meeting; remote viewing is available through GTV, the City YouTube channel and Cablecast app. No registration required.",
-      "source_url": "https://www.wilmingtonnc.gov/Events-directory/Board-of-Adjustment",
-      "source_name": "City of Wilmington official events calendar",
-      "status": "published",
-      "checked_at": "2026-11-15"
-    },
-    {
-      "id": "wilmington-stitches-loops-crochet-2026-11-19",
-      "title": "Stitches & Loops Crochet Class",
-      "category": "Community event",
-      "start": "2026-11-19T16:00:00-05:00",
-      "end": "2026-11-19T18:00:00-05:00",
-      "venue": "Davis Center at Maides Park, 1101 Manly Avenue, Wilmington, NC 28403",
-      "description": "Free weekly crochet class open to anyone interested in learning or practicing. No registration required. Host: City of Wilmington Parks and Recreation.",
-      "source_url": "https://www.wilmingtonnc.gov/Events-directory/Stitches-Loops-Crochet-Class",
-      "source_name": "City of Wilmington official events calendar",
-      "status": "published",
-      "checked_at": "2026-11-15"
-    },
-    {
-      "id": "library-italian-club-2026-11-19",
-      "title": "Italian Language Learners Club",
-      "category": "Community event",
-      "start": "2026-11-19T17:00:00-05:00",
-      "end": "2026-11-19T18:30:00-05:00",
-      "venue": "Southwest Brunswick Branch Library, 9400 Ocean Highway W, Carolina Shores, NC 28467",
-      "description": "Informal Italian conversation and practice for ages 12 and older. Host: Brunswick County Public Library.",
-      "source_url": "https://brunsco.libcal.com/event/17057947",
-      "source_name": "Brunswick County Public Library",
-      "status": "published",
-      "checked_at": "2026-11-10"
-    },
-    {
-      "id": "wilmington-glp1-blueprint-workshop-2026-11-19",
-      "title": "GLP-1 Blueprint Workshop",
-      "category": "Community event",
-      "start": "2026-11-19T17:30:00-05:00",
-      "end": "2026-11-19T19:00:00-05:00",
-      "venue": "MLK Community Center, 401 S. 8th Street, Wilmington, NC 28401",
-      "description": "Free public workshop covering GLP-1 medications, side-effect management, nutrition, hydration and strength exercise, followed by a question-and-answer panel with a nurse practitioner, nutritionist and strength-and-conditioning coach. Host: City of Wilmington. Limited spots; registration required through WebTrac.",
-      "source_url": "https://www.wilmingtonnc.gov/Events-directory/GLP-1-Blueprint-Workshop",
-      "source_name": "City of Wilmington official events calendar",
-      "status": "published",
-      "checked_at": "2026-11-15"
-    },
-    {
-      "id": "brunswick-boc-public-hearing-z-949cz-2026-11-19",
-      "title": "Brunswick County Board of Commissioners — Public Hearing (Z-949CZ)",
-      "category": "County government",
-      "start": "2026-11-19T18:00:00-05:00",
-      "end": null,
-      "venue": "Commissioners' Chambers, David R. Sandifer Administration Building, 30 Government Center Drive, Bolivia, NC 28422",
-      "description": "Public hearing on a requested modification to conditional zoning case Z-949CZ for outdoor recreation at 8573 River Road SE near Southport. The approximately 3.3-acre site plan would be reconfigured to add a septic system and an accessory building. Host: Brunswick County. Speakers must sign up on the public-hearing form at the door before the meeting. End time is not published.",
-      "source_url": "https://www.brunswickcountync.gov/m/newsflash?cat=6",
-      "source_name": "Brunswick County official public hearing notice",
-      "status": "published",
-      "checked_at": "2026-11-04"
-    },
-    {
-      "id": "leland-town-council-regular-2026-11-19",
-      "title": "Leland Town Council Regular Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-19T18:00:00-05:00",
-      "end": null,
-      "venue": "Leland Town Hall Council Chambers, 102 Town Hall Drive, Leland, NC 28451",
-      "description": "Regular Town Council meeting. The agenda includes a public hearing on the proposed Jackeys Creek Development Agreement for approximately 1,336.63 acres northeast of Brunswick Forest and Mallory Creek. Host: Town of Leland. Public meeting; check the official agenda for public-comment procedures. End time is not published.",
-      "source_url": "https://townofleland.civicweb.net/Portal/MeetingTypeList.aspx",
-      "source_name": "Town of Leland official meeting portal",
-      "status": "published",
-      "checked_at": "2026-11-12",
-      "editor_note": "Public hearing on the proposed Jackeys Creek Development Agreement; verify final agenda and hearing materials."
-    },
-    {
-      "id": "southport-planning-board-meeting-2026-11-19",
-      "title": "Southport Planning Board Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-19T18:00:00-05:00",
-      "end": null,
-      "venue": "Southport Community Building, 223 E. Bay Street, Southport, NC 28461",
-      "description": "Regular meeting of the City of Southport Planning Board. The official CivicClerk calendar lists the meeting for 6 p.m. in the Southport Community Building. Agenda was not posted as of November 9. Public meeting; no registration requirement stated. Host: City of Southport. End time is not published.",
-      "source_url": "https://southportnc.portal.civicclerk.com/",
-      "source_name": "City of Southport official CivicClerk meeting calendar",
-      "status": "published",
-      "checked_at": "2026-11-09",
-      "editor_note": "Agenda not yet posted; verify before the meeting."
-    },
-    {
-      "id": "navassa-town-council-meeting-2026-11-19",
-      "title": "Navassa Town Council Meeting",
-      "category": "Public meeting",
-      "start": "2026-11-19T19:30:00-05:00",
-      "end": null,
-      "venue": "Navassa Community Center, 338 Main Street, Navassa, NC 28451",
-      "description": "Town Council meeting reported for November 19. Host: Town of Navassa. Public meeting. A meeting agenda was not available in the source checked; confirm with the Town before traveling.",
-      "source_url": "https://portcitydaily.com/latest-news/2026/11/16/the-agenda-this-week-in-local-government-meeting/",
-      "source_name": "Port City Daily local government meeting roundup; venue cross-checked against regional municipal directory",
-      "status": "published",
-      "checked_at": "2026-11-19",
-      "editor_note": "Date and time were reported by Port City Daily; no official meeting agenda was located during review."
     },
     {
       "id": "bald-head-island-village-council-meeting-2026-11-20",
@@ -244,6 +111,20 @@
       "status": "published",
       "checked_at": "2026-11-15",
       "editor_note": "The detailed event page lists a $5 fee, while another City listing says free. Confirm the fee before adding a price to the public description."
+    },
+    {
+      "id": "leland-in-lights-grand-illumination-2026-11-21",
+      "title": "Leland in Lights Grand Illumination",
+      "category": "Community event",
+      "start": "2026-11-20T18:00:00-05:00",
+      "end": "2026-11-20T20:00:00-05:00",
+      "venue": "Founders Park, 113 Town Hall Drive, Leland, NC 28451",
+      "description": "Free Grand Illumination of Leland in Lights. Santa and Mayor Brenda Bozeman will switch on the holiday displays; the event includes rides aboard the Leland Express trains and local food trucks. Rescheduled from Saturday, Nov. 21, to Friday, Nov. 20, because of potential inclement weather. Additional activities originally planned for Saturday, including train rides, were canceled. Parking and shuttle information are posted on the Town's announcement. Host: Town of Leland.",
+      "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/95",
+      "source_name": "Town of Leland official rescheduling announcement, November 19, 2026",
+      "status": "published",
+      "checked_at": "2026-11-20",
+      "editor_note": "Rescheduled to Friday, November 20, 6–8 p.m.; original Saturday programming partly canceled per Town notice."
     },
     {
       "id": "capefearriverwatch-friendsgiving-paddle-potluck-2026-11-21",
@@ -369,20 +250,6 @@
       "editor_note": null
     },
     {
-      "id": "leland-in-lights-grand-illumination-2026-11-21",
-      "title": "Leland in Lights Grand Illumination",
-      "category": "Community event",
-      "start": "2026-11-21T18:00:00-05:00",
-      "end": "2026-11-21T20:00:00-05:00",
-      "venue": "Founders Park, 113 Town Hall Drive, Leland, NC 28451",
-      "description": "Free holiday-season kickoff at Founders Park. The Grand Illumination runs 6–8 p.m. and features new light displays, carolers, Santa, food vendors and the Leland Express trains. The Town's October 26 announcement identifies parking at Port City Community Church, 187 Old Fayetteville Road, and First Baptist Church of Leland, 517 Village Road NE; shuttle service begins at 5:30 p.m. Accessible parking is available at Town Hall and Founders Park. Town Hall Drive between Village Road and Old Fayetteville Road will be closed from 4:30–9 p.m. The displays continue nightly through January 3, 2027.",
-      "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/83",
-      "source_name": "Town of Leland official announcement, October 26, 2026",
-      "status": "published",
-      "checked_at": "2026-10-29",
-      "editor_note": null
-    },
-    {
       "id": "library-zumba-2026-11-23",
       "title": "Move It Monday — Zumba",
       "category": "Community event",
@@ -473,6 +340,19 @@
       "source_name": "Brunswick County Public Library LibCal",
       "status": "published",
       "checked_at": "2026-11-17"
+    },
+    {
+      "id": "library-crafting-collective-rourk-2026-11-24",
+      "title": "The Crafting Collective",
+      "category": "Community event",
+      "start": "2026-11-24T15:30:00-05:00",
+      "end": "2026-11-24T17:00:00-05:00",
+      "venue": "Rourk Branch Library, 5068 Main Street, Shallotte, NC 28470",
+      "description": "Adult craft program featuring hand-embroidery, journaling, scrapbooking and other creative activities. Materials are provided at no charge. Host: Brunswick County Public Library. The event listing does not state a registration requirement.",
+      "source_url": "https://brunsco.libcal.com/event/17606677",
+      "source_name": "Brunswick County Public Library official LibCal event listing",
+      "status": "published",
+      "checked_at": "2026-11-20"
     },
     {
       "id": "southport-board-adjustment-2026-11-24",
@@ -711,6 +591,19 @@
       "source_name": "Brunswick County Public Library LibCal",
       "status": "published",
       "checked_at": "2026-11-17"
+    },
+    {
+      "id": "library-crafting-collective-rourk-2026-12-01",
+      "title": "The Crafting Collective",
+      "category": "Community event",
+      "start": "2026-12-01T15:30:00-05:00",
+      "end": "2026-12-01T17:00:00-05:00",
+      "venue": "Rourk Branch Library, 5068 Main Street, Shallotte, NC 28470",
+      "description": "Adult craft program featuring hand-embroidery, journaling, scrapbooking and other creative activities. Materials are provided at no charge. Host: Brunswick County Public Library. The event listing does not state a registration requirement.",
+      "source_url": "https://brunsco.libcal.com/event/17606677",
+      "source_name": "Brunswick County Public Library official LibCal event listing",
+      "status": "published",
+      "checked_at": "2026-11-20"
     },
     {
       "id": "brunswick-county-board-education-meeting-2026-12-01",
