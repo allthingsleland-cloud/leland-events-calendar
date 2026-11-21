@@ -113,6 +113,34 @@
       "checked_at": "2026-11-15"
     },
     {
+      "id": "leland-free-to-be-me-with-you-2026-11-21",
+      "title": "Free to be Me, With You!",
+      "category": "Community event",
+      "start": "2026-11-21T10:00:00-05:00",
+      "end": "2026-11-21T11:00:00-05:00",
+      "venue": "Leland Cultural Arts Center, 1212 Magnolia Village Way, Leland, NC 28451",
+      "description": "Free, hands-on child-centered art program using playdough, paint, collage and other materials. Parent participation is required. Host: Town of Leland.",
+      "source_url": "https://www.townofleland.com/Calendar.aspx?EID=861",
+      "source_name": "Town of Leland official calendar; time and venue corroborated by local event listings",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": "Town calendar confirms the event and date; 10–11 a.m. and LCAC venue are corroborated by local event listings."
+    },
+    {
+      "id": "nhcpl-read-talk-connect-main-2026-11-21",
+      "title": "Read, Talk & Connect @ Main Library",
+      "category": "Community event",
+      "start": "2026-11-21T10:30:00-05:00",
+      "end": "2026-11-21T11:15:00-05:00",
+      "venue": "New Hanover County Public Library Main Library, MN Children's Room, 230 Grace Street, Suite A, Wilmington, NC 28401",
+      "description": "Read-aloud and craft with bilingual speech-language pathologist Annora Dirsa, focused on ways to support children's communication. The library calendar listed 45 seats available; consult the listing for registration details. Host: New Hanover County Public Library.",
+      "source_url": "https://libcal.nhcgov.com/calendar/nhcpl?cal%5B%5D=2522&ct%5B%5D=34240&d=2026-11-21&t=g",
+      "source_name": "New Hanover County Public Library official LibCal calendar",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": null
+    },
+    {
       "id": "shelton-herb-farm-salad-bowl-workshop-2026-11-21",
       "title": "Salad Bowl Potting Workshop",
       "category": "Community event",
@@ -124,6 +152,20 @@
       "source_name": "Shelton Herb Farm / Eventbrite",
       "status": "published",
       "checked_at": "2026-11-07"
+    },
+    {
+      "id": "merry-market-on-the-beach-2026-11-21",
+      "title": "The Merry Market on the Beach",
+      "category": "Community event",
+      "start": "2026-11-21T12:00:00-05:00",
+      "end": "2026-11-21T16:00:00-05:00",
+      "venue": "Carolina Beach Pier, 1800 Carolina Beach Avenue N, Carolina Beach, NC 28428",
+      "description": "Oceanside holiday market featuring an indoor Christmas pop-up bar, festive German music and dozens of vendors. Free to attend; food and drinks are available for purchase. Host: The Merry Market organizers.",
+      "source_url": "https://kure-beach.wilmingtonandbeaches.com/event/the-merry-market-on-the-beach/8635/",
+      "source_name": "Wilmington and Beaches CVB official event listing",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": null
     },
     {
       "id": "read-with-willow-swb-2026-11-21",
@@ -260,6 +302,20 @@
       "checked_at": "2026-11-17"
     },
     {
+      "id": "library-chess-club-swb-2026-11-24",
+      "title": "Chess Club",
+      "category": "Community event",
+      "start": "2026-11-24T15:00:00-05:00",
+      "end": "2026-11-24T16:00:00-05:00",
+      "venue": "Southwest Brunswick Branch Library, SWB Meeting Room #125, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "All-ages chess club; new and experienced players are welcome, and limited spare boards are available. Registration required; the library listing showed 20 seats available. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/15368421",
+      "source_name": "Brunswick County Public Library official LibCal event listing",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": null
+    },
+    {
       "id": "library-crafting-collective-rourk-2026-11-24",
       "title": "The Crafting Collective",
       "category": "Community event",
@@ -312,6 +368,20 @@
       "checked_at": "2026-11-21",
       "status": "published",
       "editor_note": null
+    },
+    {
+      "id": "sunset-beach-tree-lighting-2026-11-27",
+      "title": "Sunset Beach Tree Lighting",
+      "category": "Community event",
+      "start": "2026-11-27T17:00:00-05:00",
+      "end": "2026-11-27T18:30:00-05:00",
+      "venue": "Sunset Beach Town Park, 206 Sunset Boulevard, Sunset Beach, NC 28468",
+      "description": "Town holiday gathering and tree-lighting ceremony at Sunset Beach Town Park. Host: Town of Sunset Beach. Public event; no attendee registration requirement is listed.",
+      "source_url": "https://seatrailma.com/event/town-holiday-happenings-tree-lighting-holiday-market-november-27-28/",
+      "source_name": "Sea Trail Master Association local events calendar; event organizer is the Town of Sunset Beach",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": "Date and venue are also listed in the Brunswick Islands Tourism Development Authority holiday guide."
     },
     {
       "id": "wilmington-holiday-tree-lighting-2026-11-27",
@@ -394,6 +464,20 @@
       "checked_at": "2026-11-17"
     },
     {
+      "id": "sunset-beach-holiday-market-2026-11-28",
+      "title": "Sunset Beach Holiday Market",
+      "category": "Community event",
+      "start": "2026-11-28T10:00:00-05:00",
+      "end": "2026-11-28T14:00:00-05:00",
+      "venue": "Sunset Beach Town Park, 206 Sunset Boulevard, Sunset Beach, NC 28468",
+      "description": "Town-hosted Holiday Market in the Park featuring local vendors and seasonal goods. No attendee registration requirement is listed. Host: Town of Sunset Beach.",
+      "source_url": "https://sunsetbeachnc.gov/vertical/sites/%7BC59DF5BC-1B90-44CB-AD2A-9DAE0D811CD0%7D/uploads/2026_Market_Event_Application__Map.pdf",
+      "source_name": "Town of Sunset Beach official 2026 Market in the Park application",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": "The Town application lists Nov. 28, 10 a.m.–2 p.m.; the Brunswick Islands Tourism Development Authority identifies Sunset Beach Town Park as the venue."
+    },
+    {
       "id": "really-cool-stuff-holiday-market-2026-11-28",
       "title": "Really Cool Stuff Holiday Market",
       "category": "Community event",
@@ -431,6 +515,20 @@
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
       "checked_at": "2026-11-12",
+      "editor_note": null
+    },
+    {
+      "id": "holden-beach-flotilla-2026-11-28",
+      "title": "Holden Beach Flotilla",
+      "category": "Community event",
+      "start": "2026-11-28T17:30:00-05:00",
+      "end": null,
+      "venue": "Intracoastal Waterway, Holden Beach, NC 28462; route begins west of Sailfish Park and returns to Holden Beach Marina",
+      "description": "Inaugural lighted-boat parade on the Intracoastal Waterway. Boats travel past Provisions and the Holden Beach Bridge, turn near The Wharf, and return to Holden Beach Marina; expected return is about 7:30 p.m., with judging through approximately 7:45 p.m. Free to watch; donations and a new, unwrapped toy for Brunswick Family Assistance are encouraged. Host: Holden Beach Flotilla organizers.",
+      "source_url": "https://www.hbflotilla.com/schedule",
+      "source_name": "Holden Beach Flotilla official schedule",
+      "status": "published",
+      "checked_at": "2026-11-21",
       "editor_note": null
     },
     {
@@ -510,6 +608,34 @@
       "source_name": "Brunswick County Public Library LibCal",
       "status": "published",
       "checked_at": "2026-11-17"
+    },
+    {
+      "id": "library-storytime-barbee-2026-12-01",
+      "title": "Storytime — G.V. Barbee, Sr. Branch Library",
+      "category": "Community event",
+      "start": "2026-12-01T10:00:00-05:00",
+      "end": "2026-12-01T10:45:00-05:00",
+      "venue": "G.V. Barbee, Sr. Branch Library, Barbee Meeting Room, 8200 E Oak Island Drive, Oak Island, NC 28465",
+      "description": "Stories, singing, dancing and crafts for children age 5 and younger. No registration required. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/15779482",
+      "source_name": "Brunswick County Public Library official LibCal event listing",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": null
+    },
+    {
+      "id": "library-chess-club-swb-2026-12-01",
+      "title": "Chess Club",
+      "category": "Community event",
+      "start": "2026-12-01T15:00:00-05:00",
+      "end": "2026-12-01T16:00:00-05:00",
+      "venue": "Southwest Brunswick Branch Library, SWB Meeting Room #125, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "All-ages chess club; new and experienced players are welcome, and limited spare boards are available. Registration required; the library listing showed 20 seats available. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/15368421",
+      "source_name": "Brunswick County Public Library official LibCal event listing",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": null
     },
     {
       "id": "library-crafting-collective-rourk-2026-12-01",
@@ -593,6 +719,20 @@
       "checked_at": "2026-11-21",
       "status": "published",
       "editor_note": null
+    },
+    {
+      "id": "color-me-calm-swb-2026-12-04",
+      "title": "Color Me Calm",
+      "category": "Community event",
+      "start": "2026-12-04T10:00:00-05:00",
+      "end": "2026-12-04T11:30:00-05:00",
+      "venue": "Southwest Brunswick Branch Library, SWB Meeting Room #124, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "In-person adult coloring and creative art program for ages 19+, with colored pencils, pens, paint pens and rock painting. Registration required; the library listing showed 20 seats available. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/16408028",
+      "source_name": "Brunswick County Public Library official LibCal event listing",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": "Confirmed as in-person at SWB Meeting Room #124; an earlier draft incorrectly described this as online."
     },
     {
       "id": "read-with-therapy-dogs-swb-2026-12-04",
@@ -679,6 +819,34 @@
       "editor_note": null
     },
     {
+      "id": "calabash-community-christmas-parade-tree-lighting-2026-12-04",
+      "title": "31st Annual Calabash Community Christmas Tree Lighting & Parade",
+      "category": "Community event",
+      "start": "2026-12-04T18:00:00-05:00",
+      "end": "2026-12-04T19:30:00-05:00",
+      "venue": "Callahan's of Calabash, 9973 Beach Drive SW, Calabash, NC 28467",
+      "description": "Annual community Christmas parade along Beach Drive to River Road, followed by the tree lighting at Callahan's of Calabash. Festivities include music, caroling, hot cocoa and a visit from Santa. Free for spectators; no attendee registration requirement is listed. Host: Calabash community Christmas organizers and Town of Calabash.",
+      "source_url": "https://www.ncbrunswick.com/blog/post/celebrate-the-holidays-in-the-brunswick-islands/",
+      "source_name": "Brunswick Islands Tourism Development Authority official holiday events guide",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": "The local event listing also confirms the route, 6–7:30 p.m. schedule and Callahan's address."
+    },
+    {
+      "id": "carolina-beach-christmas-parade-2026-12-04",
+      "title": "Carolina Beach Christmas Parade",
+      "category": "Community event",
+      "start": "2026-12-04T19:00:00-05:00",
+      "end": "2026-12-04T21:00:00-05:00",
+      "venue": "Route from Atlanta Avenue down Lake Park Boulevard to Federal Point Shopping Center, Carolina Beach, NC 28428",
+      "description": "Annual Christmas parade with floats, bands and Santa. Free family entertainment; no attendee registration required. Host: Town of Carolina Beach.",
+      "source_url": "https://carolina-beach.wilmingtonandbeaches.com/event/carolina-beach-christmas-parade/4343/",
+      "source_name": "Wilmington and Beaches CVB official event listing",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": null
+    },
+    {
       "id": "oak-island-breakfast-with-santa-2026-12-05",
       "title": "Breakfast with Santa",
       "category": "Community event",
@@ -693,6 +861,20 @@
       "editor_note": null
     },
     {
+      "id": "carolina-beach-holiday-market-2026-12-05",
+      "title": "Carolina Beach Holiday Market",
+      "category": "Community event",
+      "start": "2026-12-05T09:00:00-05:00",
+      "end": "2026-12-05T15:00:00-05:00",
+      "venue": "Carolina Beach Lake Park, Atlanta Avenue and Lake Park Boulevard, Carolina Beach, NC 28428",
+      "description": "Holiday market with more than 90 vendors selling handmade arts and crafts, gifts and local goods. Free entry; no attendee registration required. Host: Carolina Beach Farmer's Market.",
+      "source_url": "https://carolina-beach.wilmingtonandbeaches.com/event/carolina-beach-holiday-market/4571/",
+      "source_name": "Wilmington and Beaches CVB official event listing",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": null
+    },
+    {
       "id": "leland-holiday-art-market-2026-12-05",
       "title": "Holiday Art Market",
       "category": "Community event",
@@ -704,6 +886,20 @@
       "source_name": "Town of Leland official holiday announcement",
       "status": "published",
       "checked_at": "2026-11-11",
+      "editor_note": null
+    },
+    {
+      "id": "shallotte-christmas-parade-2026-12-05",
+      "title": "Shallotte Christmas Parade",
+      "category": "Community event",
+      "start": "2026-12-05T10:00:00-05:00",
+      "end": "2026-12-05T12:00:00-05:00",
+      "venue": "Main Street, Shallotte, NC 28470; route from Whiteville Road to Smith Avenue",
+      "description": "Annual Christmas parade with local businesses, school floats and community entries. Host: Town of Shallotte. Free for spectators; no attendee registration required. Road closures are expected beginning about 8:30 a.m.",
+      "source_url": "https://brierwood.info/event/shallotte-christmas-parade-2/",
+      "source_name": "Brierwood Estates community calendar; date and start time corroborated by Brunswick Islands Tourism Development Authority",
+      "status": "published",
+      "checked_at": "2026-11-21",
       "editor_note": null
     },
     {
@@ -734,6 +930,20 @@
       "checked_at": "2026-11-21"
     },
     {
+      "id": "holidays-on-water-drone-show-santa-2026-12-05",
+      "title": "Holidays on Water Drone Show & Santa",
+      "category": "Community event",
+      "start": "2026-12-05T17:00:00-05:00",
+      "end": "2026-12-05T20:00:00-05:00",
+      "venue": "Wilmington Riverwalk, Water Street between Dock and Grace Streets, Wilmington, NC 28401",
+      "description": "Free holiday riverfront event with Santa photo opportunities near the Visitor Information Booth from 5–8 p.m. A synchronized show featuring 150 drones begins over the Cape Fear River at 7 p.m. Host: City of Wilmington.",
+      "source_url": "https://www.wilmingtonandbeaches.com/event/holidays-on-water-drone-show/7871/",
+      "source_name": "Wilmington and Beaches CVB official event listing; presented by the City of Wilmington",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": null
+    },
+    {
       "id": "leland-live-at-lights-2026-12-05",
       "title": "Live at Leland in Lights — Home Alone and Santa",
       "category": "Community event",
@@ -743,6 +953,20 @@
       "description": "Free evening at Leland in Lights. Leland Express train rides run 5:30-8:30 p.m.; food trucks are A&M Red Food Truck and Level Up Coffee Truck. Home Alone screens at 6 p.m.; Santa visits 6-8 p.m. Host: Town of Leland. No registration required.",
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": null
+    },
+    {
+      "id": "island-of-lights-christmas-flotilla-2026-12-05",
+      "title": "Island of Lights Christmas Flotilla",
+      "category": "Community event",
+      "start": "2026-12-05T18:00:00-05:00",
+      "end": null,
+      "venue": "Carolina Beach Boat Basin to Snow's Cut and back, Carolina Beach, NC 28428",
+      "description": "Annual lighted-boat parade on the Intracoastal Waterway, traveling from Snow's Cut to the Carolina Beach Boat Basin and back. Free for spectators; no registration required. Host: Island of Lights Committee. End time is not published.",
+      "source_url": "https://carolina-beach.wilmingtonandbeaches.com/event/island-of-lights-christmas-flotilla/4864/",
+      "source_name": "Wilmington and Beaches CVB official event listing",
       "status": "published",
       "checked_at": "2026-11-21",
       "editor_note": null
@@ -1262,6 +1486,20 @@
       "editor_note": null
     },
     {
+      "id": "nhcpl-hidden-history-festival-2026-11-21",
+      "title": "Hidden History Festival",
+      "category": "History & culture",
+      "start": "2026-11-21T12:30:00-05:00",
+      "end": "2026-11-21T13:45:00-05:00",
+      "venue": "Northchase Library, Flytrap Multipurpose Room, 4400 Northchase Parkway W, Wilmington, NC 28405",
+      "description": "Local-history program, “Remembering Lesser Known Tribes,” exploring Indigenous communities and families whose histories have been absorbed into better-known narratives. No registration requirement is listed. Host: New Hanover County Public Library.",
+      "source_url": "https://libcal.nhcgov.com/calendar/nhcpl?cal%5B%5D=2522&ct%5B%5D=34240&d=2026-11-21&t=g",
+      "source_name": "New Hanover County Public Library official LibCal calendar",
+      "status": "published",
+      "checked_at": "2026-11-21",
+      "editor_note": null
+    },
+    {
       "id": "moores-creek-candlelight-tour-2026-11-21",
       "title": "Moores Creek Candlelight Tour",
       "category": "History & culture",
@@ -1273,6 +1511,20 @@
       "source_name": "National Park Service",
       "status": "published",
       "checked_at": "2026-11-19",
+      "editor_note": null
+    },
+    {
+      "id": "old-baldy-luminary-night-2026-11-28",
+      "title": "Luminary Night",
+      "category": "History & culture",
+      "start": "2026-11-28T16:00:00-05:00",
+      "end": "2026-11-28T19:00:00-05:00",
+      "venue": "Old Baldy Lighthouse and Village Chapel, Bald Head Island, NC 28461",
+      "description": "Free, all-ages holiday event with luminary walks, living historians, Village Chapel carols and a decorated Christmas tree auction. Host: Old Baldy Foundation and Village Chapel. No attendee registration requirement is listed.",
+      "source_url": "https://www.oldbaldy.org/luminary",
+      "source_name": "Old Baldy Foundation official event page",
+      "status": "published",
+      "checked_at": "2026-11-21",
       "editor_note": null
     },
     {
