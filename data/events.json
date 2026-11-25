@@ -1,48 +1,7 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-23",
+  "last_checked": "2026-11-25",
   "events": [
-    {
-      "id": "library-chess-club-swb-2026-11-24",
-      "title": "Chess Club",
-      "category": "Community event",
-      "start": "2026-11-24T15:00:00-05:00",
-      "end": "2026-11-24T16:00:00-05:00",
-      "venue": "Southwest Brunswick Branch Library, SWB Meeting Room #125, 9400 Ocean Highway W, Carolina Shores, NC 28467",
-      "description": "All-ages chess club; new and experienced players are welcome, and limited spare boards are available. Registration required; the library listing showed 20 seats available. Host: Brunswick County Public Library.",
-      "source_url": "https://brunsco.libcal.com/event/15368421",
-      "source_name": "Brunswick County Public Library official LibCal event listing",
-      "status": "published",
-      "checked_at": "2026-11-21",
-      "editor_note": null
-    },
-    {
-      "id": "library-crafting-collective-rourk-2026-11-24",
-      "title": "The Crafting Collective",
-      "category": "Community event",
-      "start": "2026-11-24T15:30:00-05:00",
-      "end": "2026-11-24T17:00:00-05:00",
-      "venue": "Rourk Branch Library, 5068 Main Street, Shallotte, NC 28470",
-      "description": "Adult craft program featuring hand-embroidery, journaling, scrapbooking and other creative activities. Materials are provided at no charge. Host: Brunswick County Public Library. The event listing does not state a registration requirement.",
-      "source_url": "https://brunsco.libcal.com/event/17606677",
-      "source_name": "Brunswick County Public Library official LibCal event listing",
-      "status": "published",
-      "checked_at": "2026-11-20"
-    },
-    {
-      "id": "baby-storytime-leland-2026-11-25",
-      "title": "Baby Storytime",
-      "category": "Community event",
-      "start": "2026-11-25T10:00:00-05:00",
-      "end": "2026-11-25T10:30:00-05:00",
-      "venue": "Leland Branch Library, Leland Meeting Room, 487 Village Road, Leland, NC 28451",
-      "description": "Thirty minutes of stories, music and playtime for ages 0-2. No registration requirement is listed. Host: Brunswick County Public Library.",
-      "source_url": "https://brunsco.libcal.com/event/15456283",
-      "source_name": "Brunswick County Public Library LibCal",
-      "checked_at": "2026-11-21",
-      "status": "published",
-      "editor_note": null
-    },
     {
       "id": "wilmington-geri-fit-maides-park-2026-11-25",
       "title": "Geri Fit Classes at Maides Park",
@@ -134,7 +93,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -242,7 +201,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -455,7 +414,7 @@
       "description": "Free evening of Leland in Lights. Leland Express train rides run 5:30-8:30 p.m.; food trucks are Old South Pretzels and Chocolate & S'more. Host: Town of Leland. No registration required.",
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-25",
       "status": "published",
       "editor_note": null
     },
@@ -470,7 +429,7 @@
       "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
       "source_name": "Town of Leland official holiday announcement",
       "status": "published",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -581,7 +540,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -678,7 +637,7 @@
       "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
       "source_name": "Town of Leland official holiday announcement",
       "status": "published",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -761,7 +720,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -873,7 +832,7 @@
       "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
       "source_name": "Town of Leland official holiday announcement",
       "status": "published",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -886,7 +845,7 @@
       "description": "Free evening of Leland in Lights. Leland Express train rides run 5:30-8:30 p.m.; food trucks are Roadside Revival and Chocolate & S'more. Host: Town of Leland. No registration required.",
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-25",
       "status": "published",
       "editor_note": null
     },
@@ -943,7 +902,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -1013,7 +972,7 @@
       "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
       "source_name": "Town of Leland official holiday announcement",
       "status": "published",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -1069,7 +1028,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -1096,7 +1055,7 @@
       "description": "Free evening of Leland in Lights. Leland Express train rides run 5:30-8:30 p.m.; food trucks are Sergeant Spuds and Common Tides. Host: Town of Leland. No registration required.",
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-25",
       "status": "published",
       "editor_note": null
     },
@@ -1125,7 +1084,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -1139,7 +1098,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -1168,20 +1127,6 @@
       "source_name": "Town of Leland official announcement",
       "status": "published",
       "checked_at": "2026-11-13",
-      "editor_note": null
-    },
-    {
-      "id": "southport-board-adjustment-2026-11-24",
-      "title": "Board of Adjustment Meeting — Southport",
-      "category": "Public meeting",
-      "start": "2026-11-24T16:30:00-05:00",
-      "end": null,
-      "venue": "Indian Trail Meeting Hall, 113 W. Moore Street, Southport, NC 28461",
-      "description": "Meeting of the City of Southport Board of Adjustment. Public meeting; no registration requirement stated. Agenda and end time were not available in the official calendar listing. Host: City of Southport.",
-      "source_url": "https://southportnc.portal.civicclerk.com/",
-      "source_name": "City of Southport CivicClerk meeting calendar",
-      "status": "published",
-      "checked_at": "2026-11-11",
       "editor_note": null
     },
     {
@@ -1443,7 +1388,7 @@
       "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
       "source_name": "Town of Leland official holiday announcement",
       "status": "published",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-25",
       "editor_note": "Multi-day exhibit; visiting hours vary by weekday."
     },
     {
@@ -1457,7 +1402,7 @@
       "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/92",
       "source_name": "Town of Leland official holiday announcement",
       "status": "published",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-25",
       "editor_note": null
     },
     {
@@ -1487,6 +1432,20 @@
       "status": "published",
       "checked_at": "2026-10-18",
       "editor_note": "Confirmed on the official NC DNCR site."
+    },
+    {
+      "id": "leland-in-lights-nightly-display-2026",
+      "title": "Leland in Lights — Nightly Holiday Display",
+      "category": "Community event",
+      "start": "2026-11-20T18:00:00-05:00",
+      "end": "2027-01-03T20:00:00-05:00",
+      "venue": "Founders Park, 113 Town Hall Drive, Leland, NC 28451",
+      "description": "Free holiday light display open nightly at dusk through January 3, 2027. The Brunswick County Tourism Development Authority lists nightly hours of 6–8 p.m. Additional programming on selected dates includes Leland Express train rides, food trucks, live entertainment, movies and Santa visits; consult the Town's schedule for those dates. Host: Town of Leland. No registration required for the light display.",
+      "source_url": "https://www.ncbrunswick.com/event/leland-in-lights/2085/",
+      "source_name": "Brunswick County Tourism Development Authority official event listing, corroborated by Town of Leland official schedule",
+      "status": "published",
+      "checked_at": "2026-11-25",
+      "editor_note": null
     }
   ]
 }
