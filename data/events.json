@@ -1,7 +1,21 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-25",
+  "last_checked": "2026-11-26",
   "events": [
+    {
+      "id": "leland-in-lights-nightly-display-2026",
+      "title": "Leland in Lights — Nightly Holiday Display",
+      "category": "Community event",
+      "start": "2026-11-20T18:00:00-05:00",
+      "end": "2027-01-03T20:00:00-05:00",
+      "venue": "Founders Park, 113 Town Hall Drive, Leland, NC 28451",
+      "description": "Free holiday light display open nightly at dusk through January 3, 2027. The Brunswick County Tourism Development Authority lists nightly hours of 6–8 p.m. Additional programming on selected dates includes Leland Express train rides, food trucks, live entertainment, movies and Santa visits; consult the Town's schedule for those dates. Host: Town of Leland. No registration required for the light display.",
+      "source_url": "https://www.ncbrunswick.com/event/leland-in-lights/2085/",
+      "source_name": "Brunswick County Tourism Development Authority official event listing, corroborated by Town of Leland official schedule",
+      "status": "published",
+      "checked_at": "2026-11-25",
+      "editor_note": null
+    },
     {
       "id": "cape-fear-habitat-turkey-trot-2026-11-26",
       "title": "Cape Fear Habitat Turkey Trot",
@@ -310,6 +324,20 @@
       "editor_note": null
     },
     {
+      "id": "kaleidoscope-play-learn-leland-2026-12-01",
+      "title": "Kaleidoscope Play & Learn — Leland",
+      "category": "Community event",
+      "start": "2026-12-01T09:30:00-05:00",
+      "end": "2026-12-01T11:00:00-05:00",
+      "venue": "Goshen Fellowship Church, 4124 Mt. Misery Road NE, Leland, NC 28451",
+      "description": "Free guided play group for children ages 0–5 and the adults who care for them. Families are asked to complete a registration form in advance or on site; English and Spanish forms are available. Host: Smart Start of Brunswick County.",
+      "source_url": "https://www.smartstartbrunswick.org/event/kaleidoscope-play-learn-leland-nc-2-2023-09-20-2/2026-12-01/",
+      "source_name": "Smart Start of Brunswick County official event listing",
+      "checked_at": "2026-11-26",
+      "status": "published",
+      "editor_note": null
+    },
+    {
       "id": "library-storytime-barbee-2026-12-01",
       "title": "Storytime — G.V. Barbee, Sr. Branch Library",
       "category": "Community event",
@@ -361,6 +389,20 @@
       "source_url": "https://www.oakislandnc.gov/Events-Calendar-Directory/Town-Events/Coffee-Cocoa-With-A-Cop",
       "source_name": "Town of Oak Island official event page",
       "checked_at": "2026-11-21",
+      "status": "published",
+      "editor_note": null
+    },
+    {
+      "id": "kaleidoscope-play-learn-leland-2026-12-02",
+      "title": "Kaleidoscope Play & Learn — Leland",
+      "category": "Community event",
+      "start": "2026-12-02T09:30:00-05:00",
+      "end": "2026-12-02T11:00:00-05:00",
+      "venue": "Goshen Fellowship Church, 4124 Mt. Misery Road NE, Leland, NC 28451",
+      "description": "Free guided play group for children ages 0–5 and the adults who care for them. Families are asked to complete a registration form in advance or on site; English and Spanish forms are available. Host: Smart Start of Brunswick County.",
+      "source_url": "https://www.smartstartbrunswick.org/event/kaleidoscope-play-learn-leland-nc/2026-12-02/",
+      "source_name": "Smart Start of Brunswick County official event listing",
+      "checked_at": "2026-11-26",
       "status": "published",
       "editor_note": null
     },
@@ -795,20 +837,6 @@
       "editor_note": null
     },
     {
-      "id": "southport-winterfestival-of-trees-2026-12-08",
-      "title": "Winterfest-ival of Trees",
-      "category": "Community event",
-      "start": "2026-12-08T17:30:00-05:00",
-      "end": "2026-12-08T19:30:00-05:00",
-      "venue": "Franklin Square Park, Southport, NC 28461",
-      "description": "Winterfest-ival of Trees, featuring community-decorated trees and holiday activities. Host: Southport Garden Club as part of City of Southport Winterfest. No registration requirement is listed.",
-      "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
-      "source_name": "City of Southport official Winterfest schedule",
-      "checked_at": "2026-11-21",
-      "status": "published",
-      "editor_note": null
-    },
-    {
       "id": "leland-cookies-with-santa-2026-12-08",
       "title": "Cookies with Santa",
       "category": "Community event",
@@ -820,6 +848,20 @@
       "source_name": "Town of Leland official holiday announcement",
       "status": "published",
       "checked_at": "2026-11-25",
+      "editor_note": null
+    },
+    {
+      "id": "brunswick-county-licc-breakfast-with-santa-2026-12-09",
+      "title": "Brunswick County LICC Breakfast with Santa",
+      "category": "Community event",
+      "start": "2026-12-09T09:00:00-05:00",
+      "end": "2026-12-09T11:00:00-05:00",
+      "venue": "NC Cooperative Extension — Brunswick County, 25 Referendum Drive NE, Building N, Bolivia, NC 28422",
+      "description": "Annual Breakfast with Santa for children with special needs, featuring breakfast, crafts and photos with Santa. Registration is required; contact Tonya Hamilton at 910-945-6043 or Patricia Ungerer at 910-553-8360. Host: Brunswick County Local Interagency Coordinating Council.",
+      "source_url": "https://www.smartstartbrunswick.org/event/brunswick-county-local-interagency-coordinating-council-breakfast-with-santa/",
+      "source_name": "Smart Start of Brunswick County official event listing",
+      "checked_at": "2026-11-26",
+      "status": "published",
       "editor_note": null
     },
     {
@@ -890,20 +932,6 @@
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
       "checked_at": "2026-11-25",
-      "editor_note": null
-    },
-    {
-      "id": "southport-light-up-the-night-christmas-parade-2026-12-11",
-      "title": "Light Up the Night Christmas Parade",
-      "category": "Community event",
-      "start": "2026-12-11T18:30:00-05:00",
-      "end": null,
-      "venue": "Parade route along Moore and Howe Streets, Southport, NC 28461",
-      "description": "Light Up the Night Christmas Parade, sponsored by the Southport Fire Department. Children may board at 5:30 p.m.; parade starts at 6:30 p.m., with Santa following. Public viewing; no attendee registration requirement is listed. Host: City of Southport and Southport Fire Department. End time is not published.",
-      "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
-      "source_name": "City of Southport official Winterfest schedule",
-      "checked_at": "2026-11-21",
-      "status": "published",
       "editor_note": null
     },
     {
@@ -987,20 +1015,6 @@
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest schedule",
       "checked_at": "2026-11-21",
-      "status": "published",
-      "editor_note": null
-    },
-    {
-      "id": "southport-spark-the-season-2026-12-12",
-      "title": "Spark the Season Holiday Party",
-      "category": "Community event",
-      "start": "2026-12-12T13:00:00-05:00",
-      "end": "2026-12-12T17:00:00-05:00",
-      "venue": "Southport Community Building, 223 E. Bay Street, Southport, NC 28461",
-      "description": "Holiday party with Santa, favorite holiday characters, games and music. Hosts: Youth Arts Council and Brunswick Arts Council. Registration and admission details are not stated in the published schedule.",
-      "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
-      "source_name": "City of Southport official Winterfest 2026 schedule",
-      "checked_at": "2026-11-23",
       "status": "published",
       "editor_note": null
     },
@@ -1164,10 +1178,10 @@
       "start": "2026-12-01T18:00:00-05:00",
       "end": null,
       "venue": "Leland Town Hall, 102 Town Hall Drive, Leland, NC 28451",
-      "description": "The Town's November 3 agenda identifies December 1 at 6 p.m. as the next regular Board of Adjustment meeting. The Board hears quasi-judicial requests for variances and appeals of staff determinations. Public meeting; agenda items and end time are not yet published. Host: Town of Leland.",
-      "source_url": "https://townofleland.civicweb.net/document/249539/Board%20of%20Adjustment%20-%2003%20Nov%202026.pdf?handle=08A4DC60D72242868B3476E80E6CD1BD",
-      "source_name": "Town of Leland official Board of Adjustment agenda, November 3, 2026",
-      "checked_at": "2026-11-23",
+      "description": "The agenda includes a quasi-judicial variance hearing under Section 30-90(d)(3) of the Town Code, concerning civic classifications for conservation parks and Brunswick County tax parcel IDs 030OA001, 030OA002, 030OA003, and 030OA004. The agenda also includes approval of amended September 1 and November 3 minutes. Host: Town of Leland. Public meeting; quasi-judicial hearing procedures apply. End time is not published.",
+      "source_url": "https://townofleland.civicweb.net/document/250433/Board%20of%20Adjustment%20-%2001%20Dec%202026.pdf?handle=41B0F26D1DBE4C0595A84BEA67F15FEC",
+      "source_name": "Town of Leland official Board of Adjustment agenda, December 1, 2026",
+      "checked_at": "2026-11-26",
       "status": "published",
       "editor_note": null
     },
@@ -1237,6 +1251,20 @@
       "source_url": "https://www.brunswickcountync.gov/498/Board-of-Commissioners",
       "source_name": "Brunswick County official Board of Commissioners schedule",
       "checked_at": "2026-11-21",
+      "status": "published",
+      "editor_note": null
+    },
+    {
+      "id": "belville-parks-recreation-board-2026-12-09",
+      "title": "Belville Parks and Recreation Board Meeting",
+      "category": "Public meeting",
+      "start": "2026-12-09T18:00:00-05:00",
+      "end": null,
+      "venue": "Westport Lofts Meeting Room, 4th Floor, 1001 Broadbank Drive, Belville, NC 28451",
+      "description": "Monthly public meeting of the Town of Belville Parks and Recreation Board. The Town's 2026 meeting calendar marks December 9; meetings begin at 6 p.m. at Westport Lofts Meeting Room, 4th Floor. Host: Town of Belville. Public meeting; no registration requirement stated. End time is not published.",
+      "source_url": "https://townofbelville.com/wp-content/uploads/2025/12/2026-Parks-and-Recreation-Board-Meeting-Calendar.pdf",
+      "source_name": "Town of Belville official 2026 Parks and Recreation Board calendar and meeting information",
+      "checked_at": "2026-11-26",
       "status": "published",
       "editor_note": null
     },
@@ -1325,16 +1353,16 @@
     },
     {
       "id": "leland-town-council-regular-2026-12-17",
-      "title": "Leland Town Council Regular Meeting",
+      "title": "Leland Town Council Regular Meeting & Public Hearings",
       "category": "Public meeting",
       "start": "2026-12-17T18:00:00-05:00",
       "end": null,
       "venue": "Leland Town Hall Council Chambers, 102 Town Hall Drive, Leland, NC 28451",
-      "description": "Regular meeting of the Leland Town Council. The Town says Council will review eligible applications and vote on appointments to the Leland Tourism Development Authority at this meeting. Host: Town of Leland. Public meeting; no registration requirement stated.",
-      "source_url": "https://www.townofleland.com/m/newsflash/Home/Detail/94",
-      "source_name": "Town of Leland official TDA announcement and Council meeting schedule",
+      "description": "The Town Council will hold three public hearings: a zoning map amendment for parcels along S. Navassa Road adjacent to Sturgeon Creek (proposed Civic and Conservation districts); annexation and initial zoning of part of parcel 029KA008 along Village Road adjacent to the U.S. Post Office (proposed C-1 and R-6); and annexation and initial zoning of parcels 046LB006, 046LB007, 046LB008, and 046LB009 east of I-140 and north of U.S. 17 (proposed R-15). The public is invited to participate; speakers may sign up to speak, and written comments are accepted up to 24 hours before the hearing. Host: Town of Leland. Public meeting; no registration required.",
+      "source_url": "https://www.townofleland.com/273/Public-Hearings",
+      "source_name": "Town of Leland official public hearing notices",
       "status": "published",
-      "checked_at": "2026-11-15"
+      "checked_at": "2026-11-26"
     },
     {
       "id": "wmpo-stip-mpo-amendment-26-8-comment-deadline-2026-12-18",
@@ -1419,20 +1447,6 @@
       "status": "published",
       "checked_at": "2026-10-18",
       "editor_note": "Confirmed on the official NC DNCR site."
-    },
-    {
-      "id": "leland-in-lights-nightly-display-2026",
-      "title": "Leland in Lights — Nightly Holiday Display",
-      "category": "Community event",
-      "start": "2026-11-20T18:00:00-05:00",
-      "end": "2027-01-03T20:00:00-05:00",
-      "venue": "Founders Park, 113 Town Hall Drive, Leland, NC 28451",
-      "description": "Free holiday light display open nightly at dusk through January 3, 2027. The Brunswick County Tourism Development Authority lists nightly hours of 6–8 p.m. Additional programming on selected dates includes Leland Express train rides, food trucks, live entertainment, movies and Santa visits; consult the Town's schedule for those dates. Host: Town of Leland. No registration required for the light display.",
-      "source_url": "https://www.ncbrunswick.com/event/leland-in-lights/2085/",
-      "source_name": "Brunswick County Tourism Development Authority official event listing, corroborated by Town of Leland official schedule",
-      "status": "published",
-      "checked_at": "2026-11-25",
-      "editor_note": null
     }
   ]
 }
