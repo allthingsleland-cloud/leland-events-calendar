@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-11-26",
+  "last_checked": "2026-11-27",
   "events": [
     {
       "id": "leland-in-lights-nightly-display-2026",
@@ -81,7 +81,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -189,7 +189,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -320,7 +320,7 @@
       "description": "Free guided play group for children ages 0–5 and the adults who care for them. Families are asked to complete a registration form in advance or on site; English and Spanish forms are available. Host: Smart Start of Brunswick County.",
       "source_url": "https://www.smartstartbrunswick.org/event/kaleidoscope-play-learn-leland-nc-2-2023-09-20-2/2026-12-01/",
       "source_name": "Smart Start of Brunswick County official event listing",
-      "checked_at": "2026-11-26",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -389,8 +389,22 @@
       "description": "Free guided play group for children ages 0–5 and the adults who care for them. Families are asked to complete a registration form in advance or on site; English and Spanish forms are available. Host: Smart Start of Brunswick County.",
       "source_url": "https://www.smartstartbrunswick.org/event/kaleidoscope-play-learn-leland-nc/2026-12-02/",
       "source_name": "Smart Start of Brunswick County official event listing",
-      "checked_at": "2026-11-26",
+      "checked_at": "2026-11-27",
       "status": "published",
+      "editor_note": null
+    },
+    {
+      "id": "kaleidoscope-play-learn-southport-2026-12-02",
+      "title": "Kaleidoscope Play & Learn — Southport",
+      "category": "Community event",
+      "start": "2026-12-02T09:30:00-05:00",
+      "end": "2026-12-02T11:00:00-05:00",
+      "venue": "Southport Presbyterian Church, 1025 East Moore Street, Southport, NC 28461",
+      "description": "Free guided play group for children ages 0–5 and their caregivers. Families are asked to complete a registration form in advance or on site; English and Spanish forms are available. Host: Smart Start of Brunswick County.",
+      "source_url": "https://www.smartstartbrunswick.org/event/kaleidoscope-play-learn-southport-nc/2026-12-02/",
+      "source_name": "Smart Start of Brunswick County official event listing",
+      "status": "published",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -405,6 +419,48 @@
       "source_name": "City of Wilmington official events calendar",
       "status": "published",
       "checked_at": "2026-11-22"
+    },
+    {
+      "id": "smart-start-its-sids-virtual-2026-12-02",
+      "title": "ITS/SIDS — Infant & Toddler Safe Sleep Training (Virtual)",
+      "category": "Community event",
+      "start": "2026-12-02T18:30:00-05:00",
+      "end": "2026-12-02T20:30:00-05:00",
+      "venue": "Zoom (online)",
+      "description": "Virtual training on Sudden Infant Death Syndrome, safe-sleep policies, risk factors and response procedures for an unresponsive infant. Two training credit hours. Cost: $10; registration is required by November 30 at 5 p.m. Host: Smart Start of Brunswick County; presenter: Jon Hartman.",
+      "source_url": "https://www.smartstartbrunswick.org/event/infant-toddler-safe-sleep-and-sids-risk-reduction-in-child-care-3/",
+      "source_name": "Smart Start of Brunswick County official event listing",
+      "status": "published",
+      "checked_at": "2026-11-27",
+      "editor_note": null
+    },
+    {
+      "id": "kaleidoscope-play-learn-ash-2026-12-03",
+      "title": "Kaleidoscope Play & Learn — Ash",
+      "category": "Community event",
+      "start": "2026-12-03T09:30:00-05:00",
+      "end": "2026-12-03T11:00:00-05:00",
+      "venue": "Longwood Baptist Church, 2530 Longwood Road NW, Ash, NC 28420",
+      "description": "Free guided play group for children ages 0–5 and their caregivers. Families are asked to complete a registration form in advance or on site; English and Spanish forms are available. Host: Smart Start of Brunswick County.",
+      "source_url": "https://www.smartstartbrunswick.org/event/kaleidoscope-play-learn-ash-nc-2/2026-12-03/",
+      "source_name": "Smart Start of Brunswick County official event listing",
+      "status": "published",
+      "checked_at": "2026-11-27",
+      "editor_note": null
+    },
+    {
+      "id": "kaleidoscope-play-learn-southport-2026-12-03",
+      "title": "Kaleidoscope Play & Learn — Southport",
+      "category": "Community event",
+      "start": "2026-12-03T09:30:00-05:00",
+      "end": "2026-12-03T11:00:00-05:00",
+      "venue": "Southport Presbyterian Church, 1025 East Moore Street, Southport, NC 28461",
+      "description": "Free guided play group for children ages 0–5 and their caregivers. Families are asked to complete a registration form in advance or on site; English and Spanish forms are available. Host: Smart Start of Brunswick County.",
+      "source_url": "https://www.smartstartbrunswick.org/event/kaleidoscope-play-learn-southport-nc/2026-12-03/",
+      "source_name": "Smart Start of Brunswick County official event listing",
+      "status": "published",
+      "checked_at": "2026-11-27",
+      "editor_note": null
     },
     {
       "id": "italian-language-learners-club-swb-2026-12-03",
@@ -430,8 +486,23 @@
       "description": "Free evening of Leland in Lights. Leland Express train rides run 5:30-8:30 p.m.; food trucks are Old South Pretzels and Chocolate & S'more. Host: Town of Leland. No registration required.",
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-27",
       "status": "published",
+      "editor_note": null
+    },
+    {
+      "id": "southport-storefront-showcase-2026-12-04-13",
+      "title": "Southport Winterfest Storefront Showcase & Public Voting",
+      "category": "Community event",
+      "start": "2026-12-04T00:00:00-05:00",
+      "end": "2026-12-13T23:59:00-05:00",
+      "all_day": true,
+      "venue": "Participating storefronts and homes within Southport city limits; follow the online Showcase Map",
+      "description": "Sixth annual holiday decorating showcase. Residents and visitors can use the online map to visit participating storefronts and vote in five categories from December 4–13. Businesses and homes within City limits could register by November 30 and were asked to have decorations up by December 3. Winners are to be announced December 15. Public voting; no attendee registration is required. Host: Winterfest Committee / City of Southport.",
+      "source_url": "https://www.exploresouthportnc.gov/storefront_showcase.php",
+      "source_name": "City of Southport official Storefront Showcase page",
+      "status": "published",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -556,7 +627,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -583,7 +654,7 @@
       "description": "Downtown Southport Tree Lighting. The Mayor lights the tree with Trinity Children's and Southport Baptist Church choirs; treats from Beautiful Bean. Host: City of Southport. No registration requirement is listed; end time is not published.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest schedule",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -599,6 +670,21 @@
       "source_name": "Wilmington and Beaches CVB official event listing",
       "status": "published",
       "checked_at": "2026-11-21",
+      "editor_note": null
+    },
+    {
+      "id": "library-lego-play-swb-2026-12-05",
+      "title": "Lego & Play — Free Play",
+      "category": "Community event",
+      "start": "2026-12-05T00:00:00-05:00",
+      "end": "2026-12-05T23:59:00-05:00",
+      "all_day": true,
+      "venue": "Southwest Brunswick Branch Library, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "All-day free-play session with the library's collection of Legos in the center pit. Intended for children ages 6–11. No registration requirement is listed. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/17479829",
+      "source_name": "Brunswick County Public Library official LibCal event listing",
+      "status": "published",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -671,6 +757,20 @@
       "editor_note": null
     },
     {
+      "id": "southport-shop-with-a-cop-concert-2026-12-05",
+      "title": "Shop-with-a-Cop Concert Fundraiser",
+      "category": "Community event",
+      "start": "2026-12-05T13:00:00-05:00",
+      "end": "2026-12-05T19:00:00-05:00",
+      "venue": "Cape Side Brewing, 511 N. Howe Street, Southport, NC 28461",
+      "description": "Southport Police Department fundraiser concert during Winterfest. The City's published schedule lists performances by 2 Lane / Jacob Burgess, followed by Break Free Band. Admission and attendee registration details are not specified.",
+      "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
+      "source_name": "City of Southport official Winterfest 2026 schedule",
+      "status": "published",
+      "checked_at": "2026-11-27",
+      "editor_note": "The City's published schedule resolves the previously conflicting time: 1–7 p.m."
+    },
+    {
       "id": "oak-island-christmas-by-the-sea-parade-2026-12-05",
       "title": "Christmas by the Sea Parade",
       "category": "Community event",
@@ -694,7 +794,7 @@
       "description": "Family STEM program during Southport Winterfest. Children and families can design and decorate gingerbread creations, explore the science of energy, and meet Santa; free photos with Santa are offered. Host: Brunswick Nuclear Plant / Brunswick Energy & Education Center. No registration requirement is listed; end time is not published.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest 2026 schedule",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -736,7 +836,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -791,9 +891,23 @@
       "description": "Bring pets for a holiday photo with Santa, with pet-friendly activities and treats while waiting. Donations are accepted for a framed photo. Hosts: City of Southport Animal Protective Services and Southport Police Department. No registration requirement is listed.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest 2026 schedule",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
+    },
+    {
+      "id": "kaleidoscope-special-event-winnabow-2026-12-07",
+      "title": "Kaleidoscope Play & Learn Special Event — Winnabow",
+      "category": "Community event",
+      "start": "2026-12-07T09:30:00-05:00",
+      "end": "2026-12-07T11:00:00-05:00",
+      "venue": "Town Creek Park, 6420 Ocean Highway E, Winnabow, NC 28479",
+      "description": "Smart Start lists a special Kaleidoscope Play & Learn event at Town Creek Park. The published listing confirms the date, time and location but says additional details are forthcoming; registration and cost are not stated. Host: Smart Start of Brunswick County.",
+      "source_url": "https://www.smartstartbrunswick.org/event/kaleidoscope-play-and-learn-special-events/2026-12-07/",
+      "source_name": "Smart Start of Brunswick County official event listing",
+      "status": "published",
+      "checked_at": "2026-11-27",
+      "editor_note": "The organizer says more program details are coming; date, time and venue are published."
     },
     {
       "id": "southport-santas-workshop-2026-12-08",
@@ -805,7 +919,7 @@
       "description": "Children can make ornaments, enjoy cookies and take part in holiday crafts. Host: Associated Artists of Southport at Franklin Square Gallery. Registration and admission details are not stated in the published schedule.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest 2026 schedule",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -819,7 +933,7 @@
       "description": "Free evening walk-through of dozens of lit and decorated Christmas trees, with children's crafts and games, caroling, refreshments and visits from Santa and/or the Grinch. Host: Southport Garden Club. No registration requirement is listed.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest 2026 schedule",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -847,9 +961,51 @@
       "description": "Annual Breakfast with Santa for children with special needs, featuring breakfast, crafts and photos with Santa. Registration is required; contact Tonya Hamilton at 910-945-6043 or Patricia Ungerer at 910-553-8360. Host: Brunswick County Local Interagency Coordinating Council.",
       "source_url": "https://www.smartstartbrunswick.org/event/brunswick-county-local-interagency-coordinating-council-breakfast-with-santa/",
       "source_name": "Smart Start of Brunswick County official event listing",
-      "checked_at": "2026-11-26",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
+    },
+    {
+      "id": "library-childrens-story-time-swb-2026-12-09",
+      "title": "Children's Story Time — Southwest Brunswick Branch Library",
+      "category": "Community event",
+      "start": "2026-12-09T10:30:00-05:00",
+      "end": "2026-12-09T11:30:00-05:00",
+      "venue": "Southwest Brunswick Branch Library, Meeting Room 127, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "Stories and activities for preschool and kindergarten children ages 3–5. No registration required. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/15621127",
+      "source_name": "Brunswick County Public Library official LibCal event listing",
+      "status": "published",
+      "checked_at": "2026-11-27",
+      "editor_note": null
+    },
+    {
+      "id": "southport-state-port-pilot-cookie-contest-2026-12-09",
+      "title": "State Port Pilot Annual Cookie Contest",
+      "category": "Community event",
+      "start": "2026-12-09T15:00:00-05:00",
+      "end": "2026-12-09T17:00:00-05:00",
+      "venue": "Southport Community Building, 223 E. Bay Street, Southport, NC 28461",
+      "description": "Annual cookie contest as part of Southport Winterfest. The published schedule lists cookies@stateportpilot.com as the contact; entry and registration requirements are not specified. Host: State Port Pilot.",
+      "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
+      "source_name": "City of Southport official Winterfest 2026 schedule",
+      "status": "published",
+      "checked_at": "2026-11-27",
+      "editor_note": "The City's published schedule resolves the previously conflicting time: 3–5 p.m."
+    },
+    {
+      "id": "kaleidoscope-special-event-shallotte-2026-12-10",
+      "title": "Kaleidoscope Play & Learn Special Event — Shallotte",
+      "category": "Community event",
+      "start": "2026-12-10T09:30:00-05:00",
+      "end": "2026-12-10T11:00:00-05:00",
+      "venue": "Mulberry Park, 123 Mulberry Street, Shallotte, NC 28470",
+      "description": "Smart Start lists a special Kaleidoscope Play & Learn event at Mulberry Park. The published listing confirms the date, time and location but says additional details are forthcoming; registration and cost are not stated. Host: Smart Start of Brunswick County.",
+      "source_url": "https://www.smartstartbrunswick.org/event/kaleidoscope-play-and-learn-special-events/2026-12-10/",
+      "source_name": "Smart Start of Brunswick County official event listing",
+      "status": "published",
+      "checked_at": "2026-11-27",
+      "editor_note": "The organizer says more program details are coming; date, time and venue are published."
     },
     {
       "id": "leland-in-lights-train-rides-food-trucks-2026-12-10",
@@ -861,7 +1017,7 @@
       "description": "Free evening of Leland in Lights. Leland Express train rides run 5:30-8:30 p.m.; food trucks are Roadside Revival and Chocolate & S'more. Host: Town of Leland. No registration required.",
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -875,7 +1031,7 @@
       "description": "Holiday open house at the Friends of the Library bookstore, with hot cider, cookies, books outside and additional treasures inside. Proceeds support local library programs. Host: Friends of the Library Southport & Oak Island. No registration requirement is listed.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest 2026 schedule",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -889,7 +1045,7 @@
       "description": "Guided walking tour of ten participating properties, including nine decorated homes and a historic church. Guests gather at 1 p.m.; the tour runs 1:30–5 p.m., followed by a reception from 5–5:30 p.m. Tickets are $75; Friday tickets were listed as available when checked. The route covers about two miles and requires sustained walking/standing. Hosts: Southport Historical Society and Downtown Southport, Inc.",
       "source_url": "https://southporthistoricalsociety.org/programs/holiday-home-tour-2026/",
       "source_name": "Southport Historical Society official 2026 Holiday Tour of Homes page",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -918,7 +1074,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -931,9 +1087,38 @@
       "description": "Southport's annual fire-engine Christmas parade begins at 6:30 p.m. Children may board fire engines at the Southport Fire Station beginning at 5:30 p.m.; Santa will be at the station after the parade. Host: Southport Fire Department. Free public viewing; no registration required for spectators. End time is not published.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest 2026 schedule",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
+    },
+    {
+      "id": "library-lego-play-swb-2026-12-12",
+      "title": "Lego & Play — Free Play",
+      "category": "Community event",
+      "start": "2026-12-12T00:00:00-05:00",
+      "end": "2026-12-12T23:59:00-05:00",
+      "all_day": true,
+      "venue": "Southwest Brunswick Branch Library, 9400 Ocean Highway W, Carolina Shores, NC 28467",
+      "description": "All-day free-play session with the library's collection of Legos in the center pit. Intended for children ages 6–11. No registration requirement is listed. Host: Brunswick County Public Library.",
+      "source_url": "https://brunsco.libcal.com/event/17479829",
+      "source_name": "Brunswick County Public Library official LibCal event listing",
+      "status": "published",
+      "checked_at": "2026-11-27",
+      "editor_note": null
+    },
+    {
+      "id": "salty-sprouts-saturday-at-the-cove-2026-12-12",
+      "title": "Salty Sprouts — Saturday at the Cove",
+      "category": "Community event",
+      "start": "2026-12-12T08:00:00-05:00",
+      "end": "2026-12-12T11:00:00-05:00",
+      "venue": "Smart Start of Brunswick County — Bolivia Office, 926 Old Ocean Highway, Unit C, Bolivia, NC 28422",
+      "description": "Salty Sprouts Resource Cove will be open for special hours. Families can stop by to sign up and browse available materials. Smart Start's special-events calendar also lists a Kaleidoscope Play & Learn activity at this same time and location; it is consolidated here to avoid a duplicate. Host: Smart Start of Brunswick County.",
+      "source_url": "https://www.smartstartbrunswick.org/event/salty-sprouts-saturday-at-the-cove/2026-12-12/",
+      "source_name": "Smart Start of Brunswick County official event listing",
+      "status": "published",
+      "checked_at": "2026-11-27",
+      "editor_note": "The separate KPL special-events listing gives the same date, time and venue; treated as one combined entry pending further details."
     },
     {
       "id": "southport-winter-craft-festival-2026-12-12",
@@ -945,7 +1130,7 @@
       "description": "Winter Craft Festival featuring handmade arts and crafts, winter vegetables, flowers, baked goods, honey, jellies and pickles. Organized by the City of Southport Community Relations Department. Public event; no registration requirement is listed.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest schedule",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -959,7 +1144,7 @@
       "description": "Winterfest Performing Arts program. The Dusty Quad with special guest David Condron performs 11 a.m.-1 p.m., followed by TrebleMakers. Sponsored by Up Your Arts as part of City of Southport Winterfest. No registration requirement is listed.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest schedule",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -987,7 +1172,7 @@
       "description": "Train and toy show listed as part of the City of Southport's Winterfest schedule. Host, admission and registration details are not specified in the published schedule.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest 2026 schedule",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -1001,7 +1186,7 @@
       "description": "Family afternoon of games, crafts, music, holiday characters, Santa, snacks, drinks, an ugly sweater contest and photo booth. Hosted by Youth Arts Council and Brunswick Arts Council. Donations of cash or canned/boxed food are invited to support local nonprofits; no registration requirement is listed.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest schedule",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -1016,7 +1201,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -1029,7 +1214,7 @@
       "description": "Annual Winterfest boat parade along the Southport waterfront. Free public viewing; bring chairs or blankets. Route runs from Old American Fish toward a lighted buoy near Kingsley Street Park and back, weather permitting. Hosts: Cape Fear Yacht Club, Downtown Southport Inc. and City of Southport. End time is not published.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest schedule",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -1043,7 +1228,7 @@
       "description": "Free evening of Leland in Lights. Leland Express train rides run 5:30-8:30 p.m.; food trucks are Sergeant Spuds and Common Tides. Host: Town of Leland. No registration required.",
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -1072,7 +1257,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -1086,7 +1271,7 @@
       "source_url": "https://www.townofleland.com/392/Leland-in-Lights",
       "source_name": "Town of Leland official Leland in Lights schedule",
       "status": "published",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -1155,7 +1340,7 @@
       "source_url": "https://www.bcswan.net/school-board/board-agendas-and-minutes",
       "source_name": "Brunswick County Schools Board of Education",
       "status": "published",
-      "checked_at": "2026-11-19",
+      "checked_at": "2026-11-27",
       "editor_note": null
     },
     {
@@ -1237,7 +1422,7 @@
       "description": "Regular public meeting of the Brunswick County Board of Commissioners. Regular meetings are scheduled for the first Monday at 3 p.m. Public comment is available; speakers should sign in. Host: Brunswick County. End time is not published.",
       "source_url": "https://www.brunswickcountync.gov/498/Board-of-Commissioners",
       "source_name": "Brunswick County official Board of Commissioners schedule",
-      "checked_at": "2026-11-21",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -1251,7 +1436,7 @@
       "description": "Monthly public meeting of the Town of Belville Parks and Recreation Board. The Town's 2026 meeting calendar marks December 9; meetings begin at 6 p.m. at Westport Lofts Meeting Room, 4th Floor. Host: Town of Belville. Public meeting; no registration requirement stated. End time is not published.",
       "source_url": "https://townofbelville.com/wp-content/uploads/2025/12/2026-Parks-and-Recreation-Board-Meeting-Calendar.pdf",
       "source_name": "Town of Belville official 2026 Parks and Recreation Board calendar and meeting information",
-      "checked_at": "2026-11-26",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -1265,7 +1450,7 @@
       "description": "Regular meeting of the County Zoning Board of Adjustment, which hears quasi-judicial matters including variances, special-use permits and appeals. Public meeting; agenda and end time are not yet published. Host: Brunswick County. No registration required.",
       "source_url": "https://brunswickcountync.gov/571/Zoning-Board-of-Adjustment",
       "source_name": "Brunswick County official Zoning Board of Adjustment schedule",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
@@ -1417,7 +1602,7 @@
       "description": "Special holiday opening of the historic jail museum, decorated for Christmas. Free tours; donations are appreciated. Host: Southport Historical Society, which maintains the museum. No registration requirement is listed.",
       "source_url": "https://www.exploresouthportnc.gov/winterfest.php",
       "source_name": "City of Southport official Winterfest 2026 schedule",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-27",
       "status": "published",
       "editor_note": null
     },
